@@ -1,5 +1,6 @@
 package org.example.springbootapi.models;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
@@ -13,4 +14,6 @@ public class Usuario {
     private String apellidos;
     private String email;
     private String telefono;
+    @JsonIgnore
+    private String token;
 }
