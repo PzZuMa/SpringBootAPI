@@ -38,7 +38,7 @@
     </ul>
     <h2 id="acceso">Acceso a la API</h2>
     <p>Para acceder a esta API se realiza accediendo al siguiente enlace de internet:</p>
-    <pre><code>https://render.com</code></pre>
+    <pre><code>https://apiturismo-sjtd.onrender.com</code></pre>
     <h2 id="autenticacion">Autenticación</h2>
     <p>La API utiliza tokens para validar las solicitudes protegidas.Todos los endpoints de modificación (POST, PUT, DELETE) requieren autenticación mediante un token como parámetro:</p>
     <pre><code>?token=tu-token-de-autenticacion</code></pre>
