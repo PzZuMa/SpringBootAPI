@@ -12,6 +12,6 @@ public class POI {
     private String ciudad;
     private String horario_apertura;
     private String nombre;
-    private Double precio_entrada;
+    private Double precio;
     private String tipo;
 }

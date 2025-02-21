@@ -90,31 +90,33 @@ public class VueloController {
         return new ResponseEntity<>(vuelo, HttpStatus.OK);
     }
 
-    @GetMapping("/{origen}")
-    public ResponseEntity<List<Vuelo>> getVueloByOrigen(@PathVariable String origen, @RequestParam String token) {
-        if (!securityService.requestValidation(token)) {
-            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+    @GetMapping("/origen/{origen}")
+    public ResponseEntity<List<Vuelo>> getVueloByOrigen(@PathVariable String origen) {
+        List<Vuelo> resultado = vuelosRepository.findByOrigen(origen);
+        if (resultado.isEmpty()) {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
 
-        return new ResponseEntity<>(vuelosRepository.findByOrigen(origen),HttpStatus.OK);
+        return new ResponseEntity<>(resultado,HttpStatus.OK);
     }
 
-    @GetMapping("/{destino}")
-    public ResponseEntity<List<Vuelo>> getVueloByDestino(@PathVariable String destino, @RequestParam String token) {
-        if (!securityService.requestValidation(token)) {
-            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+    @GetMapping("/destino/{destino}")
+    public ResponseEntity<List<Vuelo>> getVueloByDestino(@PathVariable String destino) {
+        List<Vuelo> resultado = vuelosRepository.findByDestino(destino);
+        if (resultado.isEmpty()) {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
 
-        return new ResponseEntity<>(vuelosRepository.findByDestino(destino),HttpStatus.OK);
+        return new ResponseEntity<>(resultado,HttpStatus.OK);
     }
 
-    @GetMapping("/{duracionAfter}&{duracionBefore}")
-    public ResponseEntity<List<Vuelo>> getVueloByDuracionIsBetween(@PathVariable Integer duracionAfter, @PathVariable Integer duracionBefore, @RequestParam String token) {
-        if  (!securityService.requestValidation(token)) {
-            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+    @GetMapping("/duracion/{duracionAfter}&{duracionBefore}")
+    public ResponseEntity<List<Vuelo>> getVueloByDuracionIsBetween(@PathVariable Integer duracionAfter, @PathVariable Integer duracionBefore) {
+        List<Vuelo> resultado = vuelosRepository.findByDuracionBetween(duracionAfter, duracionBefore);
+        if (resultado.isEmpty()) {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
-
-        return new ResponseEntity<>(vuelosRepository.findByDuracionIsBetween(duracionAfter, duracionBefore), HttpStatus.OK);
+        return new ResponseEntity<>(resultado, HttpStatus.OK);
     }
 
     @PostMapping("/reserva/{id}")

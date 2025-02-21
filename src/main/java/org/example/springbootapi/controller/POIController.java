@@ -90,31 +90,34 @@ public class POIController {
         return new ResponseEntity<>(poi, HttpStatus.OK);
     }
 
-    @GetMapping("/{ciudad}")
-    public ResponseEntity<List<POI>> getPOIbyCiudad(@PathVariable String ciudad, @RequestParam String token) {
-        if (!securityService.requestValidation(token)) {
-            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+    @GetMapping("/ciudad/{ciudad}")
+    public ResponseEntity<List<POI>> getPOIbyCiudad(@PathVariable String ciudad) {
+        List<POI> resultado = poiRepository.findByCiudad(ciudad);
+        if (resultado.isEmpty()) {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
 
-        return new ResponseEntity<>(poiRepository.findByCiudad(ciudad),HttpStatus.OK);
+        return new ResponseEntity<>(resultado,HttpStatus.OK);
     }
 
-    @GetMapping("/{tipo}")
-    public ResponseEntity<List<POI>> getPOIbyTipo(@PathVariable String tipo, @RequestParam String token) {
-        if (!securityService.requestValidation(token)) {
-            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+    @GetMapping("/tipo/{tipo}")
+    public ResponseEntity<List<POI>> getPOIbyTipo(@PathVariable String tipo) {
+        List<POI> resultado = poiRepository.findByTipo(tipo);
+        if (resultado.isEmpty()) {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
 
-        return new ResponseEntity<>(poiRepository.findByTipo(tipo),HttpStatus.OK);
+        return new ResponseEntity<>(resultado,HttpStatus.OK);
     }
 
-    @GetMapping("/{precioAfter}&{precioBefore}")
-    public ResponseEntity<List<POI>> getPOIbyPrecioIsBetween(@PathVariable Double precioAfter, @PathVariable Double precioBefore, @RequestParam String token) {
-        if  (!securityService.requestValidation(token)) {
-            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+    @GetMapping("/precio/{precioAfter}&{precioBefore}")
+    public ResponseEntity<List<POI>> getPOIbyPrecioIsBetween(@PathVariable Double precioAfter, @PathVariable Double precioBefore) {
+        List<POI> resultado = poiRepository.findByPrecioBetween(precioAfter, precioBefore);
+        if (resultado.isEmpty()) {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
 
-        return new ResponseEntity<>(poiRepository.findByPrecio_entradaIsBetween(precioAfter, precioBefore), HttpStatus.OK);
+        return new ResponseEntity<>(resultado, HttpStatus.OK);
     }
 
     @PostMapping("/reserva/{id}")

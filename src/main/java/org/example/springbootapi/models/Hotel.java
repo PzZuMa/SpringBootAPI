@@ -14,6 +14,6 @@ public class Hotel {
     private String email;
     private Integer estrellas;
     private String nombre;
-    private Double precio_noche;
+    private Double precio;
     private String telefono;
 }

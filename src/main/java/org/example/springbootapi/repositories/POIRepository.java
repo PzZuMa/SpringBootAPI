@@ -8,5 +8,5 @@ import java.util.List;
 public interface POIRepository extends MongoRepository<POI, String> {
     List<POI> findByCiudad(String ciudad);
     List<POI> findByTipo(String tipo);
-    List<POI> findByPrecio_entradaIsBetween(Double precioAfter, Double precioBefore);
- }
+    List<POI> findByPrecioBetween(Double min, Double max);
+}
