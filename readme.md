@@ -44,7 +44,23 @@
         }
     ]
     </code></pre>
-    <h4>1.2 Crear un nuevo hotel</h4>
+    <h4>1.2 Obtener un hotel por su ID</h4>
+    <p><strong>Método:</strong> GET</p>
+    <p><strong>URL:</strong> /api/hoteles/{id}</p>
+    <p><strong>Descripción:</strong> Obtén la información detalla de un hotel de la base de datos mediante su ID.</p>
+    <pre><code>
+    {
+        "_id":"67b386a55d15acb64c088666"
+        "nombre": "Hnos Nicolau S.L. Hotel",
+        "ciudad": "Málaga",
+        "direccion":"Glorieta Goyo Sanabria 36",
+        "telefono":"+34886 731 781",
+        "email":"alcoleaciro@distribuciones.net"
+        "estrellas": 5,
+        "precioPorNoche": 121.77
+    }
+    </code></pre>
+    <h4>1.3 Crear un nuevo hotel</h4>
     <p><strong>Método:</strong> POST</p>
     <p><strong>URL:</strong> /api/hoteles</p>
     <p><strong>Descripción:</strong> Crea un nuevo hotel en la base de datos.</p>
@@ -56,7 +72,7 @@
         "precioPorNoche": 90.0
     }
     </code></pre>
-    <h4>1.3 Actualizar un hotel existente</h4>
+    <h4>1.4 Actualizar un hotel existente</h4>
     <p><strong>Método:</strong> PUT</p>
     <p><strong>URL:</strong> /api/hoteles/{id}</p>
     <p><strong>Descripción:</strong> Actualiza los detalles de un hotel existente.</p>
@@ -66,7 +82,7 @@
         "precioPorNoche": 95.0
     }
     </code></pre>
-    <h4>1.4 Eliminar un hotel</h4>
+    <h4>1.5 Eliminar un hotel</h4>
     <p><strong>Método:</strong> DELETE</p>
     <p><strong>URL:</strong> /api/hoteles/{id}</p>
     <p><strong>Descripción:</strong> Elimina un hotel por su ID.</p>
@@ -75,7 +91,7 @@
         "mensaje": "Hotel eliminado exitosamente"
     }
     </code></pre>
-    <h4>1.5 Reservar un hotel</h4>
+    <h4>1.6 Reservar un hotel</h4>
     <p><strong>Método:</strong> POST</p>
     <p><strong>URL:</strong> /api/hoteles/reserva/{id}</p>
     <p><strong>Descripción:</strong> Realiza una reserva para un hotel específico.</p>
