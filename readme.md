@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documentación de la API</title>
 </head>
 <body>
     <h1>Documentación de la API</h1>
