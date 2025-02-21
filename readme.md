@@ -6,30 +6,46 @@
 </head>
 <body>
     <h1>Documentación de la API</h1>
-    <h2>Descripción</h2>
+    <div class="indice">
+        <h2>Índice de Contenidos</h2>
+        <ul>
+            <li><a href="#descripcion">Descripción</a></li>
+            <li><a href="#tecnologias">Tecnologías Utilizadas</a></li>
+            <li><a href="#acceso">Acceso a la API</a></li>
+            <li><a href="#autenticacion">Autenticación</a></li>
+            <li><a href="#endpoints">Endpoints</a>
+                <ul>
+                    <li><a href="#hoteles">1. Hoteles</a></li>
+                    <li><a href="#pois">2. Puntos de Interés (POIs)</a></li>
+                    <li><a href="#vuelos">3. Vuelos</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <h2 id="descripcion">Descripción</h2>
     <p>Esta API proporciona acceso a información y funcionalidades relacionadas con:</p>
     <ul>
         <li><strong>Hoteles:</strong> Consulta, creación, actualización y eliminación de hoteles, así como reservas asociadas.</li>
         <li><strong>Vuelos:</strong> Consulta, creación, actualización y eliminación de vuelos, así como reservas asociadas.</li>
         <li><strong>Puntos de Interés (POIs):</strong> Consulta, creación, actualización y eliminación de puntos de interés, así como reservas asociadas</li>
     </ul>
-    <h2>Tecnologías Utilizadas</h2>
+    <h2 id="tecnologias">Tecnologías Utilizadas</h2>
     <ul>
         <li>Java (Spring Boot)</li>
         <li>MongoDB (Base de datos)</li>
         <li>Thymeleaf (para vistas HTML)</li>
         <li>Maven (gestión de dependencias)</li>
     </ul>
-    <h2>Acceso a la API</h2>
+    <h2 id="acceso">Acceso a la API</h2>
     <p>Para acceder a esta API se realiza accediendo al siguiente enlace de internet:</p>
     <pre><code>https://render.com</code></pre>
-    <h2>Autenticación</h2>
+    <h2 id="autenticacion">Autenticación</h2>
     <p>La API utiliza tokens para validar las solicitudes protegidas.Todos los endpoints de modificación (POST, PUT, DELETE) requieren autenticación mediante un token como parámetro:</p>
     <pre><code>?token=tu-token-de-autenticacion</code></pre>
-    <h2>Endpoints</h2>
+    <h2 id="endpoints">Endpoints</h2>
     <p>Para acceder a la interfaz gráfica de la API accede mediante el sigueinte endpoint:</p>
     <pre><code>https://render.com/api/</code></pre>
-    <h3>1. Hoteles</h3>
+    <h3 id="hoteles">1. Hoteles</h3>
     <h4>1.1 Listar todos los hoteles</h4>
     <p><strong>Método:</strong> GET</p>
     <p><strong>URL:</strong> /api/hoteles</p>
@@ -205,7 +221,7 @@
       }
     }
     </code></pre>
-    <h3>2. Puntos de Interés (POIs)</h3>
+    <h3 id="pois">2. Puntos de Interés (POIs)</h3>
     <h4>2.1 Listar todos los puntos de interés</h4>
     <p><strong>Método:</strong> GET</p>
     <p><strong>URL:</strong> /api/pois/</p>
@@ -376,7 +392,7 @@
         }
     }
     </code></pre>
-    <h3>3. Vuelos</h3>
+    <h3 id="vuelos">3. Vuelos</h3>
     <h4>3.1 Listar todos los vuelos</h4>
     <p><strong>Método:</strong> GET</p>
     <p><strong>URL:</strong> /api/vuelos/</p>
