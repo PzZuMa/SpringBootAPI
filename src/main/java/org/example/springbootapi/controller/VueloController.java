@@ -1,6 +1,7 @@
 package org.example.springbootapi.controller;
 
 import org.example.springbootapi.SecurityService;
+import org.example.springbootapi.models.POI;
 import org.example.springbootapi.models.Usuario;
 import org.example.springbootapi.models.Vuelo;
 import org.example.springbootapi.repositories.UsuarioRepository;
@@ -87,6 +88,33 @@ public class VueloController {
         vuelo.set_id(id);
         vuelosRepository.save(vuelo);
         return new ResponseEntity<>(vuelo, HttpStatus.OK);
+    }
+
+    @GetMapping("/{origen}")
+    public ResponseEntity<List<Vuelo>> getVueloByOrigen(@PathVariable String origen, @RequestParam String token) {
+        if (!securityService.requestValidation(token)) {
+            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+        }
+
+        return new ResponseEntity<>(vuelosRepository.findByOrigen(origen),HttpStatus.OK);
+    }
+
+    @GetMapping("/{destino}")
+    public ResponseEntity<List<Vuelo>> getVueloByDestino(@PathVariable String destino, @RequestParam String token) {
+        if (!securityService.requestValidation(token)) {
+            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+        }
+
+        return new ResponseEntity<>(vuelosRepository.findByDestino(destino),HttpStatus.OK);
+    }
+
+    @GetMapping("/{duracionAfter}&{duracionBefore}")
+    public ResponseEntity<List<Vuelo>> getVueloByDuracionIsBetween(@PathVariable Integer duracionAfter, @PathVariable Integer duracionBefore, @RequestParam String token) {
+        if  (!securityService.requestValidation(token)) {
+            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+        }
+
+        return new ResponseEntity<>(vuelosRepository.findByDuracionIsBetween(duracionAfter, duracionBefore), HttpStatus.OK);
     }
 
     @PostMapping("/reserva/{id}")

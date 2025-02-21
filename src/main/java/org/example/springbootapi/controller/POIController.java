@@ -1,6 +1,7 @@
 package org.example.springbootapi.controller;
 
 import org.example.springbootapi.SecurityService;
+import org.example.springbootapi.models.Hotel;
 import org.example.springbootapi.models.POI;
 import org.example.springbootapi.models.Usuario;
 import org.example.springbootapi.repositories.POIRepository;
@@ -87,6 +88,33 @@ public class POIController {
         poi.set_id(id);
         poiRepository.save(poi);
         return new ResponseEntity<>(poi, HttpStatus.OK);
+    }
+
+    @GetMapping("/{ciudad}")
+    public ResponseEntity<List<POI>> getPOIbyCiudad(@PathVariable String ciudad, @RequestParam String token) {
+        if (!securityService.requestValidation(token)) {
+            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+        }
+
+        return new ResponseEntity<>(poiRepository.findByCiudad(ciudad),HttpStatus.OK);
+    }
+
+    @GetMapping("/{tipo}")
+    public ResponseEntity<List<POI>> getPOIbyTipo(@PathVariable String tipo, @RequestParam String token) {
+        if (!securityService.requestValidation(token)) {
+            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+        }
+
+        return new ResponseEntity<>(poiRepository.findByTipo(tipo),HttpStatus.OK);
+    }
+
+    @GetMapping("/{precioAfter}&{precioBefore}")
+    public ResponseEntity<List<POI>> getPOIbyPrecioIsBetween(@PathVariable Double precioAfter, @PathVariable Double precioBefore, @RequestParam String token) {
+        if  (!securityService.requestValidation(token)) {
+            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+        }
+
+        return new ResponseEntity<>(poiRepository.findByPrecio_entradaIsBetween(precioAfter, precioBefore), HttpStatus.OK);
     }
 
     @PostMapping("/reserva/{id}")

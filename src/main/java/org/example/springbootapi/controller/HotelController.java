@@ -88,6 +88,33 @@ public class HotelController {
         return new ResponseEntity<>(hotel, HttpStatus.OK);
     }
 
+    @GetMapping("/{ciudad}")
+    public ResponseEntity<List<Hotel>> getHotelByCiudad(@PathVariable String ciudad, @RequestParam String token) {
+        if (!securityService.requestValidation(token)) {
+            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+        }
+
+        return new ResponseEntity<>(hotelRepository.findByCiudad(ciudad),HttpStatus.OK);
+    }
+
+    @GetMapping("/{estrellas}")
+    public ResponseEntity<List<Hotel>> getHotelByEstrellas(@PathVariable String estrellas, @RequestParam String token) {
+        if (!securityService.requestValidation(token)) {
+            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+        }
+
+        return new ResponseEntity<>(hotelRepository.findByEstrellas(Integer.parseInt(estrellas)),HttpStatus.OK);
+    }
+
+    @GetMapping("/{precioAfter}&{precioBefore}")
+    public ResponseEntity<List<Hotel>> getHotelByPrecioIsBetween(@PathVariable Double precioAfter, @PathVariable Double precioBefore, @RequestParam String token) {
+        if  (!securityService.requestValidation(token)) {
+            return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+        }
+
+        return new ResponseEntity<>(hotelRepository.findByPrecio_nocheIsBetween(precioAfter, precioBefore), HttpStatus.OK);
+    }
+
     @PostMapping("/reserva/{id}")
     public ResponseEntity<Map<String, Object>> reserva(@PathVariable String id, @RequestParam String token) {
         if (!securityService.requestValidation(token)) {

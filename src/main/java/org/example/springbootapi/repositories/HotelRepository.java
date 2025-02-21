@@ -6,5 +6,7 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 import java.util.List;
 
 public interface HotelRepository extends MongoRepository<Hotel, String> {
-
+    List<Hotel> findByCiudad(String ciudad);
+    List<Hotel> findByEstrellas(Integer estrellas);
+    List<Hotel> findByPrecio_nocheIsBetween(Double precioAfter, Double precioBefore);
 }
