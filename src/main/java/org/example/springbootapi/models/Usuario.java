@@ -5,6 +5,9 @@ import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
+/**
+ * Representa el modelo de los usuarios.
+ */
 @Document(collection = "Usuarios")
 @Data
 public class Usuario {

@@ -14,6 +14,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Controlador REST para gestionar los hoteles.
+ */
 @RestController
 @RequestMapping("api/hoteles")
 public class HotelController {
@@ -25,11 +28,22 @@ public class HotelController {
     @Autowired
     UsuarioRepository usuarioRepository;
 
+    /**
+     * Obtiene todos los hoteles.
+     *
+     * @return una lista de todos los hoteles.
+     */
     @GetMapping("/")
     public List<Hotel> getHoteles() {
         return hotelRepository.findAll();
     }
 
+    /**
+     * Obtiene un hotel por su ID.
+     *
+     * @param id el ID del hotel.
+     * @return el hotel correspondiente al ID proporcionado.
+     */
     @GetMapping("/{id}")
     public ResponseEntity<Hotel> getHotelByID(@PathVariable String id) {
         if (!hotelRepository.existsById(id)) {
@@ -39,6 +53,13 @@ public class HotelController {
         return new ResponseEntity<>(hotel, HttpStatus.OK);
     }
 
+    /**
+     * Elimina un hotel por su ID.
+     *
+     * @param id el ID del hotel.
+     * @param token el token de seguridad.
+     * @return un mensaje de éxito si el hotel fue eliminado.
+     */
     @DeleteMapping("/{id}")
     public ResponseEntity<Map<String, String>> delete(@PathVariable String id, @RequestParam String token) {
         if (!securityService.requestValidation(token)) {
@@ -55,6 +76,13 @@ public class HotelController {
         return new ResponseEntity<>(response,HttpStatus.OK);
     }
 
+    /**
+     * Crea un nuevo hotel.
+     *
+     * @param hotel el hotel a crear.
+     * @param token el token de seguridad.
+     * @return el hotel creado.
+     */
     @PostMapping("/")
     public ResponseEntity<Hotel> create(@RequestBody Hotel hotel, @RequestParam String token) {
         if (!securityService.requestValidation(token)) {
@@ -69,6 +97,14 @@ public class HotelController {
         return new ResponseEntity<>(hotel, HttpStatus.OK);
     }
 
+    /**
+     * Actualiza un hotel existente.
+     *
+     * @param id el ID del hotel a actualizar.
+     * @param hotel el hotel actualizado.
+     * @param token el token de seguridad.
+     * @return el hotel actualizado.
+     */
     @PutMapping("/{id}")
     public ResponseEntity<Hotel> update(@PathVariable String id, @RequestBody Hotel hotel, @RequestParam String token) {
         if (!securityService.requestValidation(token)) {
@@ -88,6 +124,12 @@ public class HotelController {
         return new ResponseEntity<>(hotel, HttpStatus.OK);
     }
 
+    /**
+     * Obtiene una lista de hoteles por ciudad.
+     *
+     * @param ciudad la ciudad de los hoteles.
+     * @return una lista de hoteles en la ciudad especificada.
+     */
     @GetMapping("/ciudad/{ciudad}")
     public ResponseEntity<List<Hotel>> getHotelByCiudad(@PathVariable String ciudad) {
         List<Hotel> resultado = hotelRepository.findByCiudad(ciudad);
@@ -98,6 +140,12 @@ public class HotelController {
         return new ResponseEntity<>(resultado,HttpStatus.OK);
     }
 
+    /**
+     * Obtiene una lista de hoteles por número de estrellas.
+     *
+     * @param estrellas el número de estrellas de los hoteles.
+     * @return una lista de hoteles con el número de estrellas especificado.
+     */
     @GetMapping("/estrellas/{estrellas}")
     public ResponseEntity<List<Hotel>> getHotelByEstrellas(@PathVariable Integer estrellas) {
         List<Hotel> resultado = hotelRepository.findByEstrellas(estrellas);
@@ -108,6 +156,13 @@ public class HotelController {
         return new ResponseEntity<>(resultado,HttpStatus.OK);
     }
 
+    /**
+     * Obtiene una lista de hoteles cuyo precio está entre dos valores.
+     *
+     * @param precioAfter el precio mínimo.
+     * @param precioBefore el precio máximo.
+     * @return una lista de hoteles cuyo precio está entre los valores especificados.
+     */
     @GetMapping("/precio/{precioAfter}&{precioBefore}")
     public ResponseEntity<List<Hotel>> getHotelByPrecioIsBetween(@PathVariable Double precioAfter, @PathVariable Double precioBefore) {
         List<Hotel> resultado = hotelRepository.findByPrecioBetween(precioAfter, precioBefore);
@@ -118,6 +173,13 @@ public class HotelController {
         return new ResponseEntity<>(resultado, HttpStatus.OK);
     }
 
+    /**
+     * Realiza una reserva de hotel.
+     *
+     * @param id el ID del hotel.
+     * @param token el token de seguridad.
+     * @return los datos del hotel y del usuario que realizó la reserva.
+     */
     @PostMapping("/reserva/{id}")
     public ResponseEntity<Map<String, Object>> reserva(@PathVariable String id, @RequestParam String token) {
         if (!securityService.requestValidation(token)) {

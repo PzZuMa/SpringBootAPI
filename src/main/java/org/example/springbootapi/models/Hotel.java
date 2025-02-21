@@ -4,6 +4,9 @@ import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
+/**
+ * Representa el modelo de los hoteles.
+ */
 @Document(collection = "Hoteles")
 @Data
 public class Hotel {
