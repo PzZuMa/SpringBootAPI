@@ -17,4 +17,5 @@ public class POI {
     private String nombre;
     private Double precio;
     private String tipo;
+    private String imagen;
 }

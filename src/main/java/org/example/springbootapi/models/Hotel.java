@@ -19,4 +19,5 @@ public class Hotel {
     private String nombre;
     private Double precio;
     private String telefono;
+    private String imagen;
 }

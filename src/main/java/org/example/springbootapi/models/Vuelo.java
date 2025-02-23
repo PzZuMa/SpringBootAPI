@@ -18,4 +18,6 @@ public class Vuelo {
     private String origen;
     private String destino;
     private String hora_salida;
+    private String aerolinea;
+    private String imagen;
 }
