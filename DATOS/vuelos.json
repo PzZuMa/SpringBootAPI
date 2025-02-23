@@ -3,2000 +3,2500 @@
         "codigo": "UX350",
         "origen": "Sevilla",
         "destino": "Madrid",
-        "fecha_salida": "2025-10-27",
-        "hora_salida": "23:58",
-        "duracion": 88
+        "fecha_salida": "2025-10-29",
+        "hora_salida": "18:02",
+        "duracion": 88,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=1680"
     },
     {
-        "codigo": "IB704",
-        "origen": "Bilbao",
-        "destino": "Sevilla",
-        "fecha_salida": "2025-04-05",
-        "hora_salida": "21:45",
-        "duracion": 114
-    },
-    {
-        "codigo": "IB323",
-        "origen": "Barcelona",
-        "destino": "Madrid",
-        "fecha_salida": "2025-03-03",
-        "hora_salida": "09:11",
-        "duracion": 89
-    },
-    {
-        "codigo": "VY833",
-        "origen": "Toledo",
-        "destino": "Madrid",
-        "fecha_salida": "2025-12-06",
-        "hora_salida": "15:50",
-        "duracion": 143
-    },
-    {
-        "codigo": "VY559",
+        "codigo": "FR132",
         "origen": "Ceuta",
+        "destino": "Valencia",
+        "fecha_salida": "2025-04-07",
+        "hora_salida": "15:50",
+        "duracion": 63,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=3583"
+    },
+    {
+        "codigo": "IB674",
+        "origen": "Murcia",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-03-05",
+        "hora_salida": "03:16",
+        "duracion": 85,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=6874"
+    },
+    {
+        "codigo": "UX928",
+        "origen": "Murcia",
+        "destino": "Santander",
+        "fecha_salida": "2025-12-08",
+        "hora_salida": "09:54",
+        "duracion": 171,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=2616"
+    },
+    {
+        "codigo": "UX259",
+        "origen": "Vitoria",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-06-10",
+        "hora_salida": "05:37",
+        "duracion": 87,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=1675"
+    },
+    {
+        "codigo": "IB467",
+        "origen": "Valencia",
         "destino": "Vitoria",
-        "fecha_salida": "2025-06-08",
-        "hora_salida": "11:32",
-        "duracion": 135
+        "fecha_salida": "2025-05-29",
+        "hora_salida": "12:42",
+        "duracion": 168,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=9892"
     },
     {
-        "codigo": "VY814",
+        "codigo": "FR649",
         "origen": "Palma de Mallorca",
-        "destino": "Madrid",
-        "fecha_salida": "2025-05-27",
-        "hora_salida": "18:38",
-        "duracion": 114
-    },
-    {
-        "codigo": "VY320",
-        "origen": "Oviedo",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-05-19",
-        "hora_salida": "08:33",
-        "duracion": 157
-    },
-    {
-        "codigo": "IB489",
-        "origen": "Oviedo",
-        "destino": "Sevilla",
-        "fecha_salida": "2025-04-16",
-        "hora_salida": "20:40",
-        "duracion": 72
-    },
-    {
-        "codigo": "UX926",
-        "origen": "Santa Cruz de Tenerife",
-        "destino": "Pamplona",
-        "fecha_salida": "2025-12-04",
-        "hora_salida": "16:29",
-        "duracion": 65
-    },
-    {
-        "codigo": "IB487",
-        "origen": "Logrono",
-        "destino": "Melilla",
-        "fecha_salida": "2025-04-02",
-        "hora_salida": "11:24",
-        "duracion": 70
+        "destino": "Barcelona",
+        "fecha_salida": "2025-05-21",
+        "hora_salida": "02:37",
+        "duracion": 75,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=1292"
     },
     {
         "codigo": "UX691",
         "origen": "Ceuta",
         "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2025-11-11",
-        "hora_salida": "11:22",
-        "duracion": 84
+        "fecha_salida": "2025-04-18",
+        "hora_salida": "14:44",
+        "duracion": 84,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=751"
     },
     {
-        "codigo": "VY891",
-        "origen": "Valencia",
-        "destino": "Barcelona",
-        "fecha_salida": "2025-12-06",
-        "hora_salida": "07:36",
-        "duracion": 97
-    },
-    {
-        "codigo": "IB489",
-        "origen": "Valencia",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2026-02-03",
-        "hora_salida": "03:47",
-        "duracion": 95
-    },
-    {
-        "codigo": "VY479",
-        "origen": "Logrono",
-        "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-09-21",
-        "hora_salida": "11:16",
-        "duracion": 105
-    },
-    {
-        "codigo": "IB723",
-        "origen": "Zaragoza",
-        "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2025-03-27",
-        "hora_salida": "10:24",
-        "duracion": 141
-    },
-    {
-        "codigo": "VY267",
-        "origen": "Malaga",
-        "destino": "Melilla",
-        "fecha_salida": "2025-10-08",
-        "hora_salida": "23:52",
-        "duracion": 119
-    },
-    {
-        "codigo": "VY801",
-        "origen": "Pamplona",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-08-04",
-        "hora_salida": "12:40",
-        "duracion": 101
-    },
-    {
-        "codigo": "IB924",
-        "origen": "Barcelona",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-03-06",
-        "hora_salida": "00:19",
-        "duracion": 100
-    },
-    {
-        "codigo": "IB316",
-        "origen": "Pamplona",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-03-05",
-        "hora_salida": "05:48",
-        "duracion": 176
-    },
-    {
-        "codigo": "VY771",
-        "origen": "Melilla",
+        "codigo": "IB975",
+        "origen": "Murcia",
         "destino": "Oviedo",
-        "fecha_salida": "2025-03-30",
-        "hora_salida": "01:23",
-        "duracion": 123
+        "fecha_salida": "2025-12-06",
+        "hora_salida": "10:34",
+        "duracion": 89,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=6228"
     },
     {
-        "codigo": "VY371",
-        "origen": "Pamplona",
+        "codigo": "UX266",
+        "origen": "Palma de Mallorca",
         "destino": "Santander",
-        "fecha_salida": "2025-05-17",
-        "hora_salida": "13:56",
-        "duracion": 77
+        "fecha_salida": "2025-04-04",
+        "hora_salida": "05:28",
+        "duracion": 107,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=3433"
+    },
+    {
+        "codigo": "VY646",
+        "origen": "Palma de Mallorca",
+        "destino": "Valencia",
+        "fecha_salida": "2025-11-13",
+        "hora_salida": "05:27",
+        "duracion": 153,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=2678"
+    },
+    {
+        "codigo": "UX755",
+        "origen": "Logrono",
+        "destino": "Pamplona",
+        "fecha_salida": "2025-12-08",
+        "hora_salida": "01:40",
+        "duracion": 148,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=3599"
+    },
+    {
+        "codigo": "VY941",
+        "origen": "Oviedo",
+        "destino": "Barcelona",
+        "fecha_salida": "2026-02-04",
+        "hora_salida": "21:52",
+        "duracion": 64,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=6573"
+    },
+    {
+        "codigo": "VY680",
+        "origen": "Palma de Mallorca",
+        "destino": "Valencia",
+        "fecha_salida": "2025-09-23",
+        "hora_salida": "05:20",
+        "duracion": 172,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=3484"
+    },
+    {
+        "codigo": "FR246",
+        "origen": "Santander",
+        "destino": "Pamplona",
+        "fecha_salida": "2025-03-29",
+        "hora_salida": "04:29",
+        "duracion": 93,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=4041"
     },
     {
         "codigo": "UX864",
-        "origen": "Murcia",
+        "origen": "Ceuta",
         "destino": "Melilla",
-        "fecha_salida": "2025-05-23",
-        "hora_salida": "00:38",
-        "duracion": 134
+        "fecha_salida": "2025-10-10",
+        "hora_salida": "17:56",
+        "duracion": 134,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=9561"
     },
     {
-        "codigo": "UX324",
-        "origen": "Vitoria",
-        "destino": "Pamplona",
-        "fecha_salida": "2025-09-05",
-        "hora_salida": "22:20",
-        "duracion": 77
+        "codigo": "VY241",
+        "origen": "Pamplona",
+        "destino": "Santa Cruz de Tenerife",
+        "fecha_salida": "2025-08-06",
+        "hora_salida": "06:45",
+        "duracion": 125,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=1490"
     },
     {
-        "codigo": "IB873",
-        "origen": "Toledo",
-        "destino": "Santander",
-        "fecha_salida": "2025-10-13",
-        "hora_salida": "11:18",
-        "duracion": 66
-    },
-    {
-        "codigo": "VY911",
-        "origen": "Sevilla",
-        "destino": "Malaga",
-        "fecha_salida": "2025-03-03",
-        "hora_salida": "23:24",
-        "duracion": 147
-    },
-    {
-        "codigo": "FR490",
-        "origen": "Vitoria",
-        "destino": "Valencia",
-        "fecha_salida": "2025-09-27",
-        "hora_salida": "15:15",
-        "duracion": 136
-    },
-    {
-        "codigo": "UX666",
-        "origen": "Logrono",
-        "destino": "Ceuta",
-        "fecha_salida": "2025-05-09",
-        "hora_salida": "21:23",
-        "duracion": 170
-    },
-    {
-        "codigo": "UX887",
-        "origen": "Madrid",
+        "codigo": "VY742",
+        "origen": "Barcelona",
         "destino": "Bilbao",
-        "fecha_salida": "2025-11-26",
-        "hora_salida": "17:52",
-        "duracion": 142
+        "fecha_salida": "2025-03-07",
+        "hora_salida": "18:23",
+        "duracion": 80,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=9772"
+    },
+    {
+        "codigo": "FR710",
+        "origen": "Valencia",
+        "destino": "Vitoria",
+        "fecha_salida": "2025-03-06",
+        "hora_salida": "23:53",
+        "duracion": 119,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=4120"
+    },
+    {
+        "codigo": "IB798",
+        "origen": "Ceuta",
+        "destino": "Madrid",
+        "fecha_salida": "2025-03-31",
+        "hora_salida": "19:27",
+        "duracion": 173,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=4372"
     },
     {
         "codigo": "UX545",
         "origen": "Oviedo",
         "destino": "Sevilla",
-        "fecha_salida": "2025-11-01",
-        "hora_salida": "01:26",
-        "duracion": 80
+        "fecha_salida": "2025-05-19",
+        "hora_salida": "08:00",
+        "duracion": 80,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=54"
     },
     {
-        "codigo": "UX612",
-        "origen": "Logrono",
-        "destino": "Madrid",
-        "fecha_salida": "2025-11-21",
-        "hora_salida": "00:54",
-        "duracion": 157
-    },
-    {
-        "codigo": "IB991",
-        "origen": "Malaga",
+        "codigo": "VY619",
+        "origen": "Palma de Mallorca",
         "destino": "Ceuta",
-        "fecha_salida": "2025-09-21",
-        "hora_salida": "07:18",
-        "duracion": 140
+        "fecha_salida": "2025-05-24",
+        "hora_salida": "18:42",
+        "duracion": 176,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=4890"
     },
     {
-        "codigo": "VY256",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Ceuta",
-        "fecha_salida": "2025-08-03",
-        "hora_salida": "14:17",
-        "duracion": 107
+        "codigo": "VY482",
+        "origen": "Toledo",
+        "destino": "Zaragoza",
+        "fecha_salida": "2025-09-07",
+        "hora_salida": "16:24",
+        "duracion": 157,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=8838"
     },
     {
-        "codigo": "IB713",
-        "origen": "Malaga",
-        "destino": "Melilla",
-        "fecha_salida": "2025-05-18",
-        "hora_salida": "06:44",
-        "duracion": 101
-    },
-    {
-        "codigo": "IB471",
-        "origen": "Santander",
+        "codigo": "UX600",
+        "origen": "Toledo",
         "destino": "Madrid",
-        "fecha_salida": "2025-08-15",
-        "hora_salida": "03:00",
-        "duracion": 172
+        "fecha_salida": "2025-10-15",
+        "hora_salida": "05:22",
+        "duracion": 62,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=5948"
     },
     {
         "codigo": "IB346",
         "origen": "Las Palmas de Gran Canaria",
         "destino": "Murcia",
-        "fecha_salida": "2025-10-08",
-        "hora_salida": "12:26",
-        "duracion": 172
+        "fecha_salida": "2025-03-05",
+        "hora_salida": "17:29",
+        "duracion": 172,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=1291"
     },
     {
-        "codigo": "IB849",
-        "origen": "Melilla",
-        "destino": "Valencia",
-        "fecha_salida": "2025-06-09",
-        "hora_salida": "17:00",
-        "duracion": 122
-    },
-    {
-        "codigo": "VY231",
+        "codigo": "IB878",
         "origen": "Valencia",
-        "destino": "Melilla",
-        "fecha_salida": "2026-01-02",
-        "hora_salida": "00:31",
-        "duracion": 144
+        "destino": "Toledo",
+        "fecha_salida": "2025-09-29",
+        "hora_salida": "09:20",
+        "duracion": 128,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=2104"
     },
     {
         "codigo": "VY371",
         "origen": "Santander",
         "destino": "Melilla",
-        "fecha_salida": "2026-01-25",
-        "hora_salida": "06:32",
-        "duracion": 127
+        "fecha_salida": "2025-05-11",
+        "hora_salida": "15:27",
+        "duracion": 127,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=6933"
     },
     {
         "codigo": "VY830",
-        "origen": "Vitoria",
-        "destino": "Zaragoza",
-        "fecha_salida": "2025-02-24",
-        "hora_salida": "04:39",
-        "duracion": 99
+        "origen": "Zaragoza",
+        "destino": "Melilla",
+        "fecha_salida": "2025-11-28",
+        "hora_salida": "11:56",
+        "duracion": 99,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=6119"
     },
     {
-        "codigo": "FR629",
-        "origen": "Pamplona",
-        "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-12-13",
-        "hora_salida": "08:40",
-        "duracion": 117
-    },
-    {
-        "codigo": "VY165",
-        "origen": "Sevilla",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-12-31",
-        "hora_salida": "14:51",
-        "duracion": 103
+        "codigo": "FR223",
+        "origen": "Logrono",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-11-02",
+        "hora_salida": "19:31",
+        "duracion": 91,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=1050"
     },
     {
         "codigo": "VY702",
-        "origen": "Madrid",
-        "destino": "Melilla",
-        "fecha_salida": "2025-04-24",
-        "hora_salida": "16:12",
-        "duracion": 88
+        "origen": "Oviedo",
+        "destino": "Madrid",
+        "fecha_salida": "2025-11-22",
+        "hora_salida": "18:58",
+        "duracion": 88,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=1164"
     },
     {
-        "codigo": "IB334",
-        "origen": "Madrid",
-        "destino": "Sevilla",
-        "fecha_salida": "2025-11-19",
-        "hora_salida": "19:12",
-        "duracion": 68
-    },
-    {
-        "codigo": "IB626",
+        "codigo": "IB132",
         "origen": "Barcelona",
-        "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-08-04",
-        "hora_salida": "19:08",
-        "duracion": 90
+        "destino": "Palma de Mallorca",
+        "fecha_salida": "2025-09-23",
+        "hora_salida": "01:22",
+        "duracion": 170,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=1161"
     },
     {
-        "codigo": "VY652",
-        "origen": "Palma de Mallorca",
-        "destino": "Toledo",
-        "fecha_salida": "2025-07-03",
-        "hora_salida": "19:26",
-        "duracion": 76
+        "codigo": "UX785",
+        "origen": "Toledo",
+        "destino": "Murcia",
+        "fecha_salida": "2025-08-05",
+        "hora_salida": "08:21",
+        "duracion": 122,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=8835"
     },
     {
         "codigo": "VY903",
-        "origen": "Melilla",
-        "destino": "Santander",
-        "fecha_salida": "2025-06-09",
-        "hora_salida": "14:01",
-        "duracion": 120
+        "origen": "Bilbao",
+        "destino": "Toledo",
+        "fecha_salida": "2025-05-20",
+        "hora_salida": "00:48",
+        "duracion": 120,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=3120"
     },
     {
-        "codigo": "IB199",
-        "origen": "Vitoria",
-        "destino": "Zaragoza",
-        "fecha_salida": "2025-04-23",
-        "hora_salida": "01:15",
-        "duracion": 144
-    },
-    {
-        "codigo": "FR520",
-        "origen": "Vitoria",
-        "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-05-16",
-        "hora_salida": "06:57",
-        "duracion": 119
+        "codigo": "FR462",
+        "origen": "Sevilla",
+        "destino": "Bilbao",
+        "fecha_salida": "2025-08-16",
+        "hora_salida": "21:05",
+        "duracion": 114,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=7652"
     },
     {
         "codigo": "IB512",
         "origen": "Barcelona",
         "destino": "Bilbao",
-        "fecha_salida": "2025-12-15",
-        "hora_salida": "04:21",
-        "duracion": 153
+        "fecha_salida": "2025-10-10",
+        "hora_salida": "06:30",
+        "duracion": 153,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=1791"
     },
     {
-        "codigo": "VY296",
-        "origen": "Oviedo",
+        "codigo": "VY649",
+        "origen": "Murcia",
+        "destino": "Zaragoza",
+        "fecha_salida": "2025-06-11",
+        "hora_salida": "11:05",
+        "duracion": 117,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=6913"
+    },
+    {
+        "codigo": "FR355",
+        "origen": "Malaga",
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2026-01-03",
+        "hora_salida": "18:35",
+        "duracion": 171,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=7261"
+    },
+    {
+        "codigo": "IB767",
+        "origen": "Ceuta",
         "destino": "Sevilla",
-        "fecha_salida": "2025-07-02",
-        "hora_salida": "09:22",
-        "duracion": 84
-    },
-    {
-        "codigo": "VY532",
-        "origen": "Ceuta",
-        "destino": "Logrono",
-        "fecha_salida": "2025-04-02",
-        "hora_salida": "08:45",
-        "duracion": 83
-    },
-    {
-        "codigo": "VY995",
-        "origen": "Palma de Mallorca",
-        "destino": "Santander",
-        "fecha_salida": "2025-03-29",
-        "hora_salida": "16:32",
-        "duracion": 178
-    },
-    {
-        "codigo": "IB151",
-        "origen": "Valencia",
-        "destino": "Santander",
-        "fecha_salida": "2025-07-19",
-        "hora_salida": "05:15",
-        "duracion": 143
-    },
-    {
-        "codigo": "IB871",
-        "origen": "Ceuta",
-        "destino": "Madrid",
-        "fecha_salida": "2025-03-31",
-        "hora_salida": "05:32",
-        "duracion": 168
+        "fecha_salida": "2026-01-27",
+        "hora_salida": "00:37",
+        "duracion": 129,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=1529"
     },
     {
         "codigo": "FR597",
         "origen": "Murcia",
         "destino": "Malaga",
-        "fecha_salida": "2025-07-11",
-        "hora_salida": "02:00",
-        "duracion": 121
+        "fecha_salida": "2025-02-25",
+        "hora_salida": "22:43",
+        "duracion": 121,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=6571"
     },
     {
-        "codigo": "IB268",
-        "origen": "Zaragoza",
-        "destino": "Vitoria",
-        "fecha_salida": "2026-01-16",
-        "hora_salida": "19:18",
-        "duracion": 108
+        "codigo": "FR102",
+        "origen": "Barcelona",
+        "destino": "Zaragoza",
+        "fecha_salida": "2025-12-15",
+        "hora_salida": "02:45",
+        "duracion": 109,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=7455"
     },
     {
-        "codigo": "UX902",
-        "origen": "Madrid",
-        "destino": "Vitoria",
-        "fecha_salida": "2025-07-05",
-        "hora_salida": "05:58",
-        "duracion": 160
-    },
-    {
-        "codigo": "FR813",
-        "origen": "Logrono",
-        "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2025-10-14",
-        "hora_salida": "03:13",
-        "duracion": 153
-    },
-    {
-        "codigo": "VY294",
-        "origen": "Ceuta",
-        "destino": "Santander",
-        "fecha_salida": "2025-06-04",
-        "hora_salida": "09:35",
-        "duracion": 97
+        "codigo": "FR258",
+        "origen": "Las Palmas de Gran Canaria",
+        "destino": "Logrono",
+        "fecha_salida": "2026-01-02",
+        "hora_salida": "08:56",
+        "duracion": 84,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=3567"
     },
     {
         "codigo": "IB865",
-        "origen": "Zaragoza",
-        "destino": "Barcelona",
-        "fecha_salida": "2026-01-01",
-        "hora_salida": "03:03",
-        "duracion": 100
-    },
-    {
-        "codigo": "FR614",
         "origen": "Barcelona",
-        "destino": "Valencia",
-        "fecha_salida": "2025-03-10",
-        "hora_salida": "13:04",
-        "duracion": 177
+        "destino": "Melilla",
+        "fecha_salida": "2025-04-26",
+        "hora_salida": "10:17",
+        "duracion": 100,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=822"
     },
     {
-        "codigo": "IB620",
-        "origen": "Toledo",
-        "destino": "Malaga",
-        "fecha_salida": "2025-12-02",
-        "hora_salida": "01:40",
-        "duracion": 70
+        "codigo": "VY158",
+        "origen": "Melilla",
+        "destino": "Santander",
+        "fecha_salida": "2025-11-21",
+        "hora_salida": "13:17",
+        "duracion": 125,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=3045"
     },
     {
-        "codigo": "IB791",
-        "origen": "Malaga",
-        "destino": "Valencia",
-        "fecha_salida": "2025-08-19",
-        "hora_salida": "02:13",
-        "duracion": 170
-    },
-    {
-        "codigo": "IB683",
-        "origen": "Murcia",
-        "destino": "Vitoria",
-        "fecha_salida": "2025-09-17",
-        "hora_salida": "22:05",
-        "duracion": 91
+        "codigo": "VY513",
+        "origen": "Valencia",
+        "destino": "Sevilla",
+        "fecha_salida": "2025-08-06",
+        "hora_salida": "13:12",
+        "duracion": 75,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=4034"
     },
     {
         "codigo": "IB529",
         "origen": "Melilla",
         "destino": "Barcelona",
-        "fecha_salida": "2025-04-11",
-        "hora_salida": "03:32",
-        "duracion": 144
+        "fecha_salida": "2025-07-05",
+        "hora_salida": "13:31",
+        "duracion": 144,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=9261"
     },
     {
-        "codigo": "UX367",
-        "origen": "Melilla",
-        "destino": "Toledo",
-        "fecha_salida": "2026-02-14",
-        "hora_salida": "20:29",
-        "duracion": 86
+        "codigo": "UX309",
+        "origen": "Toledo",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-06-11",
+        "hora_salida": "08:06",
+        "duracion": 145,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=3911"
     },
     {
-        "codigo": "UX505",
+        "codigo": "VY787",
+        "origen": "Palma de Mallorca",
+        "destino": "Vitoria",
+        "fecha_salida": "2025-04-24",
+        "hora_salida": "19:19",
+        "duracion": 142,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=7492"
+    },
+    {
+        "codigo": "IB569",
         "origen": "Oviedo",
-        "destino": "Murcia",
-        "fecha_salida": "2025-07-18",
-        "hora_salida": "16:16",
-        "duracion": 76
-    },
-    {
-        "codigo": "UX869",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Santander",
-        "fecha_salida": "2025-03-24",
-        "hora_salida": "06:33",
-        "duracion": 179
-    },
-    {
-        "codigo": "FR736",
-        "origen": "Valencia",
-        "destino": "Madrid",
-        "fecha_salida": "2025-09-24",
-        "hora_salida": "01:28",
-        "duracion": 132
+        "destino": "Valencia",
+        "fecha_salida": "2025-05-18",
+        "hora_salida": "01:01",
+        "duracion": 139,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=1639"
     },
     {
         "codigo": "VY618",
-        "origen": "Sevilla",
-        "destino": "Valencia",
-        "fecha_salida": "2025-06-15",
-        "hora_salida": "12:42",
-        "duracion": 93
+        "origen": "Valencia",
+        "destino": "Melilla",
+        "fecha_salida": "2025-12-16",
+        "hora_salida": "22:26",
+        "duracion": 93,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=5719"
     },
     {
-        "codigo": "IB350",
-        "origen": "Bilbao",
-        "destino": "Pamplona",
-        "fecha_salida": "2026-01-09",
-        "hora_salida": "18:41",
-        "duracion": 107
-    },
-    {
-        "codigo": "FR953",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Malaga",
-        "fecha_salida": "2025-10-23",
-        "hora_salida": "19:25",
-        "duracion": 129
+        "codigo": "UX391",
+        "origen": "Valencia",
+        "destino": "Palma de Mallorca",
+        "fecha_salida": "2025-07-04",
+        "hora_salida": "03:26",
+        "duracion": 80,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=8901"
     },
     {
         "codigo": "IB783",
         "origen": "Las Palmas de Gran Canaria",
         "destino": "Ceuta",
-        "fecha_salida": "2025-10-19",
-        "hora_salida": "21:06",
-        "duracion": 164
+        "fecha_salida": "2025-04-04",
+        "hora_salida": "02:49",
+        "duracion": 164,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=4906"
     },
     {
-        "codigo": "IB999",
-        "origen": "Ceuta",
-        "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2026-01-31",
-        "hora_salida": "13:05",
-        "duracion": 77
-    },
-    {
-        "codigo": "IB860",
-        "origen": "Palma de Mallorca",
-        "destino": "Sevilla",
-        "fecha_salida": "2026-01-22",
-        "hora_salida": "07:46",
-        "duracion": 130
+        "codigo": "UX218",
+        "origen": "Sevilla",
+        "destino": "Malaga",
+        "fecha_salida": "2025-03-31",
+        "hora_salida": "10:36",
+        "duracion": 173,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=9065"
     },
     {
         "codigo": "UX719",
         "origen": "Bilbao",
         "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-07-20",
+        "hora_salida": "23:20",
+        "duracion": 86,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=3336"
+    },
+    {
+        "codigo": "FR357",
+        "origen": "Palma de Mallorca",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-04-01",
+        "hora_salida": "23:37",
+        "duracion": 175,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=1513"
+    },
+    {
+        "codigo": "IB103",
+        "origen": "Vitoria",
+        "destino": "Palma de Mallorca",
         "fecha_salida": "2025-07-12",
-        "hora_salida": "02:45",
-        "duracion": 86
+        "hora_salida": "20:05",
+        "duracion": 102,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=4292"
     },
     {
-        "codigo": "UX617",
-        "origen": "Oviedo",
-        "destino": "Zaragoza",
-        "fecha_salida": "2025-10-03",
-        "hora_salida": "21:23",
-        "duracion": 122
-    },
-    {
-        "codigo": "IB749",
-        "origen": "Palma de Mallorca",
-        "destino": "Barcelona",
-        "fecha_salida": "2025-05-07",
-        "hora_salida": "08:20",
-        "duracion": 114
-    },
-    {
-        "codigo": "IB441",
-        "origen": "Palma de Mallorca",
-        "destino": "Barcelona",
-        "fecha_salida": "2025-11-22",
-        "hora_salida": "07:10",
-        "duracion": 158
-    },
-    {
-        "codigo": "VY859",
-        "origen": "Bilbao",
-        "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2025-03-20",
-        "hora_salida": "16:23",
-        "duracion": 116
-    },
-    {
-        "codigo": "IB214",
-        "origen": "Ceuta",
-        "destino": "Vitoria",
-        "fecha_salida": "2025-03-11",
-        "hora_salida": "11:11",
-        "duracion": 69
+        "codigo": "FR674",
+        "origen": "Malaga",
+        "destino": "Santander",
+        "fecha_salida": "2026-01-18",
+        "hora_salida": "13:22",
+        "duracion": 61,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=1233"
     },
     {
         "codigo": "IB954",
         "origen": "Bilbao",
         "destino": "Melilla",
-        "fecha_salida": "2025-11-05",
-        "hora_salida": "11:30",
-        "duracion": 107
+        "fecha_salida": "2025-07-07",
+        "hora_salida": "00:03",
+        "duracion": 107,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=9053"
     },
     {
-        "codigo": "VY540",
-        "origen": "Melilla",
-        "destino": "Ceuta",
-        "fecha_salida": "2025-05-21",
-        "hora_salida": "04:14",
-        "duracion": 76
-    },
-    {
-        "codigo": "UX915",
-        "origen": "Barcelona",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-12-18",
-        "hora_salida": "21:36",
-        "duracion": 170
-    },
-    {
-        "codigo": "VY798",
-        "origen": "Barcelona",
-        "destino": "Pamplona",
-        "fecha_salida": "2025-06-14",
-        "hora_salida": "01:22",
-        "duracion": 91
-    },
-    {
-        "codigo": "FR735",
-        "origen": "Sevilla",
-        "destino": "Pamplona",
-        "fecha_salida": "2025-03-24",
-        "hora_salida": "15:47",
-        "duracion": 155
-    },
-    {
-        "codigo": "VY919",
+        "codigo": "VY142",
         "origen": "Bilbao",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2026-01-19",
-        "hora_salida": "20:13",
-        "duracion": 163
-    },
-    {
-        "codigo": "IB283",
-        "origen": "Malaga",
         "destino": "Logrono",
-        "fecha_salida": "2025-05-23",
-        "hora_salida": "01:51",
-        "duracion": 154
+        "fecha_salida": "2025-10-15",
+        "hora_salida": "21:17",
+        "duracion": 99,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=654"
     },
     {
-        "codigo": "VY373",
-        "origen": "Oviedo",
-        "destino": "Logrono",
-        "fecha_salida": "2026-01-24",
-        "hora_salida": "04:17",
-        "duracion": 80
+        "codigo": "VY782",
+        "origen": "Santa Cruz de Tenerife",
+        "destino": "Zaragoza",
+        "fecha_salida": "2025-06-06",
+        "hora_salida": "03:40",
+        "duracion": 73,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=9174"
     },
     {
-        "codigo": "IB979",
-        "origen": "Sevilla",
-        "destino": "Vitoria",
-        "fecha_salida": "2025-04-01",
-        "hora_salida": "21:29",
-        "duracion": 120
+        "codigo": "VY985",
+        "origen": "Vitoria",
+        "destino": "Bilbao",
+        "fecha_salida": "2026-01-02",
+        "hora_salida": "21:08",
+        "duracion": 80,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=6756"
+    },
+    {
+        "codigo": "UX901",
+        "origen": "Madrid",
+        "destino": "Zaragoza",
+        "fecha_salida": "2025-03-12",
+        "hora_salida": "07:08",
+        "duracion": 179,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=4066"
+    },
+    {
+        "codigo": "IB491",
+        "origen": "Palma de Mallorca",
+        "destino": "Malaga",
+        "fecha_salida": "2025-12-03",
+        "hora_salida": "19:45",
+        "duracion": 171,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=7712"
     },
     {
         "codigo": "FR458",
         "origen": "Murcia",
         "destino": "Zaragoza",
-        "fecha_salida": "2025-07-19",
-        "hora_salida": "07:06",
-        "duracion": 99
+        "fecha_salida": "2025-08-20",
+        "hora_salida": "20:18",
+        "duracion": 99,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=3653"
     },
     {
-        "codigo": "IB775",
-        "origen": "Murcia",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-06-09",
-        "hora_salida": "14:59",
-        "duracion": 84
-    },
-    {
-        "codigo": "UX985",
-        "origen": "Pamplona",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-08-16",
-        "hora_salida": "18:10",
-        "duracion": 68
+        "codigo": "FR436",
+        "origen": "Madrid",
+        "destino": "Murcia",
+        "fecha_salida": "2025-09-19",
+        "hora_salida": "16:09",
+        "duracion": 95,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=4574"
     },
     {
         "codigo": "FR795",
-        "origen": "Palma de Mallorca",
-        "destino": "Pamplona",
-        "fecha_salida": "2025-10-26",
-        "hora_salida": "13:05",
-        "duracion": 167
+        "origen": "Santa Cruz de Tenerife",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-04-12",
+        "hora_salida": "21:37",
+        "duracion": 167,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=5426"
     },
     {
-        "codigo": "IB218",
-        "origen": "Ceuta",
-        "destino": "Oviedo",
-        "fecha_salida": "2026-01-11",
-        "hora_salida": "14:33",
-        "duracion": 172
+        "codigo": "UX282",
+        "origen": "Madrid",
+        "destino": "Bilbao",
+        "fecha_salida": "2026-02-16",
+        "hora_salida": "14:34",
+        "duracion": 134,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=627"
     },
     {
-        "codigo": "UX139",
-        "origen": "Palma de Mallorca",
-        "destino": "Malaga",
-        "fecha_salida": "2025-07-13",
-        "hora_salida": "08:33",
-        "duracion": 73
-    },
-    {
-        "codigo": "UX546",
-        "origen": "Vitoria",
-        "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-04-25",
-        "hora_salida": "20:07",
-        "duracion": 137
+        "codigo": "UX846",
+        "origen": "Sevilla",
+        "destino": "Logrono",
+        "fecha_salida": "2025-07-20",
+        "hora_salida": "10:21",
+        "duracion": 160,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=7150"
     },
     {
         "codigo": "FR690",
         "origen": "Toledo",
         "destino": "Sevilla",
-        "fecha_salida": "2025-07-15",
-        "hora_salida": "10:25",
-        "duracion": 84
+        "fecha_salida": "2025-03-26",
+        "hora_salida": "00:37",
+        "duracion": 84,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=728"
     },
     {
-        "codigo": "FR101",
-        "origen": "Palma de Mallorca",
-        "destino": "Barcelona",
-        "fecha_salida": "2025-07-09",
-        "hora_salida": "15:26",
-        "duracion": 126
+        "codigo": "VY472",
+        "origen": "Vitoria",
+        "destino": "Madrid",
+        "fecha_salida": "2025-09-25",
+        "hora_salida": "19:32",
+        "duracion": 115,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=5410"
     },
     {
-        "codigo": "UX541",
-        "origen": "Ceuta",
-        "destino": "Zaragoza",
-        "fecha_salida": "2025-05-14",
-        "hora_salida": "00:49",
-        "duracion": 68
-    },
-    {
-        "codigo": "IB837",
+        "codigo": "UX619",
         "origen": "Oviedo",
-        "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-11-08",
-        "hora_salida": "22:34",
-        "duracion": 175
+        "destino": "Sevilla",
+        "fecha_salida": "2025-06-17",
+        "hora_salida": "06:46",
+        "duracion": 99,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=5345"
     },
     {
-        "codigo": "UX782",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Ceuta",
-        "fecha_salida": "2025-06-05",
-        "hora_salida": "08:29",
-        "duracion": 112
-    },
-    {
-        "codigo": "UX667",
-        "origen": "Oviedo",
-        "destino": "Vitoria",
-        "fecha_salida": "2025-11-21",
-        "hora_salida": "05:31",
-        "duracion": 76
-    },
-    {
-        "codigo": "FR793",
-        "origen": "Zaragoza",
-        "destino": "Logrono",
-        "fecha_salida": "2026-02-20",
-        "hora_salida": "10:20",
-        "duracion": 155
+        "codigo": "VY296",
+        "origen": "Pamplona",
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2026-01-11",
+        "hora_salida": "12:46",
+        "duracion": 113,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=2852"
     },
     {
         "codigo": "FR661",
-        "origen": "Malaga",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-11-14",
-        "hora_salida": "03:12",
-        "duracion": 166
-    },
-    {
-        "codigo": "UX315",
-        "origen": "Madrid",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-10-31",
-        "hora_salida": "08:12",
-        "duracion": 115
-    },
-    {
-        "codigo": "FR552",
         "origen": "Melilla",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-03-21",
-        "hora_salida": "09:36",
-        "duracion": 116
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-10-25",
+        "hora_salida": "13:30",
+        "duracion": 166,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=4979"
     },
     {
-        "codigo": "FR912",
-        "origen": "Zaragoza",
-        "destino": "Ceuta",
-        "fecha_salida": "2025-10-16",
-        "hora_salida": "05:35",
-        "duracion": 175
+        "codigo": "FR904",
+        "origen": "Las Palmas de Gran Canaria",
+        "destino": "Zaragoza",
+        "fecha_salida": "2025-10-21",
+        "hora_salida": "15:10",
+        "duracion": 134,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=5280"
+    },
+    {
+        "codigo": "FR791",
+        "origen": "Logrono",
+        "destino": "Santander",
+        "fecha_salida": "2026-02-02",
+        "hora_salida": "07:10",
+        "duracion": 87,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=7753"
     },
     {
         "codigo": "UX627",
         "origen": "Malaga",
         "destino": "Valencia",
-        "fecha_salida": "2025-10-26",
-        "hora_salida": "06:30",
-        "duracion": 144
+        "fecha_salida": "2026-01-24",
+        "hora_salida": "01:50",
+        "duracion": 144,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=5492"
     },
     {
-        "codigo": "VY788",
-        "origen": "Oviedo",
+        "codigo": "UX330",
+        "origen": "Valencia",
+        "destino": "Palma de Mallorca",
+        "fecha_salida": "2025-07-13",
+        "hora_salida": "20:50",
+        "duracion": 163,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=2415"
+    },
+    {
+        "codigo": "VY586",
+        "origen": "Madrid",
         "destino": "Valencia",
-        "fecha_salida": "2025-04-29",
-        "hora_salida": "03:12",
-        "duracion": 99
-    },
-    {
-        "codigo": "VY125",
-        "origen": "Murcia",
-        "destino": "Zaragoza",
-        "fecha_salida": "2025-09-17",
-        "hora_salida": "02:37",
-        "duracion": 65
-    },
-    {
-        "codigo": "IB566",
-        "origen": "Murcia",
-        "destino": "Toledo",
-        "fecha_salida": "2025-12-01",
-        "hora_salida": "20:02",
-        "duracion": 113
+        "fecha_salida": "2025-10-05",
+        "hora_salida": "15:28",
+        "duracion": 138,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=7462"
     },
     {
         "codigo": "FR606",
-        "origen": "Melilla",
+        "origen": "Vitoria",
         "destino": "Zaragoza",
-        "fecha_salida": "2025-05-27",
-        "hora_salida": "17:53",
-        "duracion": 111
+        "fecha_salida": "2025-05-09",
+        "hora_salida": "02:25",
+        "duracion": 111,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=2418"
     },
     {
-        "codigo": "IB868",
-        "origen": "Murcia",
+        "codigo": "FR324",
+        "origen": "Madrid",
         "destino": "Bilbao",
-        "fecha_salida": "2025-04-26",
-        "hora_salida": "03:06",
-        "duracion": 170
+        "fecha_salida": "2025-11-24",
+        "hora_salida": "01:14",
+        "duracion": 82,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=7612"
     },
     {
-        "codigo": "VY280",
-        "origen": "Sevilla",
-        "destino": "Logrono",
-        "fecha_salida": "2025-08-20",
-        "hora_salida": "04:39",
-        "duracion": 162
-    },
-    {
-        "codigo": "IB670",
-        "origen": "Toledo",
-        "destino": "Logrono",
-        "fecha_salida": "2025-07-19",
-        "hora_salida": "00:51",
-        "duracion": 91
-    },
-    {
-        "codigo": "VY920",
-        "origen": "Sevilla",
-        "destino": "Santander",
-        "fecha_salida": "2025-06-06",
-        "hora_salida": "12:10",
-        "duracion": 119
+        "codigo": "VY968",
+        "origen": "Barcelona",
+        "destino": "Melilla",
+        "fecha_salida": "2025-03-22",
+        "hora_salida": "10:27",
+        "duracion": 75,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=2185"
     },
     {
         "codigo": "UX873",
-        "origen": "Toledo",
-        "destino": "Melilla",
-        "fecha_salida": "2026-02-16",
-        "hora_salida": "01:21",
-        "duracion": 174
-    },
-    {
-        "codigo": "FR950",
         "origen": "Logrono",
         "destino": "Ceuta",
-        "fecha_salida": "2025-10-28",
-        "hora_salida": "05:18",
-        "duracion": 176
+        "fecha_salida": "2025-03-13",
+        "hora_salida": "05:16",
+        "duracion": 174,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=8271"
     },
     {
-        "codigo": "VY861",
-        "origen": "Ceuta",
-        "destino": "Logrono",
-        "fecha_salida": "2025-11-15",
-        "hora_salida": "22:13",
-        "duracion": 170
+        "codigo": "FR262",
+        "origen": "Vitoria",
+        "destino": "Melilla",
+        "fecha_salida": "2025-11-07",
+        "hora_salida": "05:34",
+        "duracion": 155,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=7374"
     },
     {
-        "codigo": "UX869",
-        "origen": "Santander",
-        "destino": "Logrono",
-        "fecha_salida": "2025-09-25",
-        "hora_salida": "23:13",
-        "duracion": 91
-    },
-    {
-        "codigo": "FR741",
+        "codigo": "UX884",
         "origen": "Palma de Mallorca",
-        "destino": "Ceuta",
-        "fecha_salida": "2025-05-17",
-        "hora_salida": "23:02",
-        "duracion": 90
+        "destino": "Murcia",
+        "fecha_salida": "2025-05-22",
+        "hora_salida": "22:19",
+        "duracion": 159,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=7940"
     },
     {
-        "codigo": "IB830",
-        "origen": "Palma de Mallorca",
-        "destino": "Santander",
-        "fecha_salida": "2025-11-14",
-        "hora_salida": "13:09",
-        "duracion": 96
-    },
-    {
-        "codigo": "UX427",
+        "codigo": "FR179",
         "origen": "Murcia",
         "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2025-06-27",
-        "hora_salida": "14:37",
-        "duracion": 174
+        "fecha_salida": "2025-12-20",
+        "hora_salida": "15:40",
+        "duracion": 151,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=3842"
     },
     {
-        "codigo": "VY254",
-        "origen": "Ceuta",
-        "destino": "Valencia",
-        "fecha_salida": "2026-01-15",
-        "hora_salida": "00:01",
-        "duracion": 89
+        "codigo": "UX653",
+        "origen": "Palma de Mallorca",
+        "destino": "Santa Cruz de Tenerife",
+        "fecha_salida": "2025-06-15",
+        "hora_salida": "19:26",
+        "duracion": 70,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=2472"
     },
     {
-        "codigo": "VY165",
-        "origen": "Pamplona",
-        "destino": "Bilbao",
-        "fecha_salida": "2025-12-17",
-        "hora_salida": "01:17",
-        "duracion": 113
+        "codigo": "VY823",
+        "origen": "Murcia",
+        "destino": "Vitoria",
+        "fecha_salida": "2025-03-26",
+        "hora_salida": "09:52",
+        "duracion": 87,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=6798"
     },
     {
         "codigo": "FR525",
         "origen": "Vitoria",
         "destino": "Oviedo",
-        "fecha_salida": "2025-12-20",
-        "hora_salida": "00:55",
-        "duracion": 67
+        "fecha_salida": "2026-01-21",
+        "hora_salida": "14:17",
+        "duracion": 67,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=6884"
     },
     {
-        "codigo": "FR888",
-        "origen": "Zaragoza",
-        "destino": "Logrono",
-        "fecha_salida": "2025-03-15",
-        "hora_salida": "09:27",
-        "duracion": 134
-    },
-    {
-        "codigo": "FR106",
-        "origen": "Madrid",
-        "destino": "Vitoria",
-        "fecha_salida": "2025-05-21",
-        "hora_salida": "14:57",
-        "duracion": 180
-    },
-    {
-        "codigo": "FR973",
-        "origen": "Santa Cruz de Tenerife",
-        "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2026-01-06",
-        "hora_salida": "19:50",
-        "duracion": 174
+        "codigo": "FR588",
+        "origen": "Pamplona",
+        "destino": "Madrid",
+        "fecha_salida": "2025-05-24",
+        "hora_salida": "19:55",
+        "duracion": 60,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=4893"
     },
     {
         "codigo": "VY599",
-        "origen": "Vitoria",
-        "destino": "Melilla",
-        "fecha_salida": "2025-03-06",
-        "hora_salida": "03:16",
-        "duracion": 88
-    },
-    {
-        "codigo": "FR129",
-        "origen": "Palma de Mallorca",
+        "origen": "Pamplona",
         "destino": "Logrono",
-        "fecha_salida": "2025-12-31",
-        "hora_salida": "07:39",
-        "duracion": 109
+        "fecha_salida": "2026-01-25",
+        "hora_salida": "22:22",
+        "duracion": 88,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=7141"
     },
     {
-        "codigo": "VY960",
-        "origen": "Oviedo",
-        "destino": "Vitoria",
-        "fecha_salida": "2025-06-24",
-        "hora_salida": "04:19",
-        "duracion": 119
+        "codigo": "FR444",
+        "origen": "Santander",
+        "destino": "Madrid",
+        "fecha_salida": "2025-04-03",
+        "hora_salida": "15:33",
+        "duracion": 145,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=2705"
     },
     {
         "codigo": "IB503",
-        "origen": "Bilbao",
-        "destino": "Melilla",
-        "fecha_salida": "2025-07-27",
-        "hora_salida": "11:12",
-        "duracion": 135
+        "origen": "Logrono",
+        "destino": "Bilbao",
+        "fecha_salida": "2025-07-21",
+        "hora_salida": "01:11",
+        "duracion": 135,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=445"
     },
     {
-        "codigo": "IB758",
-        "origen": "Melilla",
-        "destino": "Madrid",
-        "fecha_salida": "2025-06-05",
-        "hora_salida": "15:36",
-        "duracion": 114
-    },
-    {
-        "codigo": "VY151",
-        "origen": "Bilbao",
-        "destino": "Santander",
-        "fecha_salida": "2025-03-19",
-        "hora_salida": "09:00",
-        "duracion": 93
-    },
-    {
-        "codigo": "VY565",
-        "origen": "Pamplona",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-05-14",
-        "hora_salida": "14:35",
-        "duracion": 101
-    },
-    {
-        "codigo": "UX870",
-        "origen": "Oviedo",
-        "destino": "Vitoria",
-        "fecha_salida": "2026-02-11",
-        "hora_salida": "07:07",
-        "duracion": 166
-    },
-    {
-        "codigo": "IB581",
-        "origen": "Vitoria",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-09-29",
-        "hora_salida": "22:35",
-        "duracion": 62
-    },
-    {
-        "codigo": "UX329",
-        "origen": "Ceuta",
-        "destino": "Barcelona",
-        "fecha_salida": "2026-01-28",
-        "hora_salida": "00:25",
-        "duracion": 143
-    },
-    {
-        "codigo": "IB353",
+        "codigo": "VY987",
         "origen": "Valencia",
-        "destino": "Barcelona",
-        "fecha_salida": "2025-11-27",
-        "hora_salida": "11:31",
-        "duracion": 85
+        "destino": "Logrono",
+        "fecha_salida": "2025-06-11",
+        "hora_salida": "09:03",
+        "duracion": 119,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=824"
     },
     {
-        "codigo": "VY229",
+        "codigo": "UX316",
+        "origen": "Palma de Mallorca",
+        "destino": "Vitoria",
+        "fecha_salida": "2025-08-18",
+        "hora_salida": "12:14",
+        "duracion": 118,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=5530"
+    },
+    {
+        "codigo": "FR358",
+        "origen": "Pamplona",
+        "destino": "Palma de Mallorca",
+        "fecha_salida": "2025-10-28",
+        "hora_salida": "07:10",
+        "duracion": 166,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=7706"
+    },
+    {
+        "codigo": "IB458",
         "origen": "Madrid",
-        "destino": "Malaga",
-        "fecha_salida": "2025-06-23",
-        "hora_salida": "21:05",
-        "duracion": 120
+        "destino": "Melilla",
+        "fecha_salida": "2026-01-13",
+        "hora_salida": "08:37",
+        "duracion": 88,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=660"
     },
     {
-        "codigo": "FR816",
-        "origen": "Sevilla",
-        "destino": "Murcia",
-        "fecha_salida": "2025-05-15",
-        "hora_salida": "05:54",
-        "duracion": 92
+        "codigo": "VY959",
+        "origen": "Madrid",
+        "destino": "Palma de Mallorca",
+        "fecha_salida": "2025-07-15",
+        "hora_salida": "02:38",
+        "duracion": 62,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=2497"
     },
     {
-        "codigo": "IB896",
-        "origen": "Santa Cruz de Tenerife",
-        "destino": "Malaga",
-        "fecha_salida": "2025-11-03",
-        "hora_salida": "05:12",
-        "duracion": 164
+        "codigo": "FR785",
+        "origen": "Murcia",
+        "destino": "Bilbao",
+        "fecha_salida": "2025-04-27",
+        "hora_salida": "14:12",
+        "duracion": 74,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=3572"
+    },
+    {
+        "codigo": "UX271",
+        "origen": "Logrono",
+        "destino": "Palma de Mallorca",
+        "fecha_salida": "2025-07-17",
+        "hora_salida": "04:29",
+        "duracion": 137,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=1877"
     },
     {
         "codigo": "IB692",
         "origen": "Malaga",
         "destino": "Oviedo",
-        "fecha_salida": "2025-09-03",
-        "hora_salida": "13:15",
-        "duracion": 63
+        "fecha_salida": "2025-07-11",
+        "hora_salida": "09:31",
+        "duracion": 63,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=9434"
     },
     {
-        "codigo": "FR832",
-        "origen": "Las Palmas de Gran Canaria",
+        "codigo": "VY177",
+        "origen": "Pamplona",
         "destino": "Vitoria",
-        "fecha_salida": "2025-07-25",
-        "hora_salida": "07:38",
-        "duracion": 85
-    },
-    {
-        "codigo": "IB813",
-        "origen": "Valencia",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2026-01-31",
-        "hora_salida": "05:55",
-        "duracion": 158
+        "fecha_salida": "2025-05-15",
+        "hora_salida": "18:54",
+        "duracion": 135,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=1670"
     },
     {
         "codigo": "IB455",
         "origen": "Las Palmas de Gran Canaria",
         "destino": "Sevilla",
-        "fecha_salida": "2026-02-11",
-        "hora_salida": "20:17",
-        "duracion": 128
+        "fecha_salida": "2025-11-10",
+        "hora_salida": "16:38",
+        "duracion": 128,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=6072"
     },
     {
-        "codigo": "IB618",
-        "origen": "Vitoria",
-        "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-10-29",
-        "hora_salida": "07:53",
-        "duracion": 142
-    },
-    {
-        "codigo": "FR942",
-        "origen": "Oviedo",
-        "destino": "Madrid",
-        "fecha_salida": "2025-08-18",
-        "hora_salida": "20:53",
-        "duracion": 122
+        "codigo": "UX112",
+        "origen": "Valencia",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-06-07",
+        "hora_salida": "02:34",
+        "duracion": 168,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=8032"
     },
     {
         "codigo": "UX750",
         "origen": "Sevilla",
         "destino": "Logrono",
-        "fecha_salida": "2025-04-18",
-        "hora_salida": "03:44",
-        "duracion": 174
+        "fecha_salida": "2025-11-22",
+        "hora_salida": "23:35",
+        "duracion": 174,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=2507"
     },
     {
-        "codigo": "FR280",
-        "origen": "Logrono",
-        "destino": "Bilbao",
-        "fecha_salida": "2025-06-04",
-        "hora_salida": "12:56",
-        "duracion": 153
-    },
-    {
-        "codigo": "FR576",
-        "origen": "Toledo",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-04-16",
-        "hora_salida": "21:31",
-        "duracion": 115
-    },
-    {
-        "codigo": "UX972",
-        "origen": "Melilla",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-05-28",
-        "hora_salida": "10:49",
-        "duracion": 91
-    },
-    {
-        "codigo": "FR349",
-        "origen": "Valencia",
-        "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2025-12-07",
-        "hora_salida": "23:53",
-        "duracion": 156
-    },
-    {
-        "codigo": "UX129",
-        "origen": "Logrono",
-        "destino": "Pamplona",
-        "fecha_salida": "2025-09-27",
-        "hora_salida": "16:24",
-        "duracion": 123
-    },
-    {
-        "codigo": "FR317",
-        "origen": "Oviedo",
+        "codigo": "UX730",
+        "origen": "Vitoria",
         "destino": "Malaga",
-        "fecha_salida": "2025-09-18",
-        "hora_salida": "23:42",
-        "duracion": 105
+        "fecha_salida": "2026-02-22",
+        "hora_salida": "04:24",
+        "duracion": 163,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=7922"
     },
     {
-        "codigo": "UX710",
+        "codigo": "UX430",
+        "origen": "Logrono",
+        "destino": "Vitoria",
+        "fecha_salida": "2025-11-15",
+        "hora_salida": "21:17",
+        "duracion": 169,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=1420"
+    },
+    {
+        "codigo": "VY868",
         "origen": "Palma de Mallorca",
-        "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-06-03",
-        "hora_salida": "17:00",
-        "duracion": 149
+        "destino": "Santander",
+        "fecha_salida": "2025-11-02",
+        "hora_salida": "02:17",
+        "duracion": 119,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=10000"
+    },
+    {
+        "codigo": "IB606",
+        "origen": "Pamplona",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-03-23",
+        "hora_salida": "03:40",
+        "duracion": 168,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=2980"
+    },
+    {
+        "codigo": "UX916",
+        "origen": "Santander",
+        "destino": "Zaragoza",
+        "fecha_salida": "2025-10-17",
+        "hora_salida": "23:40",
+        "duracion": 93,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=4582"
     },
     {
         "codigo": "IB629",
         "origen": "Palma de Mallorca",
         "destino": "Melilla",
-        "fecha_salida": "2025-12-08",
-        "hora_salida": "18:45",
-        "duracion": 84
+        "fecha_salida": "2025-10-28",
+        "hora_salida": "00:35",
+        "duracion": 84,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=3955"
     },
     {
-        "codigo": "FR600",
-        "origen": "Valencia",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-10-06",
-        "hora_salida": "16:49",
-        "duracion": 131
-    },
-    {
-        "codigo": "FR558",
-        "origen": "Murcia",
+        "codigo": "VY807",
+        "origen": "Vitoria",
         "destino": "Toledo",
-        "fecha_salida": "2025-08-07",
-        "hora_salida": "01:22",
-        "duracion": 161
+        "fecha_salida": "2025-04-30",
+        "hora_salida": "21:17",
+        "duracion": 120,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=7343"
     },
     {
         "codigo": "UX326",
         "origen": "Madrid",
         "destino": "Sevilla",
-        "fecha_salida": "2026-02-05",
-        "hora_salida": "08:23",
-        "duracion": 111
+        "fecha_salida": "2025-09-18",
+        "hora_salida": "20:42",
+        "duracion": 111,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=5017"
     },
     {
-        "codigo": "UX584",
-        "origen": "Murcia",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-10-06",
-        "hora_salida": "07:00",
-        "duracion": 130
-    },
-    {
-        "codigo": "FR863",
-        "origen": "Toledo",
+        "codigo": "FR666",
+        "origen": "Melilla",
         "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-07-26",
-        "hora_salida": "18:45",
-        "duracion": 130
+        "fecha_salida": "2025-12-03",
+        "hora_salida": "14:06",
+        "duracion": 127,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=6972"
     },
     {
-        "codigo": "FR377",
-        "origen": "Oviedo",
-        "destino": "Pamplona",
-        "fecha_salida": "2025-07-12",
-        "hora_salida": "06:08",
-        "duracion": 99
+        "codigo": "UX819",
+        "origen": "Ceuta",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-05-29",
+        "hora_salida": "11:57",
+        "duracion": 118,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=5024"
     },
     {
         "codigo": "IB838",
         "origen": "Palma de Mallorca",
         "destino": "Murcia",
-        "fecha_salida": "2025-05-17",
-        "hora_salida": "20:18",
-        "duracion": 84
+        "fecha_salida": "2025-04-27",
+        "hora_salida": "21:10",
+        "duracion": 84,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=1959"
     },
     {
-        "codigo": "VY296",
-        "origen": "Oviedo",
-        "destino": "Sevilla",
-        "fecha_salida": "2025-04-16",
-        "hora_salida": "09:25",
-        "duracion": 87
+        "codigo": "VY321",
+        "origen": "Ceuta",
+        "destino": "Malaga",
+        "fecha_salida": "2025-08-21",
+        "hora_salida": "22:44",
+        "duracion": 154,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=4531"
     },
     {
         "codigo": "UX202",
-        "origen": "Santander",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-09-07",
-        "hora_salida": "13:12",
-        "duracion": 166
-    },
-    {
-        "codigo": "VY469",
-        "origen": "Zaragoza",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-09-01",
-        "hora_salida": "07:59",
-        "duracion": 82
-    },
-    {
-        "codigo": "VY380",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Madrid",
-        "fecha_salida": "2025-03-28",
-        "hora_salida": "23:25",
-        "duracion": 65
-    },
-    {
-        "codigo": "UX814",
-        "origen": "Barcelona",
-        "destino": "Melilla",
-        "fecha_salida": "2025-12-12",
-        "hora_salida": "04:28",
-        "duracion": 180
-    },
-    {
-        "codigo": "IB993",
-        "origen": "Bilbao",
-        "destino": "Toledo",
-        "fecha_salida": "2025-03-11",
-        "hora_salida": "23:14",
-        "duracion": 61
-    },
-    {
-        "codigo": "FR590",
         "origen": "Melilla",
-        "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2026-01-22",
-        "hora_salida": "02:08",
-        "duracion": 116
+        "destino": "Toledo",
+        "fecha_salida": "2025-07-20",
+        "hora_salida": "18:56",
+        "duracion": 166,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=4854"
     },
     {
-        "codigo": "IB358",
-        "origen": "Oviedo",
-        "destino": "Malaga",
-        "fecha_salida": "2025-04-05",
-        "hora_salida": "06:05",
-        "duracion": 180
+        "codigo": "VY409",
+        "origen": "Murcia",
+        "destino": "Pamplona",
+        "fecha_salida": "2025-06-08",
+        "hora_salida": "06:15",
+        "duracion": 61,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=2074"
     },
     {
-        "codigo": "IB510",
-        "origen": "Santander",
-        "destino": "Sevilla",
-        "fecha_salida": "2025-04-22",
-        "hora_salida": "00:40",
-        "duracion": 122
-    },
-    {
-        "codigo": "VY252",
-        "origen": "Valencia",
+        "codigo": "IB666",
+        "origen": "Palma de Mallorca",
         "destino": "Barcelona",
-        "fecha_salida": "2025-10-23",
-        "hora_salida": "08:18",
-        "duracion": 163
+        "fecha_salida": "2026-02-17",
+        "hora_salida": "19:25",
+        "duracion": 97,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=8043"
+    },
+    {
+        "codigo": "UX580",
+        "origen": "Sevilla",
+        "destino": "Madrid",
+        "fecha_salida": "2025-10-29",
+        "hora_salida": "23:23",
+        "duracion": 121,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=5583"
+    },
+    {
+        "codigo": "UX982",
+        "origen": "Malaga",
+        "destino": "Barcelona",
+        "fecha_salida": "2025-11-17",
+        "hora_salida": "16:17",
+        "duracion": 121,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=1071"
+    },
+    {
+        "codigo": "IB690",
+        "origen": "Pamplona",
+        "destino": "Toledo",
+        "fecha_salida": "2025-09-27",
+        "hora_salida": "17:18",
+        "duracion": 140,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=2486"
     },
     {
         "codigo": "IB354",
-        "origen": "Melilla",
-        "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2025-04-24",
-        "hora_salida": "19:13",
-        "duracion": 75
+        "origen": "Bilbao",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-05-19",
+        "hora_salida": "17:07",
+        "duracion": 75,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=6819"
     },
     {
-        "codigo": "VY894",
-        "origen": "Ceuta",
-        "destino": "Vitoria",
-        "fecha_salida": "2025-12-26",
-        "hora_salida": "06:47",
-        "duracion": 126
-    },
-    {
-        "codigo": "FR404",
-        "origen": "Pamplona",
-        "destino": "Santander",
-        "fecha_salida": "2025-11-12",
-        "hora_salida": "22:37",
-        "duracion": 170
+        "codigo": "FR561",
+        "origen": "Murcia",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-11-16",
+        "hora_salida": "07:13",
+        "duracion": 176,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=4872"
     },
     {
         "codigo": "UX682",
         "origen": "Melilla",
         "destino": "Vitoria",
-        "fecha_salida": "2025-08-04",
-        "hora_salida": "14:53",
-        "duracion": 139
+        "fecha_salida": "2025-06-29",
+        "hora_salida": "08:41",
+        "duracion": 139,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=9989"
     },
     {
-        "codigo": "VY740",
-        "origen": "Barcelona",
-        "destino": "Bilbao",
-        "fecha_salida": "2025-10-11",
-        "hora_salida": "07:01",
-        "duracion": 87
-    },
-    {
-        "codigo": "VY345",
-        "origen": "Palma de Mallorca",
-        "destino": "Valencia",
-        "fecha_salida": "2025-03-18",
-        "hora_salida": "08:12",
-        "duracion": 82
-    },
-    {
-        "codigo": "VY102",
-        "origen": "Ceuta",
-        "destino": "Valencia",
-        "fecha_salida": "2025-07-21",
-        "hora_salida": "02:22",
-        "duracion": 112
-    },
-    {
-        "codigo": "UX133",
-        "origen": "Logrono",
-        "destino": "Toledo",
-        "fecha_salida": "2025-07-19",
-        "hora_salida": "21:01",
-        "duracion": 89
-    },
-    {
-        "codigo": "FR172",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-10-11",
-        "hora_salida": "02:09",
-        "duracion": 147
-    },
-    {
-        "codigo": "VY535",
-        "origen": "Murcia",
-        "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2025-08-22",
-        "hora_salida": "10:37",
-        "duracion": 74
-    },
-    {
-        "codigo": "VY372",
-        "origen": "Ceuta",
+        "codigo": "VY370",
+        "origen": "Sevilla",
         "destino": "Murcia",
-        "fecha_salida": "2025-09-15",
-        "hora_salida": "03:47",
-        "duracion": 165
+        "fecha_salida": "2026-01-16",
+        "hora_salida": "18:06",
+        "duracion": 144,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=2574"
     },
     {
-        "codigo": "IB269",
-        "origen": "Bilbao",
-        "destino": "Valencia",
-        "fecha_salida": "2025-05-30",
-        "hora_salida": "07:25",
-        "duracion": 161
+        "codigo": "IB260",
+        "origen": "Murcia",
+        "destino": "Malaga",
+        "fecha_salida": "2025-12-18",
+        "hora_salida": "19:21",
+        "duracion": 60,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=7382"
     },
     {
-        "codigo": "FR227",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-09-24",
-        "hora_salida": "12:31",
-        "duracion": 119
-    },
-    {
-        "codigo": "UX612",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Vitoria",
-        "fecha_salida": "2026-01-21",
-        "hora_salida": "23:07",
-        "duracion": 129
-    },
-    {
-        "codigo": "IB712",
+        "codigo": "IB337",
         "origen": "Santander",
-        "destino": "Logrono",
-        "fecha_salida": "2025-02-26",
-        "hora_salida": "03:05",
-        "duracion": 65
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-12-21",
+        "hora_salida": "19:00",
+        "duracion": 96,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=7439"
+    },
+    {
+        "codigo": "UX906",
+        "origen": "Valencia",
+        "destino": "Palma de Mallorca",
+        "fecha_salida": "2025-03-17",
+        "hora_salida": "03:32",
+        "duracion": 161,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=3242"
+    },
+    {
+        "codigo": "VY763",
+        "origen": "Vitoria",
+        "destino": "Sevilla",
+        "fecha_salida": "2025-05-23",
+        "hora_salida": "09:02",
+        "duracion": 79,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=2331"
+    },
+    {
+        "codigo": "VY911",
+        "origen": "Valencia",
+        "destino": "Barcelona",
+        "fecha_salida": "2026-01-08",
+        "hora_salida": "13:54",
+        "duracion": 99,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=9326"
+    },
+    {
+        "codigo": "IB579",
+        "origen": "Las Palmas de Gran Canaria",
+        "destino": "Santander",
+        "fecha_salida": "2025-03-07",
+        "hora_salida": "21:21",
+        "duracion": 148,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=6595"
+    },
+    {
+        "codigo": "FR548",
+        "origen": "Palma de Mallorca",
+        "destino": "Ceuta",
+        "fecha_salida": "2026-01-02",
+        "hora_salida": "01:43",
+        "duracion": 70,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=654"
     },
     {
         "codigo": "UX126",
         "origen": "Vitoria",
         "destino": "Oviedo",
-        "fecha_salida": "2025-11-12",
-        "hora_salida": "20:47",
-        "duracion": 71
+        "fecha_salida": "2025-06-25",
+        "hora_salida": "22:23",
+        "duracion": 71,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=9425"
     },
     {
         "codigo": "UX690",
-        "origen": "Murcia",
-        "destino": "Madrid",
-        "fecha_salida": "2025-11-28",
-        "hora_salida": "13:41",
-        "duracion": 65
-    },
-    {
-        "codigo": "FR384",
-        "origen": "Malaga",
-        "destino": "Toledo",
-        "fecha_salida": "2025-04-07",
-        "hora_salida": "03:46",
-        "duracion": 83
-    },
-    {
-        "codigo": "FR193",
         "origen": "Melilla",
-        "destino": "Vitoria",
-        "fecha_salida": "2025-11-13",
-        "hora_salida": "10:05",
-        "duracion": 120
+        "destino": "Madrid",
+        "fecha_salida": "2025-07-29",
+        "hora_salida": "05:17",
+        "duracion": 65,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=7709"
     },
     {
-        "codigo": "UX428",
-        "origen": "Santa Cruz de Tenerife",
+        "codigo": "UX285",
+        "origen": "Toledo",
         "destino": "Logrono",
-        "fecha_salida": "2026-01-31",
-        "hora_salida": "06:54",
-        "duracion": 145
+        "fecha_salida": "2025-06-07",
+        "hora_salida": "09:41",
+        "duracion": 134,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=8057"
     },
     {
-        "codigo": "UX521",
-        "origen": "Sevilla",
-        "destino": "Zaragoza",
-        "fecha_salida": "2025-09-18",
-        "hora_salida": "05:00",
-        "duracion": 148
+        "codigo": "UX518",
+        "origen": "Valencia",
+        "destino": "Toledo",
+        "fecha_salida": "2025-03-21",
+        "hora_salida": "03:04",
+        "duracion": 102,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=1714"
     },
     {
-        "codigo": "FR933",
-        "origen": "Santander",
-        "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2025-12-10",
-        "hora_salida": "06:46",
-        "duracion": 157
+        "codigo": "FR810",
+        "origen": "Malaga",
+        "destino": "Santa Cruz de Tenerife",
+        "fecha_salida": "2025-05-16",
+        "hora_salida": "08:39",
+        "duracion": 123,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=6562"
     },
     {
         "codigo": "FR190",
         "origen": "Ceuta",
         "destino": "Barcelona",
-        "fecha_salida": "2025-06-05",
-        "hora_salida": "07:04",
-        "duracion": 100
+        "fecha_salida": "2026-02-13",
+        "hora_salida": "01:12",
+        "duracion": 100,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=5297"
     },
     {
-        "codigo": "IB891",
-        "origen": "Palma de Mallorca",
-        "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-12-17",
-        "hora_salida": "03:56",
-        "duracion": 111
-    },
-    {
-        "codigo": "FR523",
-        "origen": "Toledo",
-        "destino": "Madrid",
-        "fecha_salida": "2025-10-28",
-        "hora_salida": "14:16",
-        "duracion": 66
-    },
-    {
-        "codigo": "UX737",
-        "origen": "Zaragoza",
-        "destino": "Ceuta",
-        "fecha_salida": "2025-07-03",
-        "hora_salida": "18:44",
-        "duracion": 156
-    },
-    {
-        "codigo": "IB308",
-        "origen": "Santander",
-        "destino": "Logrono",
-        "fecha_salida": "2025-04-05",
-        "hora_salida": "23:49",
-        "duracion": 94
-    },
-    {
-        "codigo": "UX548",
-        "origen": "Ceuta",
-        "destino": "Bilbao",
-        "fecha_salida": "2025-06-15",
-        "hora_salida": "15:42",
-        "duracion": 172
-    },
-    {
-        "codigo": "IB745",
-        "origen": "Santander",
-        "destino": "Sevilla",
-        "fecha_salida": "2025-08-09",
-        "hora_salida": "12:23",
-        "duracion": 137
-    },
-    {
-        "codigo": "UX664",
-        "origen": "Murcia",
-        "destino": "Malaga",
-        "fecha_salida": "2025-04-24",
-        "hora_salida": "02:13",
-        "duracion": 61
-    },
-    {
-        "codigo": "IB330",
-        "origen": "Ceuta",
+        "codigo": "IB773",
+        "origen": "Sevilla",
         "destino": "Vitoria",
-        "fecha_salida": "2025-08-16",
-        "hora_salida": "21:05",
-        "duracion": 167
+        "fecha_salida": "2025-10-01",
+        "hora_salida": "16:39",
+        "duracion": 171,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=7570"
+    },
+    {
+        "codigo": "VY630",
+        "origen": "Vitoria",
+        "destino": "Barcelona",
+        "fecha_salida": "2026-01-29",
+        "hora_salida": "18:29",
+        "duracion": 106,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=8168"
+    },
+    {
+        "codigo": "VY373",
+        "origen": "Logrono",
+        "destino": "Barcelona",
+        "fecha_salida": "2025-11-29",
+        "hora_salida": "05:36",
+        "duracion": 130,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=4720"
+    },
+    {
+        "codigo": "IB129",
+        "origen": "Logrono",
+        "destino": "Toledo",
+        "fecha_salida": "2025-06-25",
+        "hora_salida": "15:10",
+        "duracion": 140,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=3921"
+    },
+    {
+        "codigo": "IB665",
+        "origen": "Malaga",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-05-16",
+        "hora_salida": "23:58",
+        "duracion": 112,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=3682"
     },
     {
         "codigo": "IB763",
         "origen": "Sevilla",
         "destino": "Santander",
-        "fecha_salida": "2025-02-22",
-        "hora_salida": "22:19",
-        "duracion": 166
+        "fecha_salida": "2025-11-04",
+        "hora_salida": "23:17",
+        "duracion": 166,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=8166"
     },
     {
-        "codigo": "UX621",
-        "origen": "Bilbao",
-        "destino": "Toledo",
-        "fecha_salida": "2025-11-29",
-        "hora_salida": "02:28",
-        "duracion": 150
-    },
-    {
-        "codigo": "FR583",
-        "origen": "Palma de Mallorca",
-        "destino": "Logrono",
-        "fecha_salida": "2026-01-27",
-        "hora_salida": "19:37",
-        "duracion": 91
+        "codigo": "UX525",
+        "origen": "Las Palmas de Gran Canaria",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-09-05",
+        "hora_salida": "07:19",
+        "duracion": 166,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=7737"
     },
     {
         "codigo": "VY492",
-        "origen": "Logrono",
-        "destino": "Melilla",
-        "fecha_salida": "2025-11-28",
-        "hora_salida": "03:59",
-        "duracion": 84
+        "origen": "Murcia",
+        "destino": "Santander",
+        "fecha_salida": "2025-07-27",
+        "hora_salida": "01:42",
+        "duracion": 84,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=8328"
     },
     {
-        "codigo": "IB382",
+        "codigo": "UX891",
+        "origen": "Bilbao",
+        "destino": "Valencia",
+        "fecha_salida": "2026-02-02",
+        "hora_salida": "00:00",
+        "duracion": 161,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=5569"
+    },
+    {
+        "codigo": "IB389",
         "origen": "Toledo",
-        "destino": "Bilbao",
-        "fecha_salida": "2025-06-03",
-        "hora_salida": "23:02",
-        "duracion": 158
+        "destino": "Palma de Mallorca",
+        "fecha_salida": "2026-02-13",
+        "hora_salida": "14:21",
+        "duracion": 152,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=9617"
     },
     {
-        "codigo": "UX940",
-        "origen": "Vitoria",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-09-04",
-        "hora_salida": "01:53",
-        "duracion": 60
-    },
-    {
-        "codigo": "FR986",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-12-14",
-        "hora_salida": "14:05",
-        "duracion": 79
-    },
-    {
-        "codigo": "FR453",
-        "origen": "Logrono",
-        "destino": "Melilla",
-        "fecha_salida": "2025-05-02",
-        "hora_salida": "01:14",
-        "duracion": 102
+        "codigo": "VY557",
+        "origen": "Melilla",
+        "destino": "Santander",
+        "fecha_salida": "2025-10-31",
+        "hora_salida": "01:58",
+        "duracion": 128,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=5655"
     },
     {
         "codigo": "FR566",
-        "origen": "Ceuta",
-        "destino": "Melilla",
-        "fecha_salida": "2025-09-06",
-        "hora_salida": "20:01",
-        "duracion": 179
-    },
-    {
-        "codigo": "VY685",
         "origen": "Oviedo",
-        "destino": "Zaragoza",
-        "fecha_salida": "2026-02-11",
-        "hora_salida": "02:23",
-        "duracion": 109
+        "destino": "Melilla",
+        "fecha_salida": "2025-08-20",
+        "hora_salida": "14:58",
+        "duracion": 179,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=3091"
     },
     {
-        "codigo": "IB425",
+        "codigo": "VY976",
         "origen": "Murcia",
-        "destino": "Logrono",
-        "fecha_salida": "2025-04-03",
-        "hora_salida": "23:54",
-        "duracion": 155
+        "destino": "Vitoria",
+        "fecha_salida": "2025-04-19",
+        "hora_salida": "21:49",
+        "duracion": 159,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=716"
     },
     {
-        "codigo": "FR779",
-        "origen": "Santander",
-        "destino": "Pamplona",
-        "fecha_salida": "2026-01-25",
-        "hora_salida": "17:54",
-        "duracion": 161
-    },
-    {
-        "codigo": "IB229",
-        "origen": "Bilbao",
+        "codigo": "FR495",
+        "origen": "Oviedo",
         "destino": "Toledo",
-        "fecha_salida": "2025-10-22",
-        "hora_salida": "12:18",
-        "duracion": 124
+        "fecha_salida": "2025-06-06",
+        "hora_salida": "07:01",
+        "duracion": 144,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=8116"
     },
     {
-        "codigo": "IB995",
-        "origen": "Melilla",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-06-17",
-        "hora_salida": "13:47",
-        "duracion": 168
+        "codigo": "UX990",
+        "origen": "Barcelona",
+        "destino": "Malaga",
+        "fecha_salida": "2025-04-18",
+        "hora_salida": "15:36",
+        "duracion": 72,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=1634"
     },
     {
-        "codigo": "FR115",
-        "origen": "Logrono",
-        "destino": "Sevilla",
-        "fecha_salida": "2026-01-14",
-        "hora_salida": "13:00",
-        "duracion": 152
-    },
-    {
-        "codigo": "VY176",
-        "origen": "Bilbao",
+        "codigo": "IB839",
+        "origen": "Toledo",
         "destino": "Logrono",
-        "fecha_salida": "2025-10-27",
-        "hora_salida": "19:31",
-        "duracion": 120
+        "fecha_salida": "2025-05-30",
+        "hora_salida": "04:53",
+        "duracion": 78,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=2530"
     },
     {
-        "codigo": "FR765",
-        "origen": "Palma de Mallorca",
-        "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-09-06",
-        "hora_salida": "19:50",
-        "duracion": 70
+        "codigo": "UX446",
+        "origen": "Valencia",
+        "destino": "Toledo",
+        "fecha_salida": "2025-12-09",
+        "hora_salida": "17:57",
+        "duracion": 139,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=1316"
     },
     {
         "codigo": "FR424",
         "origen": "Oviedo",
         "destino": "Melilla",
-        "fecha_salida": "2025-10-16",
-        "hora_salida": "04:05",
-        "duracion": 140
+        "fecha_salida": "2025-09-29",
+        "hora_salida": "10:29",
+        "duracion": 140,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=8865"
     },
     {
-        "codigo": "IB732",
-        "origen": "Santander",
-        "destino": "Melilla",
-        "fecha_salida": "2025-05-09",
-        "hora_salida": "22:04",
-        "duracion": 68
-    },
-    {
-        "codigo": "VY864",
-        "origen": "Murcia",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-04-22",
-        "hora_salida": "00:38",
-        "duracion": 71
-    },
-    {
-        "codigo": "IB554",
-        "origen": "Vitoria",
-        "destino": "Sevilla",
-        "fecha_salida": "2025-07-16",
-        "hora_salida": "21:12",
-        "duracion": 81
-    },
-    {
-        "codigo": "IB432",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Madrid",
-        "fecha_salida": "2025-12-14",
-        "hora_salida": "19:11",
-        "duracion": 161
-    },
-    {
-        "codigo": "UX483",
+        "codigo": "VY746",
         "origen": "Barcelona",
-        "destino": "Oviedo",
-        "fecha_salida": "2025-04-25",
-        "hora_salida": "09:49",
-        "duracion": 115
+        "destino": "Sevilla",
+        "fecha_salida": "2025-09-20",
+        "hora_salida": "17:47",
+        "duracion": 147,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=3728"
     },
     {
-        "codigo": "FR679",
-        "origen": "Bilbao",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-09-19",
-        "hora_salida": "03:27",
-        "duracion": 147
-    },
-    {
-        "codigo": "VY180",
-        "origen": "Malaga",
-        "destino": "Zaragoza",
-        "fecha_salida": "2025-12-21",
-        "hora_salida": "01:24",
-        "duracion": 138
-    },
-    {
-        "codigo": "FR697",
-        "origen": "Pamplona",
-        "destino": "Murcia",
-        "fecha_salida": "2026-02-14",
-        "hora_salida": "21:47",
-        "duracion": 78
-    },
-    {
-        "codigo": "UX570",
-        "origen": "Murcia",
-        "destino": "Santander",
-        "fecha_salida": "2025-09-15",
-        "hora_salida": "15:20",
-        "duracion": 92
-    },
-    {
-        "codigo": "UX793",
-        "origen": "Madrid",
-        "destino": "Santander",
-        "fecha_salida": "2026-02-13",
-        "hora_salida": "09:03",
-        "duracion": 129
-    },
-    {
-        "codigo": "FR453",
-        "origen": "Malaga",
-        "destino": "Valencia",
-        "fecha_salida": "2025-02-21",
-        "hora_salida": "21:24",
-        "duracion": 135
-    },
-    {
-        "codigo": "UX567",
-        "origen": "Las Palmas de Gran Canaria",
+        "codigo": "IB878",
+        "origen": "Valencia",
         "destino": "Logrono",
-        "fecha_salida": "2025-10-12",
-        "hora_salida": "06:39",
-        "duracion": 168
+        "fecha_salida": "2025-06-05",
+        "hora_salida": "11:05",
+        "duracion": 141,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=7270"
     },
     {
-        "codigo": "FR973",
-        "origen": "Las Palmas de Gran Canaria",
-        "destino": "Zaragoza",
-        "fecha_salida": "2025-06-27",
-        "hora_salida": "13:26",
-        "duracion": 121
+        "codigo": "IB147",
+        "origen": "Malaga",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-12-10",
+        "hora_salida": "12:49",
+        "duracion": 101,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=4807"
     },
     {
-        "codigo": "FR685",
-        "origen": "Sevilla",
-        "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-08-30",
-        "hora_salida": "10:13",
-        "duracion": 105
+        "codigo": "FR249",
+        "origen": "Santa Cruz de Tenerife",
+        "destino": "Pamplona",
+        "fecha_salida": "2025-10-08",
+        "hora_salida": "10:53",
+        "duracion": 91,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=6752"
     },
     {
-        "codigo": "UX122",
+        "codigo": "VY279",
         "origen": "Melilla",
+        "destino": "Malaga",
+        "fecha_salida": "2025-08-08",
+        "hora_salida": "19:27",
+        "duracion": 70,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=6268"
+    },
+    {
+        "codigo": "VY337",
+        "origen": "Murcia",
+        "destino": "Toledo",
+        "fecha_salida": "2026-02-07",
+        "hora_salida": "02:28",
+        "duracion": 119,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=7530"
+    },
+    {
+        "codigo": "FR394",
+        "origen": "Palma de Mallorca",
+        "destino": "Madrid",
+        "fecha_salida": "2025-10-08",
+        "hora_salida": "01:04",
+        "duracion": 146,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=2589"
+    },
+    {
+        "codigo": "UX701",
+        "origen": "Valencia",
+        "destino": "Santander",
+        "fecha_salida": "2025-07-28",
+        "hora_salida": "12:50",
+        "duracion": 98,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=4098"
+    },
+    {
+        "codigo": "VY493",
+        "origen": "Logrono",
         "destino": "Las Palmas de Gran Canaria",
-        "fecha_salida": "2025-03-01",
-        "hora_salida": "05:37",
-        "duracion": 166
+        "fecha_salida": "2025-07-14",
+        "hora_salida": "00:12",
+        "duracion": 169,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=1748"
+    },
+    {
+        "codigo": "UX688",
+        "origen": "Murcia",
+        "destino": "Vitoria",
+        "fecha_salida": "2025-05-19",
+        "hora_salida": "14:22",
+        "duracion": 97,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=360"
     },
     {
         "codigo": "IB679",
         "origen": "Pamplona",
         "destino": "Palma de Mallorca",
-        "fecha_salida": "2025-04-06",
-        "hora_salida": "02:45",
-        "duracion": 170
+        "fecha_salida": "2025-04-18",
+        "hora_salida": "03:30",
+        "duracion": 170,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=9936"
     },
     {
-        "codigo": "UX894",
-        "origen": "Barcelona",
-        "destino": "Toledo",
-        "fecha_salida": "2026-02-17",
-        "hora_salida": "11:54",
-        "duracion": 162
+        "codigo": "VY721",
+        "origen": "Santander",
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-09-09",
+        "hora_salida": "07:17",
+        "duracion": 162,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=3589"
     },
     {
-        "codigo": "VY751",
-        "origen": "Murcia",
-        "destino": "Pamplona",
-        "fecha_salida": "2025-07-12",
-        "hora_salida": "15:18",
-        "duracion": 84
+        "codigo": "VY743",
+        "origen": "Zaragoza",
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-09-03",
+        "hora_salida": "02:03",
+        "duracion": 72,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=5062"
     },
     {
-        "codigo": "IB742",
-        "origen": "Palma de Mallorca",
-        "destino": "Bilbao",
-        "fecha_salida": "2026-01-28",
-        "hora_salida": "22:21",
-        "duracion": 142
+        "codigo": "UX849",
+        "origen": "Logrono",
+        "destino": "Barcelona",
+        "fecha_salida": "2025-03-30",
+        "hora_salida": "17:29",
+        "duracion": 76,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=4836"
     },
     {
-        "codigo": "FR134",
-        "origen": "Barcelona",
-        "destino": "Oviedo",
-        "fecha_salida": "2026-01-10",
-        "hora_salida": "15:46",
-        "duracion": 134
-    },
-    {
-        "codigo": "IB402",
-        "origen": "Santa Cruz de Tenerife",
-        "destino": "Bilbao",
-        "fecha_salida": "2025-12-31",
-        "hora_salida": "23:46",
-        "duracion": 101
-    },
-    {
-        "codigo": "VY235",
-        "origen": "Vitoria",
-        "destino": "Malaga",
-        "fecha_salida": "2025-06-21",
-        "hora_salida": "02:19",
-        "duracion": 160
+        "codigo": "VY305",
+        "origen": "Oviedo",
+        "destino": "Logrono",
+        "fecha_salida": "2025-12-13",
+        "hora_salida": "22:33",
+        "duracion": 76,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=5995"
     },
     {
         "codigo": "UX950",
+        "origen": "Toledo",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-03-13",
+        "hora_salida": "17:18",
+        "duracion": 81,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=7895"
+    },
+    {
+        "codigo": "IB579",
+        "origen": "Las Palmas de Gran Canaria",
+        "destino": "Santa Cruz de Tenerife",
+        "fecha_salida": "2026-01-23",
+        "hora_salida": "20:13",
+        "duracion": 69,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=3697"
+    },
+    {
+        "codigo": "UX192",
+        "origen": "Pamplona",
+        "destino": "Melilla",
+        "fecha_salida": "2025-04-07",
+        "hora_salida": "00:09",
+        "duracion": 161,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=229"
+    },
+    {
+        "codigo": "IB565",
+        "origen": "Palma de Mallorca",
+        "destino": "Melilla",
+        "fecha_salida": "2025-04-23",
+        "hora_salida": "18:44",
+        "duracion": 107,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=9578"
+    },
+    {
+        "codigo": "IB791",
+        "origen": "Pamplona",
+        "destino": "Santa Cruz de Tenerife",
+        "fecha_salida": "2025-10-25",
+        "hora_salida": "02:22",
+        "duracion": 89,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=411"
+    },
+    {
+        "codigo": "VY763",
+        "origen": "Ceuta",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-04-26",
+        "hora_salida": "13:17",
+        "duracion": 68,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=4952"
+    },
+    {
+        "codigo": "VY146",
+        "origen": "Vitoria",
+        "destino": "Sevilla",
+        "fecha_salida": "2025-12-28",
+        "hora_salida": "00:52",
+        "duracion": 64,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=8072"
+    },
+    {
+        "codigo": "VY650",
+        "origen": "Sevilla",
+        "destino": "Bilbao",
+        "fecha_salida": "2025-11-14",
+        "hora_salida": "16:42",
+        "duracion": 77,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=7433"
+    },
+    {
+        "codigo": "FR701",
+        "origen": "Santa Cruz de Tenerife",
+        "destino": "Melilla",
+        "fecha_salida": "2025-08-06",
+        "hora_salida": "08:58",
+        "duracion": 155,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=6798"
+    },
+    {
+        "codigo": "FR386",
+        "origen": "Sevilla",
+        "destino": "Toledo",
+        "fecha_salida": "2025-10-13",
+        "hora_salida": "01:05",
+        "duracion": 64,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=3560"
+    },
+    {
+        "codigo": "VY975",
+        "origen": "Logrono",
+        "destino": "Santander",
+        "fecha_salida": "2025-03-20",
+        "hora_salida": "02:16",
+        "duracion": 106,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=6019"
+    },
+    {
+        "codigo": "IB507",
         "origen": "Ceuta",
         "destino": "Santa Cruz de Tenerife",
-        "fecha_salida": "2025-05-25",
-        "hora_salida": "15:56",
-        "duracion": 81
+        "fecha_salida": "2025-07-22",
+        "hora_salida": "20:26",
+        "duracion": 95,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=2002"
     },
     {
-        "codigo": "UX864",
+        "codigo": "VY757",
+        "origen": "Logrono",
+        "destino": "Valencia",
+        "fecha_salida": "2025-07-21",
+        "hora_salida": "15:06",
+        "duracion": 141,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=350"
+    },
+    {
+        "codigo": "VY228",
+        "origen": "Barcelona",
+        "destino": "Santa Cruz de Tenerife",
+        "fecha_salida": "2025-10-12",
+        "hora_salida": "20:14",
+        "duracion": 160,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=3363"
+    },
+    {
+        "codigo": "VY700",
+        "origen": "Valencia",
+        "destino": "Melilla",
+        "fecha_salida": "2025-08-24",
+        "hora_salida": "04:41",
+        "duracion": 87,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=5384"
+    },
+    {
+        "codigo": "UX979",
+        "origen": "Bilbao",
+        "destino": "Madrid",
+        "fecha_salida": "2025-09-16",
+        "hora_salida": "21:51",
+        "duracion": 78,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=8851"
+    },
+    {
+        "codigo": "IB776",
         "origen": "Palma de Mallorca",
-        "destino": "Toledo",
-        "fecha_salida": "2025-03-16",
-        "hora_salida": "03:59",
-        "duracion": 171
+        "destino": "Malaga",
+        "fecha_salida": "2025-06-01",
+        "hora_salida": "01:30",
+        "duracion": 170,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=2160"
     },
     {
-        "codigo": "FR177",
+        "codigo": "VY702",
+        "origen": "Madrid",
+        "destino": "Pamplona",
+        "fecha_salida": "2025-09-26",
+        "hora_salida": "06:35",
+        "duracion": 101,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=2855"
+    },
+    {
+        "codigo": "VY859",
+        "origen": "Palma de Mallorca",
+        "destino": "Barcelona",
+        "fecha_salida": "2026-01-23",
+        "hora_salida": "17:12",
+        "duracion": 113,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=1863"
+    },
+    {
+        "codigo": "FR896",
+        "origen": "Valencia",
+        "destino": "Toledo",
+        "fecha_salida": "2025-02-27",
+        "hora_salida": "21:10",
+        "duracion": 106,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=9727"
+    },
+    {
+        "codigo": "VY729",
+        "origen": "Sevilla",
+        "destino": "Santander",
+        "fecha_salida": "2025-11-14",
+        "hora_salida": "14:51",
+        "duracion": 65,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=4942"
+    },
+    {
+        "codigo": "IB590",
+        "origen": "Logrono",
+        "destino": "Madrid",
+        "fecha_salida": "2025-11-30",
+        "hora_salida": "07:46",
+        "duracion": 168,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=6985"
+    },
+    {
+        "codigo": "FR175",
+        "origen": "Sevilla",
+        "destino": "Toledo",
+        "fecha_salida": "2025-04-08",
+        "hora_salida": "21:51",
+        "duracion": 175,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=5278"
+    },
+    {
+        "codigo": "VY381",
+        "origen": "Bilbao",
+        "destino": "Valencia",
+        "fecha_salida": "2025-11-15",
+        "hora_salida": "04:09",
+        "duracion": 139,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=8985"
+    },
+    {
+        "codigo": "UX564",
+        "origen": "Oviedo",
+        "destino": "Vitoria",
+        "fecha_salida": "2026-02-02",
+        "hora_salida": "00:59",
+        "duracion": 124,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=7049"
+    },
+    {
+        "codigo": "VY540",
+        "origen": "Sevilla",
+        "destino": "Bilbao",
+        "fecha_salida": "2025-09-19",
+        "hora_salida": "23:05",
+        "duracion": 117,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=6780"
+    },
+    {
+        "codigo": "FR525",
+        "origen": "Oviedo",
+        "destino": "Santander",
+        "fecha_salida": "2025-12-12",
+        "hora_salida": "00:50",
+        "duracion": 153,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=5121"
+    },
+    {
+        "codigo": "UX483",
+        "origen": "Vitoria",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-06-07",
+        "hora_salida": "01:08",
+        "duracion": 79,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=1100"
+    },
+    {
+        "codigo": "IB542",
+        "origen": "Valencia",
+        "destino": "Sevilla",
+        "fecha_salida": "2025-12-18",
+        "hora_salida": "22:01",
+        "duracion": 72,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=2132"
+    },
+    {
+        "codigo": "UX786",
+        "origen": "Ceuta",
+        "destino": "Barcelona",
+        "fecha_salida": "2025-10-30",
+        "hora_salida": "08:21",
+        "duracion": 75,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=5794"
+    },
+    {
+        "codigo": "UX714",
+        "origen": "Vitoria",
+        "destino": "Barcelona",
+        "fecha_salida": "2025-07-05",
+        "hora_salida": "12:49",
+        "duracion": 99,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=1698"
+    },
+    {
+        "codigo": "VY258",
+        "origen": "Melilla",
+        "destino": "Toledo",
+        "fecha_salida": "2025-04-07",
+        "hora_salida": "17:53",
+        "duracion": 144,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=3675"
+    },
+    {
+        "codigo": "UX217",
+        "origen": "Sevilla",
+        "destino": "Pamplona",
+        "fecha_salida": "2025-06-17",
+        "hora_salida": "09:46",
+        "duracion": 157,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=9407"
+    },
+    {
+        "codigo": "IB723",
+        "origen": "Murcia",
+        "destino": "Logrono",
+        "fecha_salida": "2025-08-11",
+        "hora_salida": "06:27",
+        "duracion": 178,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=475"
+    },
+    {
+        "codigo": "UX447",
+        "origen": "Malaga",
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-04-25",
+        "hora_salida": "20:17",
+        "duracion": 104,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=2973"
+    },
+    {
+        "codigo": "IB245",
+        "origen": "Bilbao",
+        "destino": "Vitoria",
+        "fecha_salida": "2025-08-18",
+        "hora_salida": "15:10",
+        "duracion": 154,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=1504"
+    },
+    {
+        "codigo": "FR529",
+        "origen": "Toledo",
+        "destino": "Zaragoza",
+        "fecha_salida": "2025-02-24",
+        "hora_salida": "16:24",
+        "duracion": 118,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=2579"
+    },
+    {
+        "codigo": "UX895",
+        "origen": "Santa Cruz de Tenerife",
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-11-30",
+        "hora_salida": "20:32",
+        "duracion": 180,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=9769"
+    },
+    {
+        "codigo": "VY261",
+        "origen": "Valencia",
+        "destino": "Barcelona",
+        "fecha_salida": "2026-01-29",
+        "hora_salida": "13:41",
+        "duracion": 156,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=816"
+    },
+    {
+        "codigo": "FR777",
+        "origen": "Valencia",
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-11-29",
+        "hora_salida": "22:04",
+        "duracion": 114,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=9947"
+    },
+    {
+        "codigo": "UX320",
+        "origen": "Logrono",
+        "destino": "Vitoria",
+        "fecha_salida": "2025-06-05",
+        "hora_salida": "17:07",
+        "duracion": 156,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=1865"
+    },
+    {
+        "codigo": "IB390",
+        "origen": "Santa Cruz de Tenerife",
+        "destino": "Logrono",
+        "fecha_salida": "2025-09-05",
+        "hora_salida": "19:57",
+        "duracion": 146,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=7973"
+    },
+    {
+        "codigo": "IB325",
+        "origen": "Toledo",
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-12-16",
+        "hora_salida": "08:09",
+        "duracion": 110,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=898"
+    },
+    {
+        "codigo": "UX316",
+        "origen": "Madrid",
+        "destino": "Murcia",
+        "fecha_salida": "2025-05-03",
+        "hora_salida": "19:18",
+        "duracion": 158,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=4187"
+    },
+    {
+        "codigo": "IB107",
+        "origen": "Las Palmas de Gran Canaria",
+        "destino": "Santa Cruz de Tenerife",
+        "fecha_salida": "2025-09-08",
+        "hora_salida": "14:05",
+        "duracion": 123,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=2879"
+    },
+    {
+        "codigo": "VY612",
+        "origen": "Bilbao",
+        "destino": "Vitoria",
+        "fecha_salida": "2026-02-12",
+        "hora_salida": "20:27",
+        "duracion": 131,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=1181"
+    },
+    {
+        "codigo": "FR119",
+        "origen": "Pamplona",
+        "destino": "Barcelona",
+        "fecha_salida": "2025-04-05",
+        "hora_salida": "17:58",
+        "duracion": 118,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=5130"
+    },
+    {
+        "codigo": "FR826",
+        "origen": "Melilla",
+        "destino": "Vitoria",
+        "fecha_salida": "2026-01-27",
+        "hora_salida": "11:58",
+        "duracion": 141,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=4744"
+    },
+    {
+        "codigo": "IB432",
+        "origen": "Sevilla",
+        "destino": "Vitoria",
+        "fecha_salida": "2025-10-24",
+        "hora_salida": "06:22",
+        "duracion": 81,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=7539"
+    },
+    {
+        "codigo": "FR964",
+        "origen": "Santa Cruz de Tenerife",
+        "destino": "Valencia",
+        "fecha_salida": "2025-06-19",
+        "hora_salida": "07:51",
+        "duracion": 73,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=7139"
+    },
+    {
+        "codigo": "IB505",
+        "origen": "Melilla",
+        "destino": "Pamplona",
+        "fecha_salida": "2026-01-16",
+        "hora_salida": "07:05",
+        "duracion": 171,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=5563"
+    },
+    {
+        "codigo": "VY178",
+        "origen": "Murcia",
+        "destino": "Santa Cruz de Tenerife",
+        "fecha_salida": "2025-10-29",
+        "hora_salida": "13:35",
+        "duracion": 125,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=8694"
+    },
+    {
+        "codigo": "UX459",
+        "origen": "Toledo",
+        "destino": "Zaragoza",
+        "fecha_salida": "2025-09-08",
+        "hora_salida": "13:55",
+        "duracion": 153,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=3872"
+    },
+    {
+        "codigo": "UX302",
+        "origen": "Sevilla",
+        "destino": "Malaga",
+        "fecha_salida": "2025-10-17",
+        "hora_salida": "22:10",
+        "duracion": 82,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=2505"
+    },
+    {
+        "codigo": "FR575",
+        "origen": "Valencia",
+        "destino": "Zaragoza",
+        "fecha_salida": "2025-05-11",
+        "hora_salida": "16:08",
+        "duracion": 156,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=9495"
+    },
+    {
+        "codigo": "UX254",
+        "origen": "Logrono",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-04-23",
+        "hora_salida": "18:43",
+        "duracion": 116,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=7683"
+    },
+    {
+        "codigo": "UX705",
+        "origen": "Logrono",
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-07-18",
+        "hora_salida": "15:17",
+        "duracion": 67,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=8313"
+    },
+    {
+        "codigo": "FR562",
+        "origen": "Valencia",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-12-16",
+        "hora_salida": "13:16",
+        "duracion": 64,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=6042"
+    },
+    {
+        "codigo": "IB729",
+        "origen": "Las Palmas de Gran Canaria",
+        "destino": "Valencia",
+        "fecha_salida": "2025-04-27",
+        "hora_salida": "03:54",
+        "duracion": 136,
+        "aerolinea": "Air Nostrum",
+        "imagen": "https://picsum.photos/480/640?random=6300"
+    },
+    {
+        "codigo": "IB560",
+        "origen": "Logrono",
+        "destino": "Melilla",
+        "fecha_salida": "2025-09-20",
+        "hora_salida": "21:32",
+        "duracion": 176,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=3085"
+    },
+    {
+        "codigo": "VY163",
+        "origen": "Oviedo",
+        "destino": "Toledo",
+        "fecha_salida": "2025-12-22",
+        "hora_salida": "19:28",
+        "duracion": 117,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=5627"
+    },
+    {
+        "codigo": "VY140",
+        "origen": "Valencia",
+        "destino": "Ceuta",
+        "fecha_salida": "2026-02-16",
+        "hora_salida": "15:52",
+        "duracion": 91,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=7200"
+    },
+    {
+        "codigo": "VY472",
+        "origen": "Toledo",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-09-17",
+        "hora_salida": "09:24",
+        "duracion": 107,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=6348"
+    },
+    {
+        "codigo": "IB908",
+        "origen": "Vitoria",
+        "destino": "Oviedo",
+        "fecha_salida": "2026-02-15",
+        "hora_salida": "03:08",
+        "duracion": 140,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=1080"
+    },
+    {
+        "codigo": "FR390",
         "origen": "Oviedo",
         "destino": "Sevilla",
-        "fecha_salida": "2025-05-26",
-        "hora_salida": "05:10",
-        "duracion": 78
+        "fecha_salida": "2025-02-23",
+        "hora_salida": "15:29",
+        "duracion": 92,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=2464"
+    },
+    {
+        "codigo": "VY458",
+        "origen": "Oviedo",
+        "destino": "Valencia",
+        "fecha_salida": "2025-10-14",
+        "hora_salida": "00:43",
+        "duracion": 99,
+        "aerolinea": "Iberia Express",
+        "imagen": "https://picsum.photos/480/640?random=2113"
+    },
+    {
+        "codigo": "FR758",
+        "origen": "Valencia",
+        "destino": "Oviedo",
+        "fecha_salida": "2025-06-29",
+        "hora_salida": "07:30",
+        "duracion": 161,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=2094"
+    },
+    {
+        "codigo": "FR620",
+        "origen": "Toledo",
+        "destino": "Valencia",
+        "fecha_salida": "2025-09-01",
+        "hora_salida": "04:17",
+        "duracion": 106,
+        "aerolinea": "Iberia",
+        "imagen": "https://picsum.photos/480/640?random=5941"
+    },
+    {
+        "codigo": "VY449",
+        "origen": "Las Palmas de Gran Canaria",
+        "destino": "Malaga",
+        "fecha_salida": "2025-03-02",
+        "hora_salida": "23:41",
+        "duracion": 158,
+        "aerolinea": "Binter Group",
+        "imagen": "https://picsum.photos/480/640?random=3146"
+    },
+    {
+        "codigo": "VY179",
+        "origen": "Murcia",
+        "destino": "Bilbao",
+        "fecha_salida": "2025-04-07",
+        "hora_salida": "20:50",
+        "duracion": 97,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=8318"
+    },
+    {
+        "codigo": "IB777",
+        "origen": "Ceuta",
+        "destino": "Toledo",
+        "fecha_salida": "2026-02-19",
+        "hora_salida": "05:59",
+        "duracion": 103,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=2148"
+    },
+    {
+        "codigo": "VY285",
+        "origen": "Pamplona",
+        "destino": "Bilbao",
+        "fecha_salida": "2025-07-14",
+        "hora_salida": "09:23",
+        "duracion": 166,
+        "aerolinea": "Eurowings",
+        "imagen": "https://picsum.photos/480/640?random=2713"
+    },
+    {
+        "codigo": "FR473",
+        "origen": "Logrono",
+        "destino": "Barcelona",
+        "fecha_salida": "2026-01-30",
+        "hora_salida": "16:26",
+        "duracion": 146,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=7278"
+    },
+    {
+        "codigo": "VY646",
+        "origen": "Las Palmas de Gran Canaria",
+        "destino": "Santander",
+        "fecha_salida": "2026-01-12",
+        "hora_salida": "09:50",
+        "duracion": 90,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=7685"
+    },
+    {
+        "codigo": "FR572",
+        "origen": "Zaragoza",
+        "destino": "Pamplona",
+        "fecha_salida": "2026-01-02",
+        "hora_salida": "17:50",
+        "duracion": 158,
+        "aerolinea": "Volotea",
+        "imagen": "https://picsum.photos/480/640?random=6257"
+    },
+    {
+        "codigo": "FR265",
+        "origen": "Toledo",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-06-22",
+        "hora_salida": "20:23",
+        "duracion": 164,
+        "aerolinea": "Ryanair",
+        "imagen": "https://picsum.photos/480/640?random=9907"
+    },
+    {
+        "codigo": "IB756",
+        "origen": "Bilbao",
+        "destino": "Las Palmas de Gran Canaria",
+        "fecha_salida": "2025-05-27",
+        "hora_salida": "10:00",
+        "duracion": 121,
+        "aerolinea": "EasyJet",
+        "imagen": "https://picsum.photos/480/640?random=9086"
+    },
+    {
+        "codigo": "IB391",
+        "origen": "Sevilla",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-03-17",
+        "hora_salida": "22:03",
+        "duracion": 70,
+        "aerolinea": "Air Europa",
+        "imagen": "https://picsum.photos/480/640?random=4470"
+    },
+    {
+        "codigo": "VY950",
+        "origen": "Logrono",
+        "destino": "Ceuta",
+        "fecha_salida": "2025-05-27",
+        "hora_salida": "23:14",
+        "duracion": 115,
+        "aerolinea": "Vueling",
+        "imagen": "https://picsum.photos/480/640?random=3638"
     }
 ]
