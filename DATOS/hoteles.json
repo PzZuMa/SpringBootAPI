@@ -1,0 +1,2252 @@
+[
+    {
+        "nombre": "Compania ZDNN S.A. Hotel",
+        "ciudad": "Murcia",
+        "direccion": "Callejon Belen Rocha 48 Puerta 4 ",
+        "telefono": "+34 945 578 713",
+        "email": "bernardoneira@grupo.com",
+        "estrellas": 4,
+        "precio": 95.0
+    },
+    {
+        "nombre": "Comercializadora Castellana S.L.L. Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Callejon Haydee Torralba 38",
+        "telefono": "+34976376311",
+        "email": "bpablo@solera.com",
+        "estrellas": 3,
+        "precio": 155.75
+    },
+    {
+        "nombre": "Hnos Nicolau S.L. Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "Glorieta Goyo Sanabria 36",
+        "telefono": "+34886 731 781",
+        "email": "alcoleaciro@distribuciones.net",
+        "estrellas": 5,
+        "precio": 121.77
+    },
+    {
+        "nombre": "Barral y Cozar S.Com. Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Pasaje de Lucho Rocha 472 Piso 3 ",
+        "telefono": "+34807 98 05 00",
+        "email": "hvalverde@comercial.com",
+        "estrellas": 1,
+        "precio": 178.38
+    },
+    {
+        "nombre": "Comercializadora SUWD S.Coop. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Ronda Gema Yanez 44",
+        "telefono": "+34913 462 475",
+        "email": "agustialvaro@comercializadora.es",
+        "estrellas": 3,
+        "precio": 195.75
+    },
+    {
+        "nombre": "Distribuciones Rios y asociados S.Coop. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Via de Selena Canizares 21",
+        "telefono": "+34846 449 353",
+        "email": "anselma74@familia.com",
+        "estrellas": 4,
+        "precio": 200.32
+    },
+    {
+        "nombre": "Hermanos Castrillo S.L. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Pasaje Carmen Roma 201 Puerta 2 ",
+        "telefono": "+34 800 598 262",
+        "email": "mendezpanfilo@hermanos.com",
+        "estrellas": 1,
+        "precio": 116.93
+    },
+    {
+        "nombre": "Ramos & Asociados S.L.N.E Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Rambla Socorro Revilla 3",
+        "telefono": "+34922634216",
+        "email": "sosaivan@talleres.net",
+        "estrellas": 2,
+        "precio": 137.93
+    },
+    {
+        "nombre": "Banca Privada Iberica S.Com. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Callejon Pascual Vergara 68 Apt. 14 ",
+        "telefono": "+34 859 40 19 65",
+        "email": "tristan98@restauracion.net",
+        "estrellas": 4,
+        "precio": 177.4
+    },
+    {
+        "nombre": "Rosado & Asociados S.L.N.E Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Via de Lola Mas 646 Piso 4 ",
+        "telefono": "+34841366299",
+        "email": "santiago80@instalaciones.es",
+        "estrellas": 1,
+        "precio": 224.47
+    },
+    {
+        "nombre": "Vasco Salamanca Garcia S.Coop. Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "Canada Aranzazu Naranjo 4",
+        "telefono": "+34902 33 20 03",
+        "email": "dbeltran@ferreras.net",
+        "estrellas": 1,
+        "precio": 170.85
+    },
+    {
+        "nombre": "Alimentacion Campillo S.L. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Pasadizo Abril Ayllon 831",
+        "telefono": "+34842788957",
+        "email": "ksalmeron@vinicio.org",
+        "estrellas": 2,
+        "precio": 184.96
+    },
+    {
+        "nombre": "Eugenia Haro Llobet S.Com. Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Callejon Nico Montenegro 312 Apt. 62 ",
+        "telefono": "+34875 166 587",
+        "email": "nbarrios@porras.es",
+        "estrellas": 1,
+        "precio": 139.22
+    },
+    {
+        "nombre": "Adolfo Ortiz Martin S.L. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Cuesta Isidoro Llamas 17 Piso 5 ",
+        "telefono": "+34 946 272 980",
+        "email": "famores@cerda.org",
+        "estrellas": 4,
+        "precio": 105.55
+    },
+    {
+        "nombre": "Moran y Galan S.Coop. Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Callejon de Marina Robles 81 Apt. 80 ",
+        "telefono": "+34925310033",
+        "email": "corominasjorge@tecnologias.net",
+        "estrellas": 1,
+        "precio": 182.52
+    },
+    {
+        "nombre": "Juana Jaen Peinado S.A. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Canada Candido Amigo 79",
+        "telefono": "+34944319314",
+        "email": "armengolovidio@pellicer.es",
+        "estrellas": 5,
+        "precio": 161.24
+    },
+    {
+        "nombre": "Hnos Trillo S.A. Hotel",
+        "ciudad": "Murcia",
+        "direccion": "Vial de Trinidad Echeverria 949 Piso 7 ",
+        "telefono": "+34 969 45 31 47",
+        "email": "maricelasobrino@navarrete.es",
+        "estrellas": 3,
+        "precio": 261.35
+    },
+    {
+        "nombre": "Transportes Garay S.Com. Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Callejon de Silvia Llorente 408 Apt. 36 ",
+        "telefono": "+34 979 83 77 70",
+        "email": "mariscalismael@hervia.es",
+        "estrellas": 3,
+        "precio": 185.94
+    },
+    {
+        "nombre": "Carolina Nunez Roig S.L.U. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Pasaje de Kike Medina 23 Puerta 3 ",
+        "telefono": "+34911 82 33 74",
+        "email": "cornelio34@promociones.com",
+        "estrellas": 5,
+        "precio": 124.09
+    },
+    {
+        "nombre": "Banco Ballester y asociados S.L. Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Via de Salud Alberola 847",
+        "telefono": "+34 971520471",
+        "email": "perezamparo@comercial.net",
+        "estrellas": 2,
+        "precio": 116.76
+    },
+    {
+        "nombre": "Soluciones EGOT S.L.N.E Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Canada de Cloe Barrena 413 Piso 1 ",
+        "telefono": "+34846328120",
+        "email": "ssanjuan@lupe.org",
+        "estrellas": 3,
+        "precio": 158.8
+    },
+    {
+        "nombre": "Calisto Guillen Lamas S.L. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Via de Candelas Gomila 34",
+        "telefono": "+34 821024994",
+        "email": "dcasanova@servicios.com",
+        "estrellas": 4,
+        "precio": 198.99
+    },
+    {
+        "nombre": "Mora y Ibanez S.A. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Callejon Corona Arjona 97",
+        "telefono": "+34 971 42 96 71",
+        "email": "aoliveras@montesinos.es",
+        "estrellas": 4,
+        "precio": 156.03
+    },
+    {
+        "nombre": "Valbuena y Maldonado S.L. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Pasaje Chus Miranda 25 Piso 8 ",
+        "telefono": "+34 687603859",
+        "email": "wsalamanca@grupo.org",
+        "estrellas": 5,
+        "precio": 102.29
+    },
+    {
+        "nombre": "Silvia Tormo Carrion S.A. Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Canada Carmen Alcala 461",
+        "telefono": "+34 828 71 27 48",
+        "email": "severo77@talleres.com",
+        "estrellas": 1,
+        "precio": 142.91
+    },
+    {
+        "nombre": "Inmobiliaria RON S.A. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Vial de Victoriano Tome 95 Puerta 6 ",
+        "telefono": "+34973533963",
+        "email": "uarranz@julieta.com",
+        "estrellas": 1,
+        "precio": 200.52
+    },
+    {
+        "nombre": "Angelino Cases Valles S.L.N.E Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Pasaje Cornelio Zorrilla 30 Piso 2 ",
+        "telefono": "+34821745961",
+        "email": "reyes86@torrents.net",
+        "estrellas": 1,
+        "precio": 64.65
+    },
+    {
+        "nombre": "Hotel Botella y asociados S.L.U. Hotel",
+        "ciudad": "Melilla",
+        "direccion": "Rambla de Joaquina Mari 1",
+        "telefono": "+34 921 04 55 62",
+        "email": "bernardarequena@distribuciones.es",
+        "estrellas": 5,
+        "precio": 179.39
+    },
+    {
+        "nombre": "Transportes Globales S.A.U Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Callejon de Griselda Agusti 94 Apt. 17 ",
+        "telefono": "+34924 94 64 74",
+        "email": "rodrigotomas@industrias.es",
+        "estrellas": 3,
+        "precio": 139.94
+    },
+    {
+        "nombre": "Alimentacion Aviles y asociados S.L.L. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Acceso Isidoro Falcon 242 Puerta 0 ",
+        "telefono": "+34902709521",
+        "email": "nacho62@desarrollo.org",
+        "estrellas": 1,
+        "precio": 236.69
+    },
+    {
+        "nombre": "Infraestructuras Tirado S.L.N.E Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Via de Adelina Benet 73 Puerta 5 ",
+        "telefono": "+34 824 60 48 17",
+        "email": "hortensia49@pera.es",
+        "estrellas": 2,
+        "precio": 96.4
+    },
+    {
+        "nombre": "Hermanos Giralt S.L. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Ronda de Demetrio Chaves 1 Piso 7 ",
+        "telefono": "+34828138267",
+        "email": "herminia86@soluciones.es",
+        "estrellas": 3,
+        "precio": 196.71
+    },
+    {
+        "nombre": "Banco Pellicer & Asociados S.Com. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Via de Itziar Pedrero 750",
+        "telefono": "+34 886 317 139",
+        "email": "ayusomiriam@hervia.net",
+        "estrellas": 3,
+        "precio": 131.24
+    },
+    {
+        "nombre": "Fabrica LTRH S.L.N.E Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Vial de Eladio Iglesia 11",
+        "telefono": "+34 842 05 39 50",
+        "email": "juan-manuelbadia@soluciones.com",
+        "estrellas": 2,
+        "precio": 180.48
+    },
+    {
+        "nombre": "Vidal Paredes Vilanova S.Coop. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Calle Lucia Vazquez 17 Apt. 76 ",
+        "telefono": "+34949177115",
+        "email": "blascases@logistica.es",
+        "estrellas": 1,
+        "precio": 258.82
+    },
+    {
+        "nombre": "Consultoria HNLL S.Coop. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Alameda de Pastora Santana 26",
+        "telefono": "+34 916 54 52 71",
+        "email": "blazquezciro@barcena.com",
+        "estrellas": 1,
+        "precio": 166.92
+    },
+    {
+        "nombre": "Carvajal y asociados S.Com. Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Canada Eli Miguel 91 Apt. 27 ",
+        "telefono": "+34 877158514",
+        "email": "noemiromeu@hermanos.org",
+        "estrellas": 1,
+        "precio": 89.47
+    },
+    {
+        "nombre": "Orozco & Asociados S.A. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Avenida de Erasmo Anglada 9",
+        "telefono": "+34875667525",
+        "email": "lorena59@comercial.org",
+        "estrellas": 1,
+        "precio": 119.85
+    },
+    {
+        "nombre": "Gisela Rodrigo Torralba S.Coop. Hotel",
+        "ciudad": "Zaragoza",
+        "direccion": "Glorieta de Marisol Vila 6 Piso 1 ",
+        "telefono": "+34 887 97 84 03",
+        "email": "aballesteros@inversiones.org",
+        "estrellas": 2,
+        "precio": 167.33
+    },
+    {
+        "nombre": "Logistica Carretero & Asociados S.Coop. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Vial Ricardo Grau 285 Piso 0 ",
+        "telefono": "+34 960 71 59 69",
+        "email": "srios@servicios.es",
+        "estrellas": 3,
+        "precio": 196.84
+    },
+    {
+        "nombre": "Borja y asociados S.L.L. Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "Camino de Salvador Zamora 7",
+        "telefono": "+34902 53 52 18",
+        "email": "vianaguillermo@ortega.com",
+        "estrellas": 5,
+        "precio": 108.86
+    },
+    {
+        "nombre": "Finanzas Duran & Asociados S.L. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Cuesta Abril Sanchez 695",
+        "telefono": "+34845717744",
+        "email": "ortizanunciacion@inversiones.com",
+        "estrellas": 5,
+        "precio": 177.27
+    },
+    {
+        "nombre": "Sevillano y Armengol S.Coop. Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Cuesta de Angelica Contreras 8",
+        "telefono": "+34826 518 203",
+        "email": "hsaavedra@promociones.es",
+        "estrellas": 5,
+        "precio": 125.66
+    },
+    {
+        "nombre": "Neira y Badia S.L. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Alameda Ciriaco Pomares 34 Piso 1 ",
+        "telefono": "+34 844 546 291",
+        "email": "celia65@compania.com",
+        "estrellas": 3,
+        "precio": 134.39
+    },
+    {
+        "nombre": "Mendizabal & Asociados S.L.N.E Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Glorieta de Jaime Cervantes 51 Apt. 88 ",
+        "telefono": "+34985 05 92 96",
+        "email": "ferminescriva@supermercados.net",
+        "estrellas": 5,
+        "precio": 164.51
+    },
+    {
+        "nombre": "Emiliana Lopez Sanchez S.A.U Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Cuesta de Vera Ferrera 89",
+        "telefono": "+34974468862",
+        "email": "nicolasachacon@comercial.com",
+        "estrellas": 1,
+        "precio": 176.9
+    },
+    {
+        "nombre": "Instalaciones NO S.L.N.E Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Avenida de Visitacion Girona 15",
+        "telefono": "+34947068536",
+        "email": "pererajacobo@hermanos.es",
+        "estrellas": 4,
+        "precio": 128.34
+    },
+    {
+        "nombre": "Desarrollo Arenas S.C.P Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Cuesta Vidal Adadia 1 Piso 3 ",
+        "telefono": "+34845 898 614",
+        "email": "marcialcarro@grupo.es",
+        "estrellas": 5,
+        "precio": 220.75
+    },
+    {
+        "nombre": "Consultoria FAA S.A.U Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Ronda de Abel Osorio 79",
+        "telefono": "+34861 85 18 88",
+        "email": "porterosamanta@armando.com",
+        "estrellas": 2,
+        "precio": 85.55
+    },
+    {
+        "nombre": "Bauza y asociados S.A.U Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Vial de Arsenio Ortuno 852",
+        "telefono": "+34977221704",
+        "email": "armandoflores@hermanos.es",
+        "estrellas": 4,
+        "precio": 165.68
+    },
+    {
+        "nombre": "Banco Feijoo y asociados S.Com. Hotel",
+        "ciudad": "Zaragoza",
+        "direccion": "Callejon de Edelmiro Pedro 86",
+        "telefono": "+34942 52 77 58",
+        "email": "nicolasa16@suministros.org",
+        "estrellas": 5,
+        "precio": 91.89
+    },
+    {
+        "nombre": "Supermercados Rojas & Asociados S.L. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Calle de Lucia Osorio 164 Apt. 65 ",
+        "telefono": "+34983 202 970",
+        "email": "bonifacioguzman@paredes.com",
+        "estrellas": 5,
+        "precio": 146.56
+    },
+    {
+        "nombre": "Supermercados Pelaez S.Com. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Pasadizo Quique Puig 44",
+        "telefono": "+34 828 02 78 68",
+        "email": "juarezmatilde@supermercados.es",
+        "estrellas": 2,
+        "precio": 127.58
+    },
+    {
+        "nombre": "Consultoria Globales S.L.L. Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Pasaje Chucho Montenegro 91 Puerta 4 ",
+        "telefono": "+34 901225831",
+        "email": "monicachamorro@transportes.es",
+        "estrellas": 2,
+        "precio": 128.4
+    },
+    {
+        "nombre": "Nieves Castilla Boix S.A. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Pasadizo de Segismundo Recio 612 Puerta 1 ",
+        "telefono": "+34972785289",
+        "email": "maria-jesuscastello@valverde.com",
+        "estrellas": 3,
+        "precio": 129.48
+    },
+    {
+        "nombre": "Distribuciones Caceres y asociados S.L.N.E Hotel",
+        "ciudad": "Santander",
+        "direccion": "Pasadizo de Teresa Luz 5",
+        "telefono": "+34872 842 498",
+        "email": "valverdefelipa@despacho.es",
+        "estrellas": 4,
+        "precio": 105.12
+    },
+    {
+        "nombre": "Familia Bertran S.A. Hotel",
+        "ciudad": "Murcia",
+        "direccion": "Camino Sigfrido Anglada 58 Puerta 4 ",
+        "telefono": "+34 978 36 47 10",
+        "email": "valerioricart@abril.es",
+        "estrellas": 5,
+        "precio": 165.17
+    },
+    {
+        "nombre": "Ojeda y asociados S.A. Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Alameda Jose Antonio Soler 5 Piso 3 ",
+        "telefono": "+34 844 104 696",
+        "email": "rosendacuesta@milla.es",
+        "estrellas": 1,
+        "precio": 115.77
+    },
+    {
+        "nombre": "Andrea Mendez Valencia S.A. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Urbanizacion de Ildefonso Osorio 1 Piso 7 ",
+        "telefono": "+34 976480162",
+        "email": "lucia56@arrieta.net",
+        "estrellas": 1,
+        "precio": 146.26
+    },
+    {
+        "nombre": "Malo & Asociados S.Com. Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Via de Eduardo Caballero 65 Puerta 5 ",
+        "telefono": "+34844 398 680",
+        "email": "ariasemigdio@saez.com",
+        "estrellas": 5,
+        "precio": 139.82
+    },
+    {
+        "nombre": "Montalban & Asociados S.Com. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Pasadizo de Patricia Vergara 579 Piso 0 ",
+        "telefono": "+34928 51 69 40",
+        "email": "plara@comercial.es",
+        "estrellas": 3,
+        "precio": 74.35
+    },
+    {
+        "nombre": "Industrias Angulo S.Coop. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Plaza Valero Mir 72",
+        "telefono": "+34873689702",
+        "email": "chelomorcillo@begona.es",
+        "estrellas": 3,
+        "precio": 96.45
+    },
+    {
+        "nombre": "Pablo y asociados S.Coop. Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Callejon Celestina Martin 54",
+        "telefono": "+34 874 75 75 84",
+        "email": "domingo98@prat.com",
+        "estrellas": 1,
+        "precio": 137.04
+    },
+    {
+        "nombre": "Banco Maestre & Asociados S.Com. Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Cuesta de Iker Franch 548 Apt. 19 ",
+        "telefono": "+34879 30 83 30",
+        "email": "reyesnatalio@cornelio.com",
+        "estrellas": 2,
+        "precio": 132.79
+    },
+    {
+        "nombre": "Tamarit y Tejada S.L. Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Canada de Flavia Barranco 4 Puerta 0 ",
+        "telefono": "+34849 62 06 72",
+        "email": "sarita00@construccion.es",
+        "estrellas": 1,
+        "precio": 153.26
+    },
+    {
+        "nombre": "Talleres Llamas S.A. Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Rambla de Lupe Segarra 12",
+        "telefono": "+34923 493 296",
+        "email": "uvillalba@servicios.es",
+        "estrellas": 3,
+        "precio": 257.72
+    },
+    {
+        "nombre": "Supermercados Integrales S.L.N.E Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Callejon Francisca Palomares 20 Piso 4 ",
+        "telefono": "+34 847684145",
+        "email": "isidorocanellas@ezequiel.es",
+        "estrellas": 2,
+        "precio": 104.21
+    },
+    {
+        "nombre": "Industrias Espanola S.Coop. Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Camino Dani Barrio 983 Apt. 25 ",
+        "telefono": "+34984713971",
+        "email": "dbaquero@soluciones.es",
+        "estrellas": 5,
+        "precio": 170.47
+    },
+    {
+        "nombre": "Banca Privada Priego y asociados S.L.L. Hotel",
+        "ciudad": "Melilla",
+        "direccion": "Calle Teo Ocana 9",
+        "telefono": "+34 811704622",
+        "email": "yperello@ruth.com",
+        "estrellas": 5,
+        "precio": 92.22
+    },
+    {
+        "nombre": "Carrasco & Asociados S.L.U. Hotel",
+        "ciudad": "Melilla",
+        "direccion": "Urbanizacion Perlita Acevedo 5 Piso 8 ",
+        "telefono": "+34 949 86 33 75",
+        "email": "leonciofabregat@banco.com",
+        "estrellas": 5,
+        "precio": 121.85
+    },
+    {
+        "nombre": "Hnos Atienza S.A.U Hotel",
+        "ciudad": "Santander",
+        "direccion": "Pasaje de Joaquin Gaya 3",
+        "telefono": "+34981 43 95 99",
+        "email": "jordi42@soluciones.com",
+        "estrellas": 4,
+        "precio": 205.33
+    },
+    {
+        "nombre": "Valcarcel y Arevalo S.L.N.E Hotel",
+        "ciudad": "Melilla",
+        "direccion": "Ronda de Sebastian Company 36 Puerta 7 ",
+        "telefono": "+34 880 342 708",
+        "email": "jriera@restauracion.es",
+        "estrellas": 1,
+        "precio": 136.28
+    },
+    {
+        "nombre": "Supermercados ELJ S.C.P Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Glorieta Nilda Gaya 63",
+        "telefono": "+34901033173",
+        "email": "reguloheras@luna.es",
+        "estrellas": 4,
+        "precio": 87.17
+    },
+    {
+        "nombre": "Infraestructuras Palomares y asociados S.Coop. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Glorieta de Raimundo Milla 40 Puerta 2 ",
+        "telefono": "+34714899642",
+        "email": "narcisograu@hoyos.es",
+        "estrellas": 1,
+        "precio": 63.42
+    },
+    {
+        "nombre": "Transportes Trujillo y asociados S.A. Hotel",
+        "ciudad": "Pamplona",
+        "direccion": "Vial Lola Torres 18 Puerta 0 ",
+        "telefono": "+34821006231",
+        "email": "agapitogil@raul.com",
+        "estrellas": 4,
+        "precio": 300.55
+    },
+    {
+        "nombre": "Hnos Albero S.A. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Plaza de Ani Ros 21 Puerta 2 ",
+        "telefono": "+34 880 398 454",
+        "email": "xbermudez@segovia.net",
+        "estrellas": 4,
+        "precio": 231.91
+    },
+    {
+        "nombre": "Compania Angulo & Asociados S.Com. Hotel",
+        "ciudad": "Zaragoza",
+        "direccion": "Calle de Febe Agusti 81 Piso 5 ",
+        "telefono": "+34 825803397",
+        "email": "arturo14@grupo.net",
+        "estrellas": 3,
+        "precio": 168.06
+    },
+    {
+        "nombre": "Servicios Benitez S.Com. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Paseo de Natanael Plana 91",
+        "telefono": "+34 925 016 315",
+        "email": "bmorera@supermercados.es",
+        "estrellas": 4,
+        "precio": 102.99
+    },
+    {
+        "nombre": "Estevez y Pinto S.A. Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Avenida Celestino Leal 36 Puerta 6 ",
+        "telefono": "+34 920 511 047",
+        "email": "maria41@compania.es",
+        "estrellas": 2,
+        "precio": 164.81
+    },
+    {
+        "nombre": "Banca Privada SE S.Coop. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Plaza de Lupe Riba 91 Apt. 98 ",
+        "telefono": "+34848 62 24 44",
+        "email": "ecoello@suministros.es",
+        "estrellas": 4,
+        "precio": 138.17
+    },
+    {
+        "nombre": "Promociones XLZ S.Coop. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Vial Marco Agudo 75 Piso 7 ",
+        "telefono": "+34 923 692 459",
+        "email": "alejandramiralles@servicios.es",
+        "estrellas": 3,
+        "precio": 171.37
+    },
+    {
+        "nombre": "Logistica del Mediterraneo S.C.P Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Via de Cintia Folch 982 Apt. 73 ",
+        "telefono": "+34964167243",
+        "email": "genoveva26@benavent.es",
+        "estrellas": 3,
+        "precio": 201.82
+    },
+    {
+        "nombre": "Velazquez y Ripoll S.Coop. Hotel",
+        "ciudad": "Pamplona",
+        "direccion": "Via Maria Jose Hurtado 12 Puerta 6 ",
+        "telefono": "+34922 610 143",
+        "email": "victor-manuelperello@sierra.com",
+        "estrellas": 2,
+        "precio": 281.49
+    },
+    {
+        "nombre": "Cruz Marques Ricart S.L.N.E Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Vial Pablo Mesa 47",
+        "telefono": "+34984 75 71 77",
+        "email": "bonifacio40@banca.net",
+        "estrellas": 5,
+        "precio": 99.23
+    },
+    {
+        "nombre": "Distribuciones Muro S.Coop. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "C. Eva Espinosa 76 Apt. 93 ",
+        "telefono": "+34972966033",
+        "email": "marina19@farmaceutica.es",
+        "estrellas": 5,
+        "precio": 150.74
+    },
+    {
+        "nombre": "Poza y Carbonell S.Com. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Canada Zaida Blazquez 25 Apt. 41 ",
+        "telefono": "+34 865286692",
+        "email": "lrocha@fabiola.com",
+        "estrellas": 2,
+        "precio": 208.79
+    },
+    {
+        "nombre": "Logistica Sanmartin S.Coop. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Cuesta Elias Ferrero 98 Puerta 7 ",
+        "telefono": "+34946767721",
+        "email": "gimenezluis@hermanos.com",
+        "estrellas": 2,
+        "precio": 122.8
+    },
+    {
+        "nombre": "Clarisa Valbuena Vicente S.A. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Paseo de Palmira Pedraza 907",
+        "telefono": "+34 876613407",
+        "email": "pablo17@industrias.es",
+        "estrellas": 3,
+        "precio": 90.08
+    },
+    {
+        "nombre": "Desarrollo Gabaldon S.L.L. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Paseo de Lisandro Dieguez 54",
+        "telefono": "+34884 812 604",
+        "email": "judithcazorla@despacho.es",
+        "estrellas": 5,
+        "precio": 137.38
+    },
+    {
+        "nombre": "Erasmo Leiva Ribas S.Com. Hotel",
+        "ciudad": "Malaga",
+        "direccion": "C. Aranzazu Lobo 87",
+        "telefono": "+34921 90 17 51",
+        "email": "bgibert@transportes.org",
+        "estrellas": 4,
+        "precio": 88.43
+    },
+    {
+        "nombre": "Castrillo y asociados S.L. Hotel",
+        "ciudad": "Murcia",
+        "direccion": "Via Eugenia Segura 2",
+        "telefono": "+34846 77 06 32",
+        "email": "federico41@ibanez.com",
+        "estrellas": 4,
+        "precio": 188.31
+    },
+    {
+        "nombre": "Hnos Mayoral S.L. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Avenida de Juliana Bustamante 4",
+        "telefono": "+34 977 12 93 87",
+        "email": "aguilojosefa@carreno.es",
+        "estrellas": 2,
+        "precio": 154.22
+    },
+    {
+        "nombre": "Hotel EPF S.Com. Hotel",
+        "ciudad": "Santander",
+        "direccion": "C. Maria Angeles Canas 91 Puerta 0 ",
+        "telefono": "+34 848 753 269",
+        "email": "fgaya@desarrollo.es",
+        "estrellas": 2,
+        "precio": 227.19
+    },
+    {
+        "nombre": "Industrias Lluch S.L. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Plaza de Regina Mata 98",
+        "telefono": "+34 871640376",
+        "email": "hernandoangelina@alimentacion.es",
+        "estrellas": 4,
+        "precio": 150.43
+    },
+    {
+        "nombre": "Tecnologias Beltran S.A. Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Callejon Ildefonso Arino 7",
+        "telefono": "+34 982 48 66 61",
+        "email": "leopoldoblanes@compania.com",
+        "estrellas": 2,
+        "precio": 179.99
+    },
+    {
+        "nombre": "Portillo & Asociados S.Com. Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "Calle Jose Ignacio Boix 81 Puerta 9 ",
+        "telefono": "+34 807 42 10 20",
+        "email": "anabeloliver@distribuciones.org",
+        "estrellas": 1,
+        "precio": 246.2
+    },
+    {
+        "nombre": "Banca Privada POD S.L. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Pasaje de Ariadna Palomino 8",
+        "telefono": "+34 848 52 41 91",
+        "email": "manuverdu@familia.es",
+        "estrellas": 1,
+        "precio": 187.46
+    },
+    {
+        "nombre": "Pinol & Asociados S.A. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Urbanizacion de Modesto Hurtado 55",
+        "telefono": "+34 822951802",
+        "email": "nildavillalobos@hnos.org",
+        "estrellas": 3,
+        "precio": 141.07
+    },
+    {
+        "nombre": "Logistica Boix y asociados S.A. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Camino de Milagros Mateu 637",
+        "telefono": "+34 980383206",
+        "email": "guijarrocamila@agusti.es",
+        "estrellas": 1,
+        "precio": 199.22
+    },
+    {
+        "nombre": "Construccion Fuertes & Asociados S.Com. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Callejon Ciro Arranz 78",
+        "telefono": "+34937 191 826",
+        "email": "barriostrinidad@industrias.es",
+        "estrellas": 3,
+        "precio": 213.11
+    },
+    {
+        "nombre": "Morera y Monreal S.Coop. Hotel",
+        "ciudad": "Pamplona",
+        "direccion": "Glorieta Elias Canales 31",
+        "telefono": "+34972756185",
+        "email": "vitomendez@juan.org",
+        "estrellas": 5,
+        "precio": 132.39
+    },
+    {
+        "nombre": "Grupo Mosquera S.A. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "C. de Armida Aviles 34",
+        "telefono": "+34 746788317",
+        "email": "chavesdomingo@familia.es",
+        "estrellas": 3,
+        "precio": 115.32
+    },
+    {
+        "nombre": "Blasco y asociados S.L.N.E Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Avenida Hector Salcedo 61",
+        "telefono": "+34830 70 29 66",
+        "email": "yandreu@duque.com",
+        "estrellas": 3,
+        "precio": 178.98
+    },
+    {
+        "nombre": "Inmobiliaria Salmeron & Asociados S.A. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Cuesta de Sergio Tello 2",
+        "telefono": "+34886626383",
+        "email": "pineiromerche@tena.es",
+        "estrellas": 4,
+        "precio": 169.53
+    },
+    {
+        "nombre": "Leon y Escolano S.A. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Callejon Bautista Suarez 459",
+        "telefono": "+34 847133480",
+        "email": "coralpont@duran.es",
+        "estrellas": 4,
+        "precio": 255.1
+    },
+    {
+        "nombre": "Anaya y asociados S.L.N.E Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Cuesta Candela Mendizabal 17",
+        "telefono": "+34 824 03 93 08",
+        "email": "vabascal@desarrollo.es",
+        "estrellas": 3,
+        "precio": 121.32
+    },
+    {
+        "nombre": "Familia Coloma S.Coop. Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Pasadizo Rosalinda Patino 6",
+        "telefono": "+34944 915 452",
+        "email": "lupitarueda@florencia.es",
+        "estrellas": 4,
+        "precio": 103.15
+    },
+    {
+        "nombre": "Farmaceutica del Mediterraneo S.Com. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Rambla Luisina Abellan 169 Apt. 95 ",
+        "telefono": "+34876917251",
+        "email": "ovidiomontenegro@compania.org",
+        "estrellas": 1,
+        "precio": 83.14
+    },
+    {
+        "nombre": "Industrias Espanola S.Com. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Calle Rolando Rios 72",
+        "telefono": "+34 980 658 617",
+        "email": "ferminsanmiguel@banco.es",
+        "estrellas": 1,
+        "precio": 158.44
+    },
+    {
+        "nombre": "Comercializadora Buendia S.Com. Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Ronda Francisca Cozar 162 Apt. 53 ",
+        "telefono": "+34 871 68 84 44",
+        "email": "clementeayala@tudela.com",
+        "estrellas": 5,
+        "precio": 124.15
+    },
+    {
+        "nombre": "Bonilla y Marino S.L.L. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Via Amancio Gabaldon 24 Piso 1 ",
+        "telefono": "+34902 677 418",
+        "email": "xesteban@peiro.org",
+        "estrellas": 1,
+        "precio": 162.97
+    },
+    {
+        "nombre": "Adela Lago Gonzalo S.L.L. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Via Che Nunez 469",
+        "telefono": "+34 816 86 87 93",
+        "email": "fmartinez@arana.com",
+        "estrellas": 2,
+        "precio": 165.42
+    },
+    {
+        "nombre": "Supermercados XI S.A.T. Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Calle Teo Bermudez 33",
+        "telefono": "+34 883 511 686",
+        "email": "rocio48@yessica.com",
+        "estrellas": 1,
+        "precio": 235.3
+    },
+    {
+        "nombre": "Conde y Colomer S.Coop. Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Camino Melisa Cabrero 68",
+        "telefono": "+34 947 467 997",
+        "email": "duenasleoncio@cobo.es",
+        "estrellas": 5,
+        "precio": 86.14
+    },
+    {
+        "nombre": "Comercial del Sur S.L.N.E Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Alameda Olimpia Mateo 84 Puerta 1 ",
+        "telefono": "+34877 24 75 46",
+        "email": "expositovasco@soluciones.es",
+        "estrellas": 3,
+        "precio": 183.0
+    },
+    {
+        "nombre": "Grupo Bastida S.Com. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Pasadizo Serafina Andres 43 Apt. 30 ",
+        "telefono": "+34973 05 34 57",
+        "email": "rcasals@grupo.es",
+        "estrellas": 3,
+        "precio": 85.24
+    },
+    {
+        "nombre": "Tecnologias Olmo S.Com. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Canada Amaro Pomares 3 Puerta 3 ",
+        "telefono": "+34876334680",
+        "email": "saezviviana@farmaceutica.org",
+        "estrellas": 5,
+        "precio": 180.22
+    },
+    {
+        "nombre": "Suministros Penas y asociados S.Coop. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Canada de Ines Vinas 269",
+        "telefono": "+34 708589944",
+        "email": "tiradobernardo@lloret.org",
+        "estrellas": 3,
+        "precio": 171.16
+    },
+    {
+        "nombre": "Finanzas Conesa & Asociados S.L.N.E Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Vial de Lorena Amigo 54 Piso 6 ",
+        "telefono": "+34 943099353",
+        "email": "gpalmer@distribuciones.com",
+        "estrellas": 4,
+        "precio": 229.09
+    },
+    {
+        "nombre": "Farmaceutica Narvaez & Asociados S.A.T. Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Ronda de Modesta Munoz 54",
+        "telefono": "+34 975 170 999",
+        "email": "suredatamara@consultoria.es",
+        "estrellas": 2,
+        "precio": 144.86
+    },
+    {
+        "nombre": "Grupo Cervantes S.L.U. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Camino de Teodora Seco 35 Apt. 75 ",
+        "telefono": "+34 855007432",
+        "email": "ameliaborja@suministros.es",
+        "estrellas": 2,
+        "precio": 198.35
+    },
+    {
+        "nombre": "Acuna y Arellano S.Coop. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Alameda Marita Farre 1 Puerta 3 ",
+        "telefono": "+34877 542 168",
+        "email": "florencio10@instalaciones.com",
+        "estrellas": 5,
+        "precio": 102.71
+    },
+    {
+        "nombre": "Trillo y asociados S.L. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Plaza de Javier Gomez 13",
+        "telefono": "+34 982 215 064",
+        "email": "asensiogisela@banca.org",
+        "estrellas": 3,
+        "precio": 16.92
+    },
+    {
+        "nombre": "Judith Coronado Fuertes S.L. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Ronda de Gisela Cabrero 349",
+        "telefono": "+34 948 18 91 41",
+        "email": "valencianoheliodoro@infraestructuras.es",
+        "estrellas": 3,
+        "precio": 53.06
+    },
+    {
+        "nombre": "Distribuciones Ariza y asociados S.L.N.E Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Urbanizacion de Abilio Alberto 2 Puerta 7 ",
+        "telefono": "+34 845 18 11 43",
+        "email": "qmarti@aureliano.org",
+        "estrellas": 4,
+        "precio": 149.35
+    },
+    {
+        "nombre": "Milla y asociados S.L. Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Plaza Reyes Chacon 65",
+        "telefono": "+34969415521",
+        "email": "dpaez@restauracion.com",
+        "estrellas": 3,
+        "precio": 244.65
+    },
+    {
+        "nombre": "Desarrollo LZRF S.L.N.E Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Rambla de Emiliana Pino 19 Puerta 2 ",
+        "telefono": "+34 978 71 67 01",
+        "email": "fatima50@manufacturas.net",
+        "estrellas": 4,
+        "precio": 199.47
+    },
+    {
+        "nombre": "Osvaldo Plaza Comas S.L.L. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Rambla Anselma Soria 22",
+        "telefono": "+34979 53 54 08",
+        "email": "carmelitapinedo@gutierrez.es",
+        "estrellas": 3,
+        "precio": 133.33
+    },
+    {
+        "nombre": "Transportes QYM S.A. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Calle de Cecilia Abad 5 Puerta 8 ",
+        "telefono": "+34 874755037",
+        "email": "charo99@lilia.net",
+        "estrellas": 3,
+        "precio": 133.57
+    },
+    {
+        "nombre": "Hermanos Padilla S.L.L. Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Via de Artemio Cordoba 72 Apt. 49 ",
+        "telefono": "+34 872 31 63 73",
+        "email": "candido60@supermercados.com",
+        "estrellas": 4,
+        "precio": 136.7
+    },
+    {
+        "nombre": "Tomas y Verdugo S.L. Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Vial Cristobal Ponce 995",
+        "telefono": "+34942 693 465",
+        "email": "victor22@vila.es",
+        "estrellas": 5,
+        "precio": 49.44
+    },
+    {
+        "nombre": "Finanzas Iberica S.L. Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Vial de Leocadia Enriquez 285 Piso 8 ",
+        "telefono": "+34977 99 68 46",
+        "email": "yanezcustodio@hnos.com",
+        "estrellas": 5,
+        "precio": 230.56
+    },
+    {
+        "nombre": "Inmobiliaria Iberia S.L.U. Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Calle Jessica Marquez 18 Piso 7 ",
+        "telefono": "+34 826 98 38 63",
+        "email": "jimena06@riera.com",
+        "estrellas": 2,
+        "precio": 242.91
+    },
+    {
+        "nombre": "Hermanos Franco S.Coop. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Acceso Marisol Ferrandiz 84 Apt. 12 ",
+        "telefono": "+34849 816 064",
+        "email": "eladio29@alimentacion.com",
+        "estrellas": 1,
+        "precio": 108.04
+    },
+    {
+        "nombre": "Grupo Mora S.Coop. Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Camino de Carmelita Palma 6 Puerta 3 ",
+        "telefono": "+34 868 18 26 88",
+        "email": "wbriones@fabrica.org",
+        "estrellas": 3,
+        "precio": 126.78
+    },
+    {
+        "nombre": "Tecnologias Avanzadas S.A. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Urbanizacion de Veronica Hervas 6 Piso 1 ",
+        "telefono": "+34942 48 40 85",
+        "email": "ctorrecilla@finanzas.com",
+        "estrellas": 4,
+        "precio": 211.3
+    },
+    {
+        "nombre": "Familia Galvez S.L. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Via de Hernan Rozas 3",
+        "telefono": "+34 737 501 102",
+        "email": "celestina19@infraestructuras.es",
+        "estrellas": 5,
+        "precio": 100.91
+    },
+    {
+        "nombre": "Molina y Alegria S.Com. Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Avenida Maristela Arroyo 6",
+        "telefono": "+34981144914",
+        "email": "zpizarro@hnos.com",
+        "estrellas": 3,
+        "precio": 125.77
+    },
+    {
+        "nombre": "Marquez y Cobos S.Com. Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Paseo Sandra Cid 1 Apt. 99 ",
+        "telefono": "+34 944881435",
+        "email": "sevevila@distribuciones.org",
+        "estrellas": 4,
+        "precio": 167.61
+    },
+    {
+        "nombre": "Consultoria Iberia S.L. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Paseo de Camilo Manso 5",
+        "telefono": "+34825397552",
+        "email": "corneliolopez@finanzas.com",
+        "estrellas": 3,
+        "precio": 229.69
+    },
+    {
+        "nombre": "Molina y asociados S.A. Hotel",
+        "ciudad": "Zaragoza",
+        "direccion": "Urbanizacion Leticia Rubio 35 Puerta 5 ",
+        "telefono": "+34977 77 54 78",
+        "email": "echevarriaflavia@inmobiliaria.com",
+        "estrellas": 5,
+        "precio": 149.14
+    },
+    {
+        "nombre": "Banca Privada GQEN S.A.T. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Paseo de Tere Suarez 75",
+        "telefono": "+34 877 942 788",
+        "email": "puenteprudencio@grupo.com",
+        "estrellas": 4,
+        "precio": 52.04
+    },
+    {
+        "nombre": "Feliciano Escamilla Coll S.L. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Calle de Isidoro Torrent 51 Piso 3 ",
+        "telefono": "+34 803385677",
+        "email": "arinoflorencia@calderon.org",
+        "estrellas": 3,
+        "precio": 199.57
+    },
+    {
+        "nombre": "Restauracion Pinedo S.Com. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "C. de Vilma Gisbert 665",
+        "telefono": "+34 979 790 827",
+        "email": "jeremiasbenitez@fabrica.com",
+        "estrellas": 5,
+        "precio": 124.31
+    },
+    {
+        "nombre": "Soluciones Internacionales S.L. Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Cuesta de Humberto Cuellar 40 Apt. 29 ",
+        "telefono": "+34 847 28 09 20",
+        "email": "juanescolano@alfonso.net",
+        "estrellas": 2,
+        "precio": 201.28
+    },
+    {
+        "nombre": "Elvira Soto Tirado S.A. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Camino Otilia Espada 384 Puerta 5 ",
+        "telefono": "+34 973 99 13 66",
+        "email": "cesaralegre@soluciones.com",
+        "estrellas": 2,
+        "precio": 182.82
+    },
+    {
+        "nombre": "Valeria Arias Vaquero S.L. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Vial de Valeria Abella 78",
+        "telefono": "+34 930863765",
+        "email": "roigeloy@tecnologias.es",
+        "estrellas": 1,
+        "precio": 122.1
+    },
+    {
+        "nombre": "Finanzas Adan & Asociados S.Coop. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "C. Fatima Fuertes 66",
+        "telefono": "+34 827269448",
+        "email": "npavon@servicios.es",
+        "estrellas": 5,
+        "precio": 88.11
+    },
+    {
+        "nombre": "Promociones Tomas S.C.P Hotel",
+        "ciudad": "Santander",
+        "direccion": "C. de Magdalena Cervera 4 Piso 2 ",
+        "telefono": "+34 826 386 589",
+        "email": "cuevasroque@familia.es",
+        "estrellas": 5,
+        "precio": 137.04
+    },
+    {
+        "nombre": "Comercializadora LEB S.Com. Hotel",
+        "ciudad": "Melilla",
+        "direccion": "Calle de Maria Angeles Diez 17 Apt. 84 ",
+        "telefono": "+34 872098839",
+        "email": "ileanaaraujo@haro.com",
+        "estrellas": 1,
+        "precio": 102.94
+    },
+    {
+        "nombre": "Servicios Osuna y asociados S.Com. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Avenida Zaira Bosch 648",
+        "telefono": "+34 925439376",
+        "email": "juliangabino@velasco.org",
+        "estrellas": 4,
+        "precio": 143.93
+    },
+    {
+        "nombre": "Caro y asociados S.L.N.E Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "C. de Chus Tomas 85 Puerta 7 ",
+        "telefono": "+34737141633",
+        "email": "seve58@hermanos.es",
+        "estrellas": 5,
+        "precio": 164.66
+    },
+    {
+        "nombre": "Benitez & Asociados S.Coop. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Camino Julio Cesar Espana 47 Apt. 34 ",
+        "telefono": "+34 874333952",
+        "email": "carreterozoraida@transportes.es",
+        "estrellas": 4,
+        "precio": 151.86
+    },
+    {
+        "nombre": "Tomasa Llobet Tudela S.A. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Urbanizacion de Maricela Castellanos 9 Piso 7 ",
+        "telefono": "+34 988085627",
+        "email": "villegasedgar@aguirre.es",
+        "estrellas": 5,
+        "precio": 114.37
+    },
+    {
+        "nombre": "Logistica FNC S.A.U Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Acceso de Geronimo Valenzuela 73 Puerta 5 ",
+        "telefono": "+34 928647292",
+        "email": "odalyscabo@industrias.com",
+        "estrellas": 2,
+        "precio": 91.38
+    },
+    {
+        "nombre": "Noelia Agusti Egea S.Com. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Cuesta de Marcelo Iglesia 790",
+        "telefono": "+34825 20 34 71",
+        "email": "qnadal@palomino.es",
+        "estrellas": 3,
+        "precio": 103.88
+    },
+    {
+        "nombre": "Mineria YKDH S.A. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Alameda de Ignacia Vicens 27 Piso 9 ",
+        "telefono": "+34887 72 25 69",
+        "email": "fbellido@manufacturas.org",
+        "estrellas": 1,
+        "precio": 150.27
+    },
+    {
+        "nombre": "Servicios Linares y asociados S.L. Hotel",
+        "ciudad": "Melilla",
+        "direccion": "Ronda de Florencio Espejo 3 Puerta 3 ",
+        "telefono": "+34881 13 26 11",
+        "email": "saenzcarlota@familia.com",
+        "estrellas": 2,
+        "precio": 74.9
+    },
+    {
+        "nombre": "Infraestructuras IIUQ S.C.P Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Vial de Eleuterio Zurita 10 Puerta 5 ",
+        "telefono": "+34921 778 487",
+        "email": "joseelorza@evangelina.org",
+        "estrellas": 5,
+        "precio": 181.61
+    },
+    {
+        "nombre": "Tirado & Asociados S.L. Hotel",
+        "ciudad": "Zaragoza",
+        "direccion": "Acceso de Seve Juan 14 Apt. 82 ",
+        "telefono": "+34924478077",
+        "email": "agapito64@alimentacion.es",
+        "estrellas": 5,
+        "precio": 130.18
+    },
+    {
+        "nombre": "Iborra y Cardenas S.L. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Urbanizacion de Juan Jose Bernad 93 Puerta 4 ",
+        "telefono": "+34887 846 312",
+        "email": "luis-miguelcano@esmeralda.es",
+        "estrellas": 5,
+        "precio": 142.51
+    },
+    {
+        "nombre": "Logistica Avanzadas S.A. Hotel",
+        "ciudad": "Pamplona",
+        "direccion": "Via Lope Leon 17",
+        "telefono": "+34878120735",
+        "email": "ymesa@ramiro.com",
+        "estrellas": 3,
+        "precio": 137.2
+    },
+    {
+        "nombre": "Hermanos Poza S.A. Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Glorieta Teresita Ibanez 20 Puerta 3 ",
+        "telefono": "+34942730371",
+        "email": "ainaraporcel@logistica.com",
+        "estrellas": 4,
+        "precio": 136.49
+    },
+    {
+        "nombre": "Tecnologias Martin & Asociados S.Com. Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Via Jonatan Rovira 30",
+        "telefono": "+34 886 916 300",
+        "email": "xcortina@industrias.com",
+        "estrellas": 5,
+        "precio": 127.94
+    },
+    {
+        "nombre": "Hermanos Correa S.L. Hotel",
+        "ciudad": "Santa Cruz de Tenerife",
+        "direccion": "Cuesta Joan Moliner 457",
+        "telefono": "+34726 524 077",
+        "email": "candela73@mineria.org",
+        "estrellas": 5,
+        "precio": 157.77
+    },
+    {
+        "nombre": "Comercializadora Cortina S.Coop. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Pasaje de Aaron Velasco 12 Puerta 5 ",
+        "telefono": "+34879518638",
+        "email": "ncorrea@logistica.com",
+        "estrellas": 1,
+        "precio": 123.48
+    },
+    {
+        "nombre": "Grupo Escalona S.L.N.E Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Cuesta Gregorio Cabeza 7",
+        "telefono": "+34979 899 405",
+        "email": "eloisabelda@grupo.com",
+        "estrellas": 1,
+        "precio": 120.78
+    },
+    {
+        "nombre": "Nicolasa Barrera Paniagua S.Coop. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Calle de Palmira Larranaga 501 Apt. 38 ",
+        "telefono": "+34825 138 633",
+        "email": "clotildeescamilla@camacho.es",
+        "estrellas": 2,
+        "precio": 173.41
+    },
+    {
+        "nombre": "Distribuciones CA S.L. Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Alameda de Carmelita Morata 76 Puerta 5 ",
+        "telefono": "+34 880 983 684",
+        "email": "victor76@familia.com",
+        "estrellas": 4,
+        "precio": 214.69
+    },
+    {
+        "nombre": "Alimentacion Mas & Asociados S.A.T. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Callejon Zaira Vidal 399 Apt. 07 ",
+        "telefono": "+34926224593",
+        "email": "jose-mariamas@servicios.com",
+        "estrellas": 4,
+        "precio": 164.02
+    },
+    {
+        "nombre": "Banco Pizarro & Asociados S.L. Hotel",
+        "ciudad": "Zaragoza",
+        "direccion": "Ronda de Sigfrido Carreno 19 Puerta 6 ",
+        "telefono": "+34 807480589",
+        "email": "nachovalles@despacho.es",
+        "estrellas": 5,
+        "precio": 136.71
+    },
+    {
+        "nombre": "Marina Vargas Bosch S.A.T. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Vial de Eligio Navarrete 8 Puerta 0 ",
+        "telefono": "+34 945 416 862",
+        "email": "aliciafiguerola@ruperto.com",
+        "estrellas": 5,
+        "precio": 244.86
+    },
+    {
+        "nombre": "Suministros Morales & Asociados S.A. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Acceso de Pablo Farre 15 Piso 2 ",
+        "telefono": "+34925979270",
+        "email": "heracliopereira@compania.net",
+        "estrellas": 3,
+        "precio": 170.59
+    },
+    {
+        "nombre": "Instalaciones Alcala S.Com. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Pasaje de Adriana Alsina 93",
+        "telefono": "+34 875 388 487",
+        "email": "jordanaalfaro@zurita.com",
+        "estrellas": 2,
+        "precio": 185.69
+    },
+    {
+        "nombre": "Finanzas Linares & Asociados S.Coop. Hotel",
+        "ciudad": "Pamplona",
+        "direccion": "C. Gertrudis Linares 11",
+        "telefono": "+34888 63 68 15",
+        "email": "lborja@talleres.org",
+        "estrellas": 1,
+        "precio": 157.49
+    },
+    {
+        "nombre": "Trillo y asociados S.L. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Acceso de Pedro Mate 58",
+        "telefono": "+34814 608 432",
+        "email": "teofila62@restauracion.com",
+        "estrellas": 3,
+        "precio": 76.21
+    },
+    {
+        "nombre": "Miguel y Mur S.Coop. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Vial Custodia Francisco 94",
+        "telefono": "+34 843 629 251",
+        "email": "espinosamaximino@banca.es",
+        "estrellas": 3,
+        "precio": 224.06
+    },
+    {
+        "nombre": "Mateos y Salazar S.L. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Glorieta Custodio Catala 50 Puerta 9 ",
+        "telefono": "+34 878 93 30 51",
+        "email": "gcanete@leticia.es",
+        "estrellas": 2,
+        "precio": 217.24
+    },
+    {
+        "nombre": "Emigdio Cespedes Ferrando S.A.T. Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Callejon Seve Giron 23 Apt. 79 ",
+        "telefono": "+34979 573 660",
+        "email": "zmilla@familia.com",
+        "estrellas": 5,
+        "precio": 97.41
+    },
+    {
+        "nombre": "Servicios Castellana S.Coop. Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Canada Valerio Puig 84",
+        "telefono": "+34 848 64 90 82",
+        "email": "fsans@farmaceutica.com",
+        "estrellas": 1,
+        "precio": 122.79
+    },
+    {
+        "nombre": "Dominga Franch Sanz S.A. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Via Ciriaco Carbonell 25 Puerta 6 ",
+        "telefono": "+34 983926860",
+        "email": "ximenanaranjo@distribuciones.com",
+        "estrellas": 2,
+        "precio": 168.81
+    },
+    {
+        "nombre": "Mena y Mendoza S.L. Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Rambla de Desiderio Catala 50 Apt. 77 ",
+        "telefono": "+34 981 809 733",
+        "email": "asantiago@cebrian.org",
+        "estrellas": 5,
+        "precio": 124.36
+    },
+    {
+        "nombre": "Comercial Iberia S.A. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Vial Ricarda Antunez 694 Apt. 01 ",
+        "telefono": "+34 948 224 999",
+        "email": "xavierpalomino@familia.es",
+        "estrellas": 5,
+        "precio": 68.26
+    },
+    {
+        "nombre": "Suministros DYGS S.Com. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Glorieta Emma Barragan 9 Apt. 79 ",
+        "telefono": "+34 888 695 489",
+        "email": "aurea29@aurora.net",
+        "estrellas": 4,
+        "precio": 175.57
+    },
+    {
+        "nombre": "Finanzas Abellan & Asociados S.A. Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Ronda Severiano Arroyo 95",
+        "telefono": "+34 875034414",
+        "email": "antonia85@familia.com",
+        "estrellas": 3,
+        "precio": 133.74
+    },
+    {
+        "nombre": "Finanzas Murillo S.L.L. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Calle de Flavia Cerdan 82 Puerta 5 ",
+        "telefono": "+34974 60 84 95",
+        "email": "galindocrescencia@otero.org",
+        "estrellas": 5,
+        "precio": 236.09
+    },
+    {
+        "nombre": "Hermanos Perez S.L. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Rambla de Dulce Caro 15",
+        "telefono": "+34 885 61 73 57",
+        "email": "inocencio84@consultoria.net",
+        "estrellas": 3,
+        "precio": 206.08
+    },
+    {
+        "nombre": "Supermercados BZAJ S.L.N.E Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Vial de Maria Jose Cabello 123 Piso 6 ",
+        "telefono": "+34 985 104 091",
+        "email": "adelia01@banca.net",
+        "estrellas": 5,
+        "precio": 146.48
+    },
+    {
+        "nombre": "Inmobiliaria Montana y asociados S.L. Hotel",
+        "ciudad": "Pamplona",
+        "direccion": "Rambla Leocadio Carbo 9 Puerta 1 ",
+        "telefono": "+34 874858542",
+        "email": "consuela32@inversiones.com",
+        "estrellas": 2,
+        "precio": 186.41
+    },
+    {
+        "nombre": "Restauracion EU S.L. Hotel",
+        "ciudad": "Melilla",
+        "direccion": "Canada de Nazaret Figuerola 317 Apt. 71 ",
+        "telefono": "+34973477332",
+        "email": "ximena56@manufacturas.com",
+        "estrellas": 1,
+        "precio": 102.55
+    },
+    {
+        "nombre": "Tecnologias SX S.A. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Pasadizo Cristian Ramirez 6 Puerta 1 ",
+        "telefono": "+34901 876 963",
+        "email": "carlotacuenca@rodrigo.es",
+        "estrellas": 2,
+        "precio": 140.62
+    },
+    {
+        "nombre": "Nogues y Guzman S.A. Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Via de Dora Sierra 28",
+        "telefono": "+34971 24 61 91",
+        "email": "fmoran@familia.com",
+        "estrellas": 5,
+        "precio": 171.57
+    },
+    {
+        "nombre": "Despacho Santamaria S.Coop. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Glorieta de Hernan Moliner 59 Piso 5 ",
+        "telefono": "+34 824909862",
+        "email": "bernabe58@familia.org",
+        "estrellas": 5,
+        "precio": 112.81
+    },
+    {
+        "nombre": "Grupo Rosales S.L. Hotel",
+        "ciudad": "Santander",
+        "direccion": "C. de Santiago Pizarro 48 Puerta 2 ",
+        "telefono": "+34 977 238 656",
+        "email": "luiscasas@alimentacion.com",
+        "estrellas": 5,
+        "precio": 142.59
+    },
+    {
+        "nombre": "Gema Rueda Cerdan S.A. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Ronda de Estrella Escolano 78 Puerta 7 ",
+        "telefono": "+34942 532 690",
+        "email": "tguzman@soluciones.es",
+        "estrellas": 3,
+        "precio": 263.98
+    },
+    {
+        "nombre": "Carbajo y asociados S.L.N.E Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "Pasadizo Rosa Maria Losa 28",
+        "telefono": "+34 985913718",
+        "email": "emperatriz05@hnos.es",
+        "estrellas": 5,
+        "precio": 118.19
+    },
+    {
+        "nombre": "Robledo y asociados S.L.N.E Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "Rambla de Andres Felipe Mateu 840 Puerta 2 ",
+        "telefono": "+34806490471",
+        "email": "anselmabenitez@infraestructuras.org",
+        "estrellas": 5,
+        "precio": 206.74
+    },
+    {
+        "nombre": "Familia Diaz S.L.N.E Hotel",
+        "ciudad": "Santander",
+        "direccion": "Acceso de Nuria Echevarria 83",
+        "telefono": "+34858 05 12 92",
+        "email": "xrey@garate.com",
+        "estrellas": 3,
+        "precio": 146.06
+    },
+    {
+        "nombre": "Mineria Castellana S.L. Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "Rambla Abril Pujadas 84",
+        "telefono": "+34986 36 67 42",
+        "email": "salbero@roberto.es",
+        "estrellas": 3,
+        "precio": 49.7
+    },
+    {
+        "nombre": "Llamas y Naranjo S.C.P Hotel",
+        "ciudad": "Pamplona",
+        "direccion": "Camino de Rosendo Serra 49",
+        "telefono": "+34984525800",
+        "email": "alberosergio@construccion.com",
+        "estrellas": 4,
+        "precio": 186.82
+    },
+    {
+        "nombre": "Grupo Carro S.L. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Vial Remigio Esteban 3",
+        "telefono": "+34 882471746",
+        "email": "jose-angel21@comercial.com",
+        "estrellas": 1,
+        "precio": 126.37
+    },
+    {
+        "nombre": "Infraestructuras Enriquez y asociados S.A. Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "Rambla de Filomena Tellez 3",
+        "telefono": "+34 988639174",
+        "email": "aranacamilo@infraestructuras.com",
+        "estrellas": 4,
+        "precio": 105.18
+    },
+    {
+        "nombre": "Larrea y Cordero S.L. Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "Pasadizo Laura Trujillo 76 Puerta 1 ",
+        "telefono": "+34 988306719",
+        "email": "nazario46@familia.es",
+        "estrellas": 2,
+        "precio": 194.88
+    },
+    {
+        "nombre": "Talleres HJC S.Com. Hotel",
+        "ciudad": "Murcia",
+        "direccion": "C. de Teresita Campillo 27",
+        "telefono": "+34963203093",
+        "email": "eporcel@transportes.com",
+        "estrellas": 1,
+        "precio": 98.79
+    },
+    {
+        "nombre": "Arnau y asociados S.A. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Camino Joan Bello 3 Piso 0 ",
+        "telefono": "+34 976 90 32 02",
+        "email": "melendezotilia@talleres.net",
+        "estrellas": 1,
+        "precio": 168.02
+    },
+    {
+        "nombre": "Finanzas RRM S.Com. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Alameda Piedad Garces 3",
+        "telefono": "+34 923114262",
+        "email": "carolina27@banco.es",
+        "estrellas": 2,
+        "precio": 27.09
+    },
+    {
+        "nombre": "Banca Privada Torrens S.A. Hotel",
+        "ciudad": "Santander",
+        "direccion": "Avenida Lara Luz 37",
+        "telefono": "+34 874248763",
+        "email": "emilianaarellano@transportes.org",
+        "estrellas": 4,
+        "precio": 202.9
+    },
+    {
+        "nombre": "Riquelme & Asociados S.Coop. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Pasadizo Claudio Paredes 883",
+        "telefono": "+34874 403 127",
+        "email": "kegea@familia.es",
+        "estrellas": 3,
+        "precio": 130.44
+    },
+    {
+        "nombre": "Manufacturas Santana & Asociados S.A. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Rambla Mireia Andres 28",
+        "telefono": "+34 821 379 956",
+        "email": "marianamoreno@consultoria.net",
+        "estrellas": 5,
+        "precio": 62.1
+    },
+    {
+        "nombre": "Folch y Pena S.L.N.E Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Camino de Amada Ballester 42",
+        "telefono": "+34973 265 273",
+        "email": "julian35@banco.com",
+        "estrellas": 2,
+        "precio": 106.63
+    },
+    {
+        "nombre": "Alvaro Ripoll Donoso S.L. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Rambla de Montserrat Dominguez 283",
+        "telefono": "+34 947873977",
+        "email": "alberto63@logistica.com",
+        "estrellas": 4,
+        "precio": 180.36
+    },
+    {
+        "nombre": "Hnos Arregui S.A. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Ronda Bernarda Prado 81 Piso 3 ",
+        "telefono": "+34 823806325",
+        "email": "jorge10@haydee.com",
+        "estrellas": 1,
+        "precio": 157.34
+    },
+    {
+        "nombre": "Abigail Chacon Ramirez S.A. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Plaza de Rosalinda Bejarano 95 Apt. 46 ",
+        "telefono": "+34 885 989 319",
+        "email": "magdalena08@aznar.es",
+        "estrellas": 5,
+        "precio": 146.6
+    },
+    {
+        "nombre": "Hermanos Pazos S.A. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Vial Nicanor Gomez 417",
+        "telefono": "+34 877 55 48 64",
+        "email": "barrosoramon@santamaria.com",
+        "estrellas": 3,
+        "precio": 96.5
+    },
+    {
+        "nombre": "Leire Manzano Sans S.Coop. Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "Pasaje Chucho Bernat 52",
+        "telefono": "+34 822 124 127",
+        "email": "sandrafuente@hermanos.com",
+        "estrellas": 2,
+        "precio": 87.12
+    },
+    {
+        "nombre": "Ovidio Rivera Saldana S.L. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Glorieta de Bernardino Alonso 68",
+        "telefono": "+34 947955798",
+        "email": "tseco@inversiones.net",
+        "estrellas": 5,
+        "precio": 168.54
+    },
+    {
+        "nombre": "Ramiro Maldonado Arevalo S.A. Hotel",
+        "ciudad": "Pamplona",
+        "direccion": "Rambla de Esperanza Cuevas 342 Puerta 2 ",
+        "telefono": "+34847 310 592",
+        "email": "xjulia@fabrica.es",
+        "estrellas": 4,
+        "precio": 151.44
+    },
+    {
+        "nombre": "Promociones Sanabria S.Coop. Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "Via de Zoraida Amaya 37",
+        "telefono": "+34 974520885",
+        "email": "ainoa49@supermercados.es",
+        "estrellas": 2,
+        "precio": 229.07
+    },
+    {
+        "nombre": "Grupo Caro S.Com. Hotel",
+        "ciudad": "Murcia",
+        "direccion": "Pasaje Pepe Bru 40 Puerta 8 ",
+        "telefono": "+34876 43 01 87",
+        "email": "vigilrufino@transportes.com",
+        "estrellas": 1,
+        "precio": 123.16
+    },
+    {
+        "nombre": "Puga & Asociados S.L. Hotel",
+        "ciudad": "Palma de Mallorca",
+        "direccion": "C. de Ramon Albero 65 Piso 7 ",
+        "telefono": "+34823 37 67 42",
+        "email": "iribas@despacho.es",
+        "estrellas": 3,
+        "precio": 88.7
+    },
+    {
+        "nombre": "Restauracion AH S.C.P Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Camino de Marisol Cerro 72",
+        "telefono": "+34 888 87 04 94",
+        "email": "osilva@familia.es",
+        "estrellas": 3,
+        "precio": 192.91
+    },
+    {
+        "nombre": "Instalaciones JVH S.A. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Avenida de Elena Pardo 779 Piso 7 ",
+        "telefono": "+34 835 89 04 29",
+        "email": "collmiguel@selena.org",
+        "estrellas": 1,
+        "precio": 146.47
+    },
+    {
+        "nombre": "Rivas y asociados S.A. Hotel",
+        "ciudad": "Toledo",
+        "direccion": "Pasadizo Guillermo Espanol 3 Puerta 5 ",
+        "telefono": "+34914 45 18 95",
+        "email": "albertcerro@promociones.com",
+        "estrellas": 3,
+        "precio": 195.18
+    },
+    {
+        "nombre": "Fabrica AR S.L. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Pasaje de Yesica Benito 3",
+        "telefono": "+34717 54 52 79",
+        "email": "francisco-jose40@hotel.com",
+        "estrellas": 3,
+        "precio": 162.59
+    },
+    {
+        "nombre": "Desarrollo Espanola S.Com. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Plaza Matilde Tome 40",
+        "telefono": "+34 827 08 90 71",
+        "email": "armando14@familia.net",
+        "estrellas": 4,
+        "precio": 165.53
+    },
+    {
+        "nombre": "Farmaceutica del Levante S.A. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Camino de Pablo Ortuno 48",
+        "telefono": "+34 982911908",
+        "email": "ligiafeliu@distribuciones.es",
+        "estrellas": 4,
+        "precio": 261.49
+    },
+    {
+        "nombre": "Esteve y asociados S.L. Hotel",
+        "ciudad": "Zaragoza",
+        "direccion": "Acceso Reynaldo Rodrigo 48",
+        "telefono": "+34946 151 718",
+        "email": "ana-sofiapaniagua@banco.es",
+        "estrellas": 2,
+        "precio": 188.27
+    },
+    {
+        "nombre": "Talleres Mesa y asociados S.A.T. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Ronda de Gonzalo Banos 35 Apt. 71 ",
+        "telefono": "+34944 781 126",
+        "email": "vcal@comercializadora.es",
+        "estrellas": 5,
+        "precio": 134.58
+    },
+    {
+        "nombre": "Servicios Espanolas S.A.U Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Callejon de Maria Del Carmen Llano 85 Puerta 9 ",
+        "telefono": "+34 946 784 271",
+        "email": "iglesiaamelia@jeronimo.com",
+        "estrellas": 5,
+        "precio": 193.31
+    },
+    {
+        "nombre": "Transportes BJFR S.Com. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "Pasadizo Maria Fernanda Ugarte 53",
+        "telefono": "+34980 78 48 58",
+        "email": "angulotito@restauracion.org",
+        "estrellas": 2,
+        "precio": 134.4
+    },
+    {
+        "nombre": "Transportes Rosa S.A. Hotel",
+        "ciudad": "Melilla",
+        "direccion": "Via de Cloe Trujillo 889 Piso 8 ",
+        "telefono": "+34846806479",
+        "email": "xosorio@logistica.com",
+        "estrellas": 4,
+        "precio": 78.34
+    },
+    {
+        "nombre": "Oller & Asociados S.L. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Via de Tiburcio Ochoa 66 Apt. 33 ",
+        "telefono": "+34 879 491 141",
+        "email": "fortunato08@arcos.es",
+        "estrellas": 4,
+        "precio": 95.99
+    },
+    {
+        "nombre": "Lasa y Almagro S.L. Hotel",
+        "ciudad": "Melilla",
+        "direccion": "C. de Concepcion Portero 29",
+        "telefono": "+34 979 13 57 85",
+        "email": "encarnacionmari@ruano.com",
+        "estrellas": 1,
+        "precio": 165.41
+    },
+    {
+        "nombre": "Instalaciones Integrales S.A. Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Avenida Liliana Bustamante 254 Puerta 8 ",
+        "telefono": "+34 977 635 148",
+        "email": "toribio85@soluciones.es",
+        "estrellas": 1,
+        "precio": 101.37
+    },
+    {
+        "nombre": "Banca Privada Villalonga S.L.L. Hotel",
+        "ciudad": "Zaragoza",
+        "direccion": "Pasaje Julio Roura 408 Piso 7 ",
+        "telefono": "+34 845324665",
+        "email": "frutosraquel@lasa.org",
+        "estrellas": 5,
+        "precio": 86.45
+    },
+    {
+        "nombre": "Servicios Ibericos S.A. Hotel",
+        "ciudad": "Valencia",
+        "direccion": "Urbanizacion Nayara Menendez 97",
+        "telefono": "+34 966 03 24 20",
+        "email": "montserrat48@banco.com",
+        "estrellas": 5,
+        "precio": 82.05
+    },
+    {
+        "nombre": "Logistica PDXU S.L. Hotel",
+        "ciudad": "Bilbao",
+        "direccion": "Vial de Jonatan Caparros 981",
+        "telefono": "+34985 471 391",
+        "email": "narciso96@suministros.com",
+        "estrellas": 4,
+        "precio": 50.91
+    },
+    {
+        "nombre": "Inmobiliaria del Norte S.Com. Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Paseo de Reinaldo Carbajo 78",
+        "telefono": "+34 977 342 575",
+        "email": "alfonso90@grupo.org",
+        "estrellas": 4,
+        "precio": 116.38
+    },
+    {
+        "nombre": "Carro & Asociados S.L.L. Hotel",
+        "ciudad": "Ceuta",
+        "direccion": "C. Aurea Jaume 41 Piso 3 ",
+        "telefono": "+34 847 75 60 41",
+        "email": "vsotelo@mendez.com",
+        "estrellas": 2,
+        "precio": 170.19
+    },
+    {
+        "nombre": "Infraestructuras Velasco S.A. Hotel",
+        "ciudad": "Malaga",
+        "direccion": "Pasaje de Jordana Amoros 3 Puerta 7 ",
+        "telefono": "+34 843063459",
+        "email": "canofausto@desarrollo.es",
+        "estrellas": 5,
+        "precio": 139.49
+    },
+    {
+        "nombre": "Ale Canellas Julia S.A. Hotel",
+        "ciudad": "Murcia",
+        "direccion": "Glorieta de Cesar Ribas 72 Piso 9 ",
+        "telefono": "+34 877008931",
+        "email": "qfiol@comercial.org",
+        "estrellas": 1,
+        "precio": 138.7
+    },
+    {
+        "nombre": "Compania Pedro S.A. Hotel",
+        "ciudad": "Vitoria",
+        "direccion": "Pasadizo Trinidad Santiago 41",
+        "telefono": "+34873344762",
+        "email": "mgabaldon@instalaciones.es",
+        "estrellas": 5,
+        "precio": 136.56
+    },
+    {
+        "nombre": "Banca Privada Manrique S.L.N.E Hotel",
+        "ciudad": "Logrono",
+        "direccion": "Urbanizacion de Rafael Sedano 1",
+        "telefono": "+34 976 256 366",
+        "email": "camilo18@familia.es",
+        "estrellas": 3,
+        "precio": 113.55
+    },
+    {
+        "nombre": "Arroyo & Asociados S.C.P Hotel",
+        "ciudad": "Sevilla",
+        "direccion": "C. de Hilda Pelaez 18 Puerta 2 ",
+        "telefono": "+34 883 28 75 72",
+        "email": "molinsleocadia@cifuentes.com",
+        "estrellas": 1,
+        "precio": 195.71
+    },
+    {
+        "nombre": "Transportes Lucas S.L. Hotel",
+        "ciudad": "Madrid",
+        "direccion": "Callejon de Emperatriz Laguna 356 Piso 7 ",
+        "telefono": "+34845870320",
+        "email": "gervasioaraujo@juan.es",
+        "estrellas": 2,
+        "precio": 121.96
+    },
+    {
+        "nombre": "Hnos Palacios S.L.U. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Cuesta de Daniel Colomer 6 Apt. 34 ",
+        "telefono": "+34852849939",
+        "email": "zorrillamaria-fernanda@soluciones.es",
+        "estrellas": 4,
+        "precio": 178.27
+    },
+    {
+        "nombre": "Manufacturas OZ S.A. Hotel",
+        "ciudad": "Barcelona",
+        "direccion": "Alameda Fabio Andres 8 Puerta 7 ",
+        "telefono": "+34 973 49 05 09",
+        "email": "umorcillo@fabrica.org",
+        "estrellas": 2,
+        "precio": 184.52
+    },
+    {
+        "nombre": "Baquero & Asociados S.Coop. Hotel",
+        "ciudad": "Murcia",
+        "direccion": "C. Jose Mari Enriquez 26 Apt. 32 ",
+        "telefono": "+34 943642147",
+        "email": "rmenendez@mineria.net",
+        "estrellas": 5,
+        "precio": 73.31
+    },
+    {
+        "nombre": "Victor Manuel Pons Tamayo S.C.P Hotel",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "direccion": "Ronda Obdulia Pedrosa 726 Apt. 08 ",
+        "telefono": "+34 924732788",
+        "email": "mansoadelina@bernad.com",
+        "estrellas": 2,
+        "precio": 250.89
+    },
+    {
+        "nombre": "Industrias Zabala y asociados S.Com. Hotel",
+        "ciudad": "Oviedo",
+        "direccion": "Calle Armida Campos 266",
+        "telefono": "+34 975945491",
+        "email": "carbonellmanu@gaston.es",
+        "estrellas": 5,
+        "precio": 175.65
+    }
+]

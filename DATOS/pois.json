@@ -1,0 +1,1752 @@
+[
+    {
+        "nombre": "Playa Tempore Oviedo",
+        "ciudad": "Oviedo",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-19:00",
+        "precio": 8.98
+    },
+    {
+        "nombre": "Mirador Aliquid Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-19:00",
+        "precio": 11.89
+    },
+    {
+        "nombre": "Museo Excepturi Santander",
+        "ciudad": "Santander",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-21:00",
+        "precio": 13.6
+    },
+    {
+        "nombre": "Palacio Fugiat Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Palacio",
+        "horario_apertura": "8:00-20:00",
+        "precio": 5.69
+    },
+    {
+        "nombre": "Playa Blanditiis Santander",
+        "ciudad": "Santander",
+        "tipo": "Playa",
+        "horario_apertura": "8:00-20:00",
+        "precio": 13.58
+    },
+    {
+        "nombre": "Museo Reiciendis Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Museo",
+        "horario_apertura": "10:00-21:00",
+        "precio": 5.85
+    },
+    {
+        "nombre": "Castillo Recusandae Zaragoza",
+        "ciudad": "Zaragoza",
+        "tipo": "Castillo",
+        "horario_apertura": "10:00-18:00",
+        "precio": 6.37
+    },
+    {
+        "nombre": "Monumento Aperiam Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Monumento",
+        "horario_apertura": "8:00-22:00",
+        "precio": 14.36
+    },
+    {
+        "nombre": "Playa Recusandae Santander",
+        "ciudad": "Santander",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-20:00",
+        "precio": 9.76
+    },
+    {
+        "nombre": "Palacio Perspiciatis Zaragoza",
+        "ciudad": "Zaragoza",
+        "tipo": "Palacio",
+        "horario_apertura": "8:00-22:00",
+        "precio": 7.87
+    },
+    {
+        "nombre": "Parque Urbano Aperiam Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-20:00",
+        "precio": 7.43
+    },
+    {
+        "nombre": "Plaza Architecto Santander",
+        "ciudad": "Santander",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-21:00",
+        "precio": 13.3
+    },
+    {
+        "nombre": "Castillo Ipsam Zaragoza",
+        "ciudad": "Zaragoza",
+        "tipo": "Castillo",
+        "horario_apertura": "9:00-21:00",
+        "precio": 11.1
+    },
+    {
+        "nombre": "Catedral Consectetur Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Catedral",
+        "horario_apertura": "8:00-19:00",
+        "precio": 7.65
+    },
+    {
+        "nombre": "Plaza Ipsa Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Plaza",
+        "horario_apertura": "10:00-20:00",
+        "precio": -1.67
+    },
+    {
+        "nombre": "Plaza Accusamus Santander",
+        "ciudad": "Santander",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-20:00",
+        "precio": -0.14
+    },
+    {
+        "nombre": "Parque Natural Magnam Santander",
+        "ciudad": "Santander",
+        "tipo": "Parque Natural",
+        "horario_apertura": "10:00-18:00",
+        "precio": 11.28
+    },
+    {
+        "nombre": "Museo Id Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Museo",
+        "horario_apertura": "8:00-21:00",
+        "precio": 1.58
+    },
+    {
+        "nombre": "Parque Natural Nam Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Parque Natural",
+        "horario_apertura": "8:00-19:00",
+        "precio": 10.08
+    },
+    {
+        "nombre": "Plaza Provident Santander",
+        "ciudad": "Santander",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-18:00",
+        "precio": 10.47
+    },
+    {
+        "nombre": "Parque Urbano Earum Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-20:00",
+        "precio": 10.43
+    },
+    {
+        "nombre": "Palacio Ipsam Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Palacio",
+        "horario_apertura": "8:00-18:00",
+        "precio": 17.54
+    },
+    {
+        "nombre": "Playa Mollitia Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Playa",
+        "horario_apertura": "10:00-22:00",
+        "precio": 6.71
+    },
+    {
+        "nombre": "Monumento Magnam Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-21:00",
+        "precio": 9.54
+    },
+    {
+        "nombre": "Catedral Delectus Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Catedral",
+        "horario_apertura": "10:00-18:00",
+        "precio": 19.3
+    },
+    {
+        "nombre": "Monumento Voluptates Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-21:00",
+        "precio": 7.99
+    },
+    {
+        "nombre": "Parque Natural Veniam Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Parque Natural",
+        "horario_apertura": "8:00-21:00",
+        "precio": 18.34
+    },
+    {
+        "nombre": "Mirador Consequatur Oviedo",
+        "ciudad": "Oviedo",
+        "tipo": "Mirador",
+        "horario_apertura": "8:00-22:00",
+        "precio": 14.67
+    },
+    {
+        "nombre": "Plaza Iure Melilla",
+        "ciudad": "Melilla",
+        "tipo": "Plaza",
+        "horario_apertura": "9:00-18:00",
+        "precio": 5.88
+    },
+    {
+        "nombre": "Parque Natural Nemo Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Parque Natural",
+        "horario_apertura": "9:00-18:00",
+        "precio": 17.53
+    },
+    {
+        "nombre": "Monumento Provident Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-19:00",
+        "precio": 11.27
+    },
+    {
+        "nombre": "Parque Urbano Consequuntur Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "9:00-21:00",
+        "precio": 12.55
+    },
+    {
+        "nombre": "Parque Urbano Provident Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-20:00",
+        "precio": 3.2
+    },
+    {
+        "nombre": "Castillo Distinctio Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Castillo",
+        "horario_apertura": "10:00-22:00",
+        "precio": 16.47
+    },
+    {
+        "nombre": "Museo Alias Oviedo",
+        "ciudad": "Oviedo",
+        "tipo": "Museo",
+        "horario_apertura": "10:00-20:00",
+        "precio": 14.43
+    },
+    {
+        "nombre": "Castillo Repudiandae Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Castillo",
+        "horario_apertura": "10:00-21:00",
+        "precio": 8.17
+    },
+    {
+        "nombre": "Monumento Modi Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Monumento",
+        "horario_apertura": "10:00-20:00",
+        "precio": 18.91
+    },
+    {
+        "nombre": "Catedral Perferendis Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Catedral",
+        "horario_apertura": "8:00-21:00",
+        "precio": 14.96
+    },
+    {
+        "nombre": "Castillo Repudiandae Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Castillo",
+        "horario_apertura": "9:00-18:00",
+        "precio": 8.01
+    },
+    {
+        "nombre": "Parque Natural Amet Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Parque Natural",
+        "horario_apertura": "8:00-19:00",
+        "precio": 8.66
+    },
+    {
+        "nombre": "Palacio Illum Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Palacio",
+        "horario_apertura": "8:00-18:00",
+        "precio": 2.1
+    },
+    {
+        "nombre": "Palacio Dolorem Oviedo",
+        "ciudad": "Oviedo",
+        "tipo": "Palacio",
+        "horario_apertura": "8:00-20:00",
+        "precio": 6.65
+    },
+    {
+        "nombre": "Playa Distinctio Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Playa",
+        "horario_apertura": "10:00-22:00",
+        "precio": 5.42
+    },
+    {
+        "nombre": "Catedral Vero Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-20:00",
+        "precio": 9.94
+    },
+    {
+        "nombre": "Catedral Officiis Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-20:00",
+        "precio": 9.85
+    },
+    {
+        "nombre": "Playa Beatae Palma de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "tipo": "Playa",
+        "horario_apertura": "10:00-21:00",
+        "precio": 11.0
+    },
+    {
+        "nombre": "Parque Natural Sunt Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Parque Natural",
+        "horario_apertura": "9:00-18:00",
+        "precio": 15.77
+    },
+    {
+        "nombre": "Castillo Consectetur Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Castillo",
+        "horario_apertura": "9:00-20:00",
+        "precio": 6.63
+    },
+    {
+        "nombre": "Catedral Eveniet Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-22:00",
+        "precio": 15.67
+    },
+    {
+        "nombre": "Mirador Esse Santander",
+        "ciudad": "Santander",
+        "tipo": "Mirador",
+        "horario_apertura": "8:00-20:00",
+        "precio": 4.21
+    },
+    {
+        "nombre": "Castillo Vero Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Castillo",
+        "horario_apertura": "8:00-22:00",
+        "precio": -1.81
+    },
+    {
+        "nombre": "Plaza Ullam Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Plaza",
+        "horario_apertura": "10:00-19:00",
+        "precio": 9.26
+    },
+    {
+        "nombre": "Palacio Dicta Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Palacio",
+        "horario_apertura": "10:00-21:00",
+        "precio": 5.56
+    },
+    {
+        "nombre": "Parque Natural Dolorem Palma de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "tipo": "Parque Natural",
+        "horario_apertura": "10:00-21:00",
+        "precio": 12.68
+    },
+    {
+        "nombre": "Mirador Provident Santander",
+        "ciudad": "Santander",
+        "tipo": "Mirador",
+        "horario_apertura": "9:00-22:00",
+        "precio": 10.71
+    },
+    {
+        "nombre": "Parque Urbano Quas Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "8:00-20:00",
+        "precio": 19.21
+    },
+    {
+        "nombre": "Monumento Sequi Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Monumento",
+        "horario_apertura": "8:00-20:00",
+        "precio": 2.61
+    },
+    {
+        "nombre": "Palacio Totam Melilla",
+        "ciudad": "Melilla",
+        "tipo": "Palacio",
+        "horario_apertura": "9:00-21:00",
+        "precio": 0.58
+    },
+    {
+        "nombre": "Mirador Quasi Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-22:00",
+        "precio": 6.18
+    },
+    {
+        "nombre": "Mirador Laboriosam Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-22:00",
+        "precio": 9.79
+    },
+    {
+        "nombre": "Monumento Occaecati Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Monumento",
+        "horario_apertura": "10:00-19:00",
+        "precio": 8.02
+    },
+    {
+        "nombre": "Parque Urbano Delectus Zaragoza",
+        "ciudad": "Zaragoza",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "9:00-20:00",
+        "precio": 9.64
+    },
+    {
+        "nombre": "Castillo Labore Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Castillo",
+        "horario_apertura": "8:00-20:00",
+        "precio": 3.77
+    },
+    {
+        "nombre": "Parque Natural Illum Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Parque Natural",
+        "horario_apertura": "10:00-19:00",
+        "precio": 10.31
+    },
+    {
+        "nombre": "Parque Urbano Magni Oviedo",
+        "ciudad": "Oviedo",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "9:00-21:00",
+        "precio": 6.13
+    },
+    {
+        "nombre": "Parque Natural Soluta Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Parque Natural",
+        "horario_apertura": "10:00-21:00",
+        "precio": 6.59
+    },
+    {
+        "nombre": "Plaza Non Zaragoza",
+        "ciudad": "Zaragoza",
+        "tipo": "Plaza",
+        "horario_apertura": "10:00-21:00",
+        "precio": 6.77
+    },
+    {
+        "nombre": "Catedral Animi Zaragoza",
+        "ciudad": "Zaragoza",
+        "tipo": "Catedral",
+        "horario_apertura": "10:00-18:00",
+        "precio": 13.31
+    },
+    {
+        "nombre": "Parque Natural Vero Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Parque Natural",
+        "horario_apertura": "9:00-20:00",
+        "precio": 7.07
+    },
+    {
+        "nombre": "Parque Urbano Molestias Santander",
+        "ciudad": "Santander",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-20:00",
+        "precio": 12.14
+    },
+    {
+        "nombre": "Monumento Excepturi Melilla",
+        "ciudad": "Melilla",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-20:00",
+        "precio": 17.75
+    },
+    {
+        "nombre": "Mirador Eos Las Palmas de Gran Canaria",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-18:00",
+        "precio": 12.15
+    },
+    {
+        "nombre": "Catedral Similique Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Catedral",
+        "horario_apertura": "8:00-19:00",
+        "precio": 8.73
+    },
+    {
+        "nombre": "Palacio Sequi Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Palacio",
+        "horario_apertura": "10:00-19:00",
+        "precio": 11.11
+    },
+    {
+        "nombre": "Parque Urbano Autem Santander",
+        "ciudad": "Santander",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-19:00",
+        "precio": 10.92
+    },
+    {
+        "nombre": "Parque Natural Dolor Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Parque Natural",
+        "horario_apertura": "9:00-21:00",
+        "precio": 17.62
+    },
+    {
+        "nombre": "Plaza Reiciendis Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-19:00",
+        "precio": 10.09
+    },
+    {
+        "nombre": "Palacio Sunt Santander",
+        "ciudad": "Santander",
+        "tipo": "Palacio",
+        "horario_apertura": "10:00-21:00",
+        "precio": 9.89
+    },
+    {
+        "nombre": "Playa Praesentium Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-18:00",
+        "precio": 5.82
+    },
+    {
+        "nombre": "Plaza Consequatur Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Plaza",
+        "horario_apertura": "10:00-21:00",
+        "precio": 10.48
+    },
+    {
+        "nombre": "Catedral Accusantium Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Catedral",
+        "horario_apertura": "10:00-20:00",
+        "precio": 11.48
+    },
+    {
+        "nombre": "Parque Urbano Dicta Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "8:00-21:00",
+        "precio": 13.07
+    },
+    {
+        "nombre": "Plaza Ipsa Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Plaza",
+        "horario_apertura": "9:00-20:00",
+        "precio": 13.39
+    },
+    {
+        "nombre": "Castillo Quo Melilla",
+        "ciudad": "Melilla",
+        "tipo": "Castillo",
+        "horario_apertura": "10:00-22:00",
+        "precio": 11.37
+    },
+    {
+        "nombre": "Playa Commodi Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Playa",
+        "horario_apertura": "8:00-18:00",
+        "precio": 11.29
+    },
+    {
+        "nombre": "Parque Natural Praesentium Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Parque Natural",
+        "horario_apertura": "9:00-20:00",
+        "precio": 7.53
+    },
+    {
+        "nombre": "Monumento Consequatur Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Monumento",
+        "horario_apertura": "8:00-21:00",
+        "precio": 13.61
+    },
+    {
+        "nombre": "Playa Odit Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Playa",
+        "horario_apertura": "8:00-20:00",
+        "precio": 21.81
+    },
+    {
+        "nombre": "Plaza Ipsam Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-22:00",
+        "precio": 13.05
+    },
+    {
+        "nombre": "Plaza Dolores Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-18:00",
+        "precio": 6.67
+    },
+    {
+        "nombre": "Plaza Impedit Santa Cruz de Tenerife",
+        "ciudad": "Santa Cruz de Tenerife",
+        "tipo": "Plaza",
+        "horario_apertura": "9:00-20:00",
+        "precio": 15.36
+    },
+    {
+        "nombre": "Plaza Dolorem Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Plaza",
+        "horario_apertura": "10:00-20:00",
+        "precio": 15.51
+    },
+    {
+        "nombre": "Catedral Atque Oviedo",
+        "ciudad": "Oviedo",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-22:00",
+        "precio": 11.54
+    },
+    {
+        "nombre": "Castillo Hic Santander",
+        "ciudad": "Santander",
+        "tipo": "Castillo",
+        "horario_apertura": "10:00-18:00",
+        "precio": -3.53
+    },
+    {
+        "nombre": "Monumento Repellat Palma de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "tipo": "Monumento",
+        "horario_apertura": "10:00-20:00",
+        "precio": 6.59
+    },
+    {
+        "nombre": "Museo Maiores Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-20:00",
+        "precio": 17.92
+    },
+    {
+        "nombre": "Monumento Libero Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Monumento",
+        "horario_apertura": "10:00-18:00",
+        "precio": 5.93
+    },
+    {
+        "nombre": "Museo Commodi Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Museo",
+        "horario_apertura": "8:00-20:00",
+        "precio": 9.23
+    },
+    {
+        "nombre": "Playa Aut Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-18:00",
+        "precio": 12.21
+    },
+    {
+        "nombre": "Castillo Dolorum Oviedo",
+        "ciudad": "Oviedo",
+        "tipo": "Castillo",
+        "horario_apertura": "9:00-19:00",
+        "precio": 4.61
+    },
+    {
+        "nombre": "Parque Natural Voluptatum Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Parque Natural",
+        "horario_apertura": "8:00-22:00",
+        "precio": 11.39
+    },
+    {
+        "nombre": "Plaza Officia Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Plaza",
+        "horario_apertura": "9:00-19:00",
+        "precio": 11.29
+    },
+    {
+        "nombre": "Mirador Facilis Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-21:00",
+        "precio": 11.25
+    },
+    {
+        "nombre": "Castillo Pariatur Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Castillo",
+        "horario_apertura": "8:00-19:00",
+        "precio": 7.91
+    },
+    {
+        "nombre": "Mirador Facere Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-22:00",
+        "precio": 14.06
+    },
+    {
+        "nombre": "Playa Numquam Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Playa",
+        "horario_apertura": "10:00-21:00",
+        "precio": 8.15
+    },
+    {
+        "nombre": "Plaza Totam Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Plaza",
+        "horario_apertura": "9:00-18:00",
+        "precio": 3.86
+    },
+    {
+        "nombre": "Parque Urbano Deserunt Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "8:00-20:00",
+        "precio": 17.17
+    },
+    {
+        "nombre": "Parque Urbano Cupiditate Santa Cruz de Tenerife",
+        "ciudad": "Santa Cruz de Tenerife",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-19:00",
+        "precio": 4.97
+    },
+    {
+        "nombre": "Museo Reiciendis Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-22:00",
+        "precio": 3.63
+    },
+    {
+        "nombre": "Palacio Placeat Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Palacio",
+        "horario_apertura": "10:00-21:00",
+        "precio": 2.27
+    },
+    {
+        "nombre": "Catedral Animi Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Catedral",
+        "horario_apertura": "8:00-20:00",
+        "precio": 6.41
+    },
+    {
+        "nombre": "Catedral Maiores Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Catedral",
+        "horario_apertura": "10:00-21:00",
+        "precio": 22.85
+    },
+    {
+        "nombre": "Playa Illo Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Playa",
+        "horario_apertura": "8:00-21:00",
+        "precio": 1.5
+    },
+    {
+        "nombre": "Catedral Natus Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Catedral",
+        "horario_apertura": "10:00-19:00",
+        "precio": 12.07
+    },
+    {
+        "nombre": "Parque Urbano Nemo Santa Cruz de Tenerife",
+        "ciudad": "Santa Cruz de Tenerife",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-20:00",
+        "precio": 6.73
+    },
+    {
+        "nombre": "Monumento Sit Palma de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "tipo": "Monumento",
+        "horario_apertura": "8:00-20:00",
+        "precio": 13.62
+    },
+    {
+        "nombre": "Catedral Vero Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Catedral",
+        "horario_apertura": "10:00-22:00",
+        "precio": 12.17
+    },
+    {
+        "nombre": "Castillo Delectus Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Castillo",
+        "horario_apertura": "8:00-21:00",
+        "precio": 13.7
+    },
+    {
+        "nombre": "Catedral Nulla Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Catedral",
+        "horario_apertura": "8:00-22:00",
+        "precio": 11.69
+    },
+    {
+        "nombre": "Museo Maiores Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Museo",
+        "horario_apertura": "8:00-18:00",
+        "precio": 5.85
+    },
+    {
+        "nombre": "Parque Natural Quam Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Parque Natural",
+        "horario_apertura": "8:00-18:00",
+        "precio": 15.27
+    },
+    {
+        "nombre": "Playa Soluta Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-19:00",
+        "precio": 7.43
+    },
+    {
+        "nombre": "Monumento Ipsam Palma de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "tipo": "Monumento",
+        "horario_apertura": "10:00-20:00",
+        "precio": 0.01
+    },
+    {
+        "nombre": "Parque Natural Minima Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Parque Natural",
+        "horario_apertura": "8:00-22:00",
+        "precio": 3.09
+    },
+    {
+        "nombre": "Catedral Blanditiis Las Palmas de Gran Canaria",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-18:00",
+        "precio": 10.46
+    },
+    {
+        "nombre": "Catedral Vero Zaragoza",
+        "ciudad": "Zaragoza",
+        "tipo": "Catedral",
+        "horario_apertura": "10:00-20:00",
+        "precio": 12.71
+    },
+    {
+        "nombre": "Mirador Neque Santa Cruz de Tenerife",
+        "ciudad": "Santa Cruz de Tenerife",
+        "tipo": "Mirador",
+        "horario_apertura": "9:00-19:00",
+        "precio": 14.4
+    },
+    {
+        "nombre": "Parque Natural Quae Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Parque Natural",
+        "horario_apertura": "8:00-21:00",
+        "precio": 13.8
+    },
+    {
+        "nombre": "Castillo Odio Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Castillo",
+        "horario_apertura": "8:00-21:00",
+        "precio": 20.97
+    },
+    {
+        "nombre": "Playa Fuga Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Playa",
+        "horario_apertura": "10:00-19:00",
+        "precio": -7.72
+    },
+    {
+        "nombre": "Catedral Vero Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Catedral",
+        "horario_apertura": "8:00-18:00",
+        "precio": 10.57
+    },
+    {
+        "nombre": "Plaza Animi Santa Cruz de Tenerife",
+        "ciudad": "Santa Cruz de Tenerife",
+        "tipo": "Plaza",
+        "horario_apertura": "10:00-18:00",
+        "precio": 11.4
+    },
+    {
+        "nombre": "Monumento Sit Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Monumento",
+        "horario_apertura": "10:00-22:00",
+        "precio": 5.53
+    },
+    {
+        "nombre": "Palacio Temporibus Oviedo",
+        "ciudad": "Oviedo",
+        "tipo": "Palacio",
+        "horario_apertura": "10:00-20:00",
+        "precio": 7.86
+    },
+    {
+        "nombre": "Playa Aspernatur Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Playa",
+        "horario_apertura": "8:00-22:00",
+        "precio": 9.37
+    },
+    {
+        "nombre": "Parque Urbano Exercitationem Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "9:00-19:00",
+        "precio": 9.23
+    },
+    {
+        "nombre": "Monumento Voluptates Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Monumento",
+        "horario_apertura": "8:00-20:00",
+        "precio": 19.24
+    },
+    {
+        "nombre": "Playa Ratione Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-19:00",
+        "precio": 5.34
+    },
+    {
+        "nombre": "Palacio Accusamus Santa Cruz de Tenerife",
+        "ciudad": "Santa Cruz de Tenerife",
+        "tipo": "Palacio",
+        "horario_apertura": "10:00-18:00",
+        "precio": 12.05
+    },
+    {
+        "nombre": "Museo Dolor Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-21:00",
+        "precio": 11.07
+    },
+    {
+        "nombre": "Plaza Corporis Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-19:00",
+        "precio": 13.1
+    },
+    {
+        "nombre": "Palacio Illum Zaragoza",
+        "ciudad": "Zaragoza",
+        "tipo": "Palacio",
+        "horario_apertura": "9:00-18:00",
+        "precio": 10.95
+    },
+    {
+        "nombre": "Museo Minus Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Museo",
+        "horario_apertura": "8:00-19:00",
+        "precio": 16.2
+    },
+    {
+        "nombre": "Monumento Dolore Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-18:00",
+        "precio": 2.72
+    },
+    {
+        "nombre": "Mirador Reiciendis Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Mirador",
+        "horario_apertura": "9:00-21:00",
+        "precio": 9.95
+    },
+    {
+        "nombre": "Parque Natural Natus Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Parque Natural",
+        "horario_apertura": "9:00-19:00",
+        "precio": 14.83
+    },
+    {
+        "nombre": "Parque Natural Aut Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Parque Natural",
+        "horario_apertura": "8:00-22:00",
+        "precio": 11.36
+    },
+    {
+        "nombre": "Plaza Et Las Palmas de Gran Canaria",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "tipo": "Plaza",
+        "horario_apertura": "9:00-22:00",
+        "precio": 9.8
+    },
+    {
+        "nombre": "Parque Natural Molestias Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Parque Natural",
+        "horario_apertura": "9:00-19:00",
+        "precio": 16.03
+    },
+    {
+        "nombre": "Parque Urbano Officiis Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "8:00-21:00",
+        "precio": 13.77
+    },
+    {
+        "nombre": "Plaza Velit Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Plaza",
+        "horario_apertura": "9:00-22:00",
+        "precio": 10.03
+    },
+    {
+        "nombre": "Museo Consectetur Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-22:00",
+        "precio": 11.83
+    },
+    {
+        "nombre": "Playa Laudantium Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Playa",
+        "horario_apertura": "10:00-21:00",
+        "precio": 2.25
+    },
+    {
+        "nombre": "Parque Natural Omnis Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Parque Natural",
+        "horario_apertura": "8:00-22:00",
+        "precio": 4.04
+    },
+    {
+        "nombre": "Mirador Omnis Santa Cruz de Tenerife",
+        "ciudad": "Santa Cruz de Tenerife",
+        "tipo": "Mirador",
+        "horario_apertura": "8:00-20:00",
+        "precio": 18.8
+    },
+    {
+        "nombre": "Playa Temporibus Melilla",
+        "ciudad": "Melilla",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-22:00",
+        "precio": 6.79
+    },
+    {
+        "nombre": "Museo Quibusdam Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Museo",
+        "horario_apertura": "8:00-22:00",
+        "precio": 4.91
+    },
+    {
+        "nombre": "Castillo Omnis Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Castillo",
+        "horario_apertura": "10:00-19:00",
+        "precio": 13.99
+    },
+    {
+        "nombre": "Castillo Corrupti Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Castillo",
+        "horario_apertura": "8:00-18:00",
+        "precio": -0.23
+    },
+    {
+        "nombre": "Monumento Blanditiis Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Monumento",
+        "horario_apertura": "10:00-20:00",
+        "precio": 16.31
+    },
+    {
+        "nombre": "Mirador Ducimus Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Mirador",
+        "horario_apertura": "8:00-20:00",
+        "precio": 8.03
+    },
+    {
+        "nombre": "Palacio Corrupti Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Palacio",
+        "horario_apertura": "10:00-21:00",
+        "precio": 11.55
+    },
+    {
+        "nombre": "Mirador Nam Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Mirador",
+        "horario_apertura": "9:00-19:00",
+        "precio": 17.65
+    },
+    {
+        "nombre": "Catedral Non Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Catedral",
+        "horario_apertura": "10:00-20:00",
+        "precio": 21.12
+    },
+    {
+        "nombre": "Mirador Eligendi Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Mirador",
+        "horario_apertura": "8:00-21:00",
+        "precio": 20.53
+    },
+    {
+        "nombre": "Museo Natus Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-19:00",
+        "precio": 7.7
+    },
+    {
+        "nombre": "Monumento Iure Palma de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "tipo": "Monumento",
+        "horario_apertura": "10:00-18:00",
+        "precio": 3.1
+    },
+    {
+        "nombre": "Parque Natural At Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Parque Natural",
+        "horario_apertura": "9:00-21:00",
+        "precio": 15.05
+    },
+    {
+        "nombre": "Monumento Ipsum Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-22:00",
+        "precio": 14.14
+    },
+    {
+        "nombre": "Plaza Laboriosam Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-18:00",
+        "precio": 7.42
+    },
+    {
+        "nombre": "Monumento Sed Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-19:00",
+        "precio": 13.97
+    },
+    {
+        "nombre": "Parque Urbano Placeat Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "8:00-20:00",
+        "precio": 12.09
+    },
+    {
+        "nombre": "Museo Error Santander",
+        "ciudad": "Santander",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-19:00",
+        "precio": 11.63
+    },
+    {
+        "nombre": "Monumento Voluptates Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-19:00",
+        "precio": 16.89
+    },
+    {
+        "nombre": "Parque Urbano Pariatur Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "9:00-20:00",
+        "precio": 8.08
+    },
+    {
+        "nombre": "Mirador Cum Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-21:00",
+        "precio": 5.35
+    },
+    {
+        "nombre": "Monumento Hic Vitoria",
+        "ciudad": "Vitoria",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-22:00",
+        "precio": 9.81
+    },
+    {
+        "nombre": "Parque Natural Odit Zaragoza",
+        "ciudad": "Zaragoza",
+        "tipo": "Parque Natural",
+        "horario_apertura": "10:00-20:00",
+        "precio": 17.77
+    },
+    {
+        "nombre": "Catedral Amet Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-21:00",
+        "precio": 9.72
+    },
+    {
+        "nombre": "Parque Urbano Quisquam Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "9:00-19:00",
+        "precio": 8.21
+    },
+    {
+        "nombre": "Plaza Dolor Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-20:00",
+        "precio": 9.3
+    },
+    {
+        "nombre": "Mirador Optio Palma de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "tipo": "Mirador",
+        "horario_apertura": "8:00-19:00",
+        "precio": 16.51
+    },
+    {
+        "nombre": "Castillo Dignissimos Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Castillo",
+        "horario_apertura": "10:00-21:00",
+        "precio": 12.89
+    },
+    {
+        "nombre": "Palacio Tempore Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Palacio",
+        "horario_apertura": "10:00-21:00",
+        "precio": 10.82
+    },
+    {
+        "nombre": "Monumento Error Las Palmas de Gran Canaria",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-18:00",
+        "precio": 10.18
+    },
+    {
+        "nombre": "Mirador Ipsum Melilla",
+        "ciudad": "Melilla",
+        "tipo": "Mirador",
+        "horario_apertura": "8:00-18:00",
+        "precio": 16.99
+    },
+    {
+        "nombre": "Playa Reiciendis Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Playa",
+        "horario_apertura": "8:00-19:00",
+        "precio": 11.97
+    },
+    {
+        "nombre": "Mirador Aliquid Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Mirador",
+        "horario_apertura": "9:00-20:00",
+        "precio": 3.93
+    },
+    {
+        "nombre": "Parque Urbano Sapiente Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "9:00-20:00",
+        "precio": 12.04
+    },
+    {
+        "nombre": "Mirador Modi Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-22:00",
+        "precio": 12.72
+    },
+    {
+        "nombre": "Parque Natural Assumenda Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Parque Natural",
+        "horario_apertura": "10:00-22:00",
+        "precio": 21.19
+    },
+    {
+        "nombre": "Castillo Magni Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Castillo",
+        "horario_apertura": "9:00-20:00",
+        "precio": 8.05
+    },
+    {
+        "nombre": "Museo Non Santander",
+        "ciudad": "Santander",
+        "tipo": "Museo",
+        "horario_apertura": "8:00-20:00",
+        "precio": 7.82
+    },
+    {
+        "nombre": "Museo Pariatur Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-20:00",
+        "precio": 11.72
+    },
+    {
+        "nombre": "Catedral Error Santander",
+        "ciudad": "Santander",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-18:00",
+        "precio": 3.26
+    },
+    {
+        "nombre": "Catedral Asperiores Las Palmas de Gran Canaria",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-18:00",
+        "precio": 3.32
+    },
+    {
+        "nombre": "Catedral Error Oviedo",
+        "ciudad": "Oviedo",
+        "tipo": "Catedral",
+        "horario_apertura": "10:00-21:00",
+        "precio": 10.99
+    },
+    {
+        "nombre": "Playa Adipisci Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-21:00",
+        "precio": 15.68
+    },
+    {
+        "nombre": "Monumento Vitae Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-22:00",
+        "precio": 6.22
+    },
+    {
+        "nombre": "Mirador Nisi Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Mirador",
+        "horario_apertura": "8:00-19:00",
+        "precio": 13.85
+    },
+    {
+        "nombre": "Museo Fugit Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-19:00",
+        "precio": -0.98
+    },
+    {
+        "nombre": "Palacio Explicabo Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Palacio",
+        "horario_apertura": "10:00-18:00",
+        "precio": 12.05
+    },
+    {
+        "nombre": "Mirador Tempora Santander",
+        "ciudad": "Santander",
+        "tipo": "Mirador",
+        "horario_apertura": "9:00-19:00",
+        "precio": 17.52
+    },
+    {
+        "nombre": "Castillo Dolorum Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Castillo",
+        "horario_apertura": "9:00-19:00",
+        "precio": 13.91
+    },
+    {
+        "nombre": "Catedral Blanditiis Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Catedral",
+        "horario_apertura": "8:00-21:00",
+        "precio": 13.06
+    },
+    {
+        "nombre": "Playa Dicta Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Playa",
+        "horario_apertura": "10:00-19:00",
+        "precio": 6.65
+    },
+    {
+        "nombre": "Museo Atque Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-19:00",
+        "precio": 13.17
+    },
+    {
+        "nombre": "Playa Harum Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-22:00",
+        "precio": 13.77
+    },
+    {
+        "nombre": "Palacio Necessitatibus Palma de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "tipo": "Palacio",
+        "horario_apertura": "9:00-20:00",
+        "precio": 9.55
+    },
+    {
+        "nombre": "Parque Urbano Beatae Las Palmas de Gran Canaria",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-21:00",
+        "precio": 10.73
+    },
+    {
+        "nombre": "Parque Urbano In Santa Cruz de Tenerife",
+        "ciudad": "Santa Cruz de Tenerife",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-22:00",
+        "precio": 11.33
+    },
+    {
+        "nombre": "Plaza Odio Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-20:00",
+        "precio": 14.2
+    },
+    {
+        "nombre": "Playa Nihil Las Palmas de Gran Canaria",
+        "ciudad": "Las Palmas de Gran Canaria",
+        "tipo": "Playa",
+        "horario_apertura": "8:00-22:00",
+        "precio": 12.53
+    },
+    {
+        "nombre": "Museo Qui Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Museo",
+        "horario_apertura": "10:00-21:00",
+        "precio": 8.86
+    },
+    {
+        "nombre": "Mirador Error Barcelona",
+        "ciudad": "Barcelona",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-22:00",
+        "precio": 14.13
+    },
+    {
+        "nombre": "Parque Urbano Velit Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-21:00",
+        "precio": 10.41
+    },
+    {
+        "nombre": "Parque Natural Facilis Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Parque Natural",
+        "horario_apertura": "9:00-18:00",
+        "precio": 9.03
+    },
+    {
+        "nombre": "Parque Natural Ea Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Parque Natural",
+        "horario_apertura": "10:00-20:00",
+        "precio": 11.7
+    },
+    {
+        "nombre": "Catedral Asperiores Murcia",
+        "ciudad": "Murcia",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-20:00",
+        "precio": 7.34
+    },
+    {
+        "nombre": "Monumento Consectetur Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-18:00",
+        "precio": 17.55
+    },
+    {
+        "nombre": "Plaza Nobis Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Plaza",
+        "horario_apertura": "8:00-22:00",
+        "precio": -0.21
+    },
+    {
+        "nombre": "Catedral Laboriosam Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-18:00",
+        "precio": 13.75
+    },
+    {
+        "nombre": "Castillo In Zaragoza",
+        "ciudad": "Zaragoza",
+        "tipo": "Castillo",
+        "horario_apertura": "9:00-22:00",
+        "precio": 8.3
+    },
+    {
+        "nombre": "Catedral Doloremque Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Catedral",
+        "horario_apertura": "8:00-19:00",
+        "precio": 10.78
+    },
+    {
+        "nombre": "Parque Natural Eius Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Parque Natural",
+        "horario_apertura": "10:00-21:00",
+        "precio": 11.92
+    },
+    {
+        "nombre": "Palacio Laudantium Santander",
+        "ciudad": "Santander",
+        "tipo": "Palacio",
+        "horario_apertura": "8:00-18:00",
+        "precio": 11.08
+    },
+    {
+        "nombre": "Castillo Nihil Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Castillo",
+        "horario_apertura": "10:00-19:00",
+        "precio": 12.59
+    },
+    {
+        "nombre": "Catedral Perspiciatis Santa Cruz de Tenerife",
+        "ciudad": "Santa Cruz de Tenerife",
+        "tipo": "Catedral",
+        "horario_apertura": "8:00-18:00",
+        "precio": 7.57
+    },
+    {
+        "nombre": "Monumento Pariatur Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Monumento",
+        "horario_apertura": "8:00-20:00",
+        "precio": 17.07
+    },
+    {
+        "nombre": "Mirador Quidem Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-20:00",
+        "precio": 8.18
+    },
+    {
+        "nombre": "Castillo Voluptas Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Castillo",
+        "horario_apertura": "9:00-20:00",
+        "precio": 12.57
+    },
+    {
+        "nombre": "Museo Dolorem Pamplona",
+        "ciudad": "Pamplona",
+        "tipo": "Museo",
+        "horario_apertura": "8:00-19:00",
+        "precio": 12.24
+    },
+    {
+        "nombre": "Mirador Voluptatem Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Mirador",
+        "horario_apertura": "10:00-19:00",
+        "precio": 14.01
+    },
+    {
+        "nombre": "Parque Urbano Nostrum Palma de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "tipo": "Parque Urbano",
+        "horario_apertura": "10:00-18:00",
+        "precio": 10.85
+    },
+    {
+        "nombre": "Museo Libero Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Museo",
+        "horario_apertura": "8:00-18:00",
+        "precio": 8.85
+    },
+    {
+        "nombre": "Catedral Voluptate Ceuta",
+        "ciudad": "Ceuta",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-19:00",
+        "precio": 1.96
+    },
+    {
+        "nombre": "Catedral Rem Madrid",
+        "ciudad": "Madrid",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-18:00",
+        "precio": 11.91
+    },
+    {
+        "nombre": "Palacio Molestias Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Palacio",
+        "horario_apertura": "8:00-22:00",
+        "precio": 12.13
+    },
+    {
+        "nombre": "Monumento Accusamus Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Monumento",
+        "horario_apertura": "9:00-19:00",
+        "precio": 14.21
+    },
+    {
+        "nombre": "Playa Ratione Toledo",
+        "ciudad": "Toledo",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-21:00",
+        "precio": 8.17
+    },
+    {
+        "nombre": "Playa Saepe Santander",
+        "ciudad": "Santander",
+        "tipo": "Playa",
+        "horario_apertura": "10:00-21:00",
+        "precio": 18.69
+    },
+    {
+        "nombre": "Monumento Eius Bilbao",
+        "ciudad": "Bilbao",
+        "tipo": "Monumento",
+        "horario_apertura": "10:00-18:00",
+        "precio": 12.13
+    },
+    {
+        "nombre": "Playa Autem Palma de Mallorca",
+        "ciudad": "Palma de Mallorca",
+        "tipo": "Playa",
+        "horario_apertura": "9:00-20:00",
+        "precio": 7.87
+    },
+    {
+        "nombre": "Museo Vel Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Museo",
+        "horario_apertura": "9:00-20:00",
+        "precio": 13.76
+    },
+    {
+        "nombre": "Monumento Repellendus Sevilla",
+        "ciudad": "Sevilla",
+        "tipo": "Monumento",
+        "horario_apertura": "8:00-18:00",
+        "precio": 18.97
+    },
+    {
+        "nombre": "Castillo Sint Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Castillo",
+        "horario_apertura": "9:00-21:00",
+        "precio": 15.34
+    },
+    {
+        "nombre": "Castillo Dignissimos Valencia",
+        "ciudad": "Valencia",
+        "tipo": "Castillo",
+        "horario_apertura": "9:00-19:00",
+        "precio": 4.48
+    },
+    {
+        "nombre": "Catedral Iste Logrono",
+        "ciudad": "Logrono",
+        "tipo": "Catedral",
+        "horario_apertura": "9:00-21:00",
+        "precio": 17.33
+    },
+    {
+        "nombre": "Monumento Vel Malaga",
+        "ciudad": "Malaga",
+        "tipo": "Monumento",
+        "horario_apertura": "8:00-18:00",
+        "precio": 9.66
+    }
+]
